@@ -5,18 +5,26 @@ import classNames from 'classnames';
 import sampleCourses from './data/POL';
 
 const CourseButton = (isAdded) => {
-  let buttonClasses = classNames({
-    'input-reset sans-serif pointer mt3 db pv2 w-100 f6 ba bw1 b--black grow': true,
+  let buttonOuterClasses = classNames({
+    'input-reset sans-serif pointer mt3 db pv2 w-100 f6 ba bw1 b--black grow relative': true,
     'bg-light-red': isAdded,
     'bg-light-green': !isAdded
   });
 
-  let buttonContent = (isAdded)
-    ? '− Not cool!'
-    : '+ I’m interested!';
+  let buttonIconClasses = classNames({
+    'absolute left-0 pa2 bg-black-60 br b--black bw1 white top-0 b': true
+  });
+
+  let buttonIconContent = (isAdded)
+    ? '−'
+    : '+';
+
+  let buttonTextContent = (isAdded)
+    ? 'Not cool!'
+    : 'I’m interested!';
 
   return (
-    <button className={buttonClasses}>{buttonContent}</button>
+    <button className={buttonOuterClasses}><span className={buttonIconClasses}>{buttonIconContent}</span> {buttonTextContent}</button>
   )
 };
 

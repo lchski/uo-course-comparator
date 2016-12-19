@@ -12,7 +12,7 @@ const CourseInfo = (course) => {
         <li className="gray dib f6">{course.code}</li>
       </ul>
 
-      <button className="input-reset sans-serif pointer mt3 db pv2 w-100 f6 bg-white ba bw1 b--black"><span>+</span> I’m interested!</button>
+      <button className="input-reset sans-serif pointer mt3 db pv2 w-100 f6 bg-white ba bw1 b--black grow"><span>+</span> I’m interested!</button>
     </div>
   )
 };

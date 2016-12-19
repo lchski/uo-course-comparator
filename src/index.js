@@ -20,26 +20,26 @@ const sampleCourses = [
   }
 ];
 
-// !IMPORTANT! Remove the Math.random() when set up in proper components
-
-const Course = (course) => {
+const CourseInfo = (course) => {
   return (
-    <li className="b--black-30 pv3 mt2" key={course.code + Math.random()}>
-      <h3 className="bb bw1 pb1 lh-title mt0">{course.title}</h3>
-
+    <div>
       <p className="lh-copy serif mb0">{course.description}</p>
 
-      <ul className="list pl0 mt2">
+      <ul className="list pl0 mt2 pb4">
         <li className="gray dib f6">{course.code}</li>
       </ul>
-    </li>
+    </div>
   )
 };
 
-const CourseClosed = (course) => {
+// !IMPORTANT! Remove the Math.random() when set up in proper components
+
+const Course = (course, isOpen = true) => {
   return (
-    <li className="b--black-30 pv3 mt2" key={course.code + Math.random()}>
+    <li className="b--black-30 pv1 mt2" key={course.code + Math.random()}>
       <h3 className="bb bw1 pb1 lh-title mt0">{course.title}</h3>
+
+      {isOpen ? CourseInfo(course) : null}
     </li>
   )
 };
@@ -56,15 +56,19 @@ const app = (
     </select>
 
     <div className="pv3">
-      <h2 className="lh-title mb0">Political Science</h2>
+      <h2 className="lh-title">Political Science</h2>
 
-      <ol className="list pl0 mt1">
-        {CourseClosed(sampleCourses[0])}
-        {CourseClosed(sampleCourses[1])}
+      <ol className="list pl0 mt4">
+        {Course(sampleCourses[0], false)}
+        {Course(sampleCourses[1], false)}
         {Course(sampleCourses[0])}
-        {CourseClosed(sampleCourses[0])}
         {Course(sampleCourses[1])}
-        {CourseClosed(sampleCourses[0])}
+        {Course(sampleCourses[0])}
+        {Course(sampleCourses[0], false)}
+        {Course(sampleCourses[1], false)}
+        {Course(sampleCourses[0], false)}
+        {Course(sampleCourses[1])}
+        {Course(sampleCourses[0], false)}
       </ol>
     </div>
   </div>

@@ -62,24 +62,24 @@ const app = (
         </div>
 
         <div className="measure black-80 mt3">
-          <p className="f6 b db">Year</p>
+          <p className="f6 b db ma0">Year</p>
 
-          <div className="inline-flex items-center mr2">
+          <div className="inline-flex items-center mr2 mt2">
             <label htmlFor="year-1" className="mr1">1</label>
             <input type="checkbox" name="year" id="year-1" checked/>
           </div>
 
-          <div className="inline-flex items-center mr2">
+          <div className="inline-flex items-center mr2 mt2">
             <label htmlFor="year-2" className="mr1">2</label>
             <input type="checkbox" name="year" id="year-2" checked/>
           </div>
 
-          <div className="inline-flex items-center mr2">
+          <div className="inline-flex items-center mr2 mt2">
             <label htmlFor="year-3" className="mr1">3</label>
             <input type="checkbox" name="year" id="year-3" checked/>
           </div>
 
-          <div className="inline-flex items-center mr2">
+          <div className="inline-flex items-center mr2 mt2">
             <label htmlFor="year-4" className="mr1">4</label>
             <input type="checkbox" name="year" id="year-4" checked/>
           </div>

@@ -47,9 +47,14 @@ const app = (
       <div className="ph2 pv3 bg-light-gray mt4">
         <h3 className="mt0">Filters</h3>
 
-        <div className="measure black-80">
+        <div className="measure black-80 mt3">
+          <label className="f6 b db" htmlFor="search" >Search</label>
+          <input className="input-reset ba b--black-20 pa2 mt2 db w-100 f6 sans-serif" type="text" id="search"/>
+        </div>
+
+        <div className="measure black-80 mt3">
           <label className="f6 b db" htmlFor="language">Language</label>
-          <select className="w-100 mt1" id="language">
+          <select className="w-100 mt2" id="language">
             <option value="Either">Either</option>
             <option value="English">English</option>
             <option value="French">French</option>

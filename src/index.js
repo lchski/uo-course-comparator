@@ -134,6 +134,12 @@ const app = (
   <div className="pa4 sans-serif">
     <h1 className="bb bw2 pb2 lh-title">UO Course Comparator</h1>
 
+    <nav>
+      <a className="dim dark-red mr2" href="#">Select courses</a>
+      <span className="mr2 gray">/</span>
+      <a className="dim dark-red" href="#">View selections</a>
+    </nav>
+
     {CourseSelector()}
   </div>
 );

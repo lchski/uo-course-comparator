@@ -17,11 +17,9 @@ const CourseInfo = (course) => {
   )
 };
 
-// !IMPORTANT! Remove the Math.random() when set up in proper components
-
 const Course = (course, isOpen = true) => {
   return (
-    <li className="b--black-30 pv1 mt2" key={course.code + Math.random()}>
+    <li className="b--black-30 pv1 mt2" key={course.code}>
       <h3 className="bb bw1 pb1 lh-title mt0">{course.title}</h3>
 
       {isOpen ? CourseInfo(course) : null}

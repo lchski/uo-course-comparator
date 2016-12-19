@@ -4,6 +4,22 @@ import classNames from 'classnames';
 
 import sampleCourses from './data/POL';
 
+const CourseButton = (isAdded) => {
+  let buttonClasses = classNames({
+    'input-reset sans-serif pointer mt3 db pv2 w-100 f6 ba bw1 b--black grow': true,
+    'bg-light-red': isAdded,
+    'bg-light-green': !isAdded
+  });
+
+  let buttonContent = (isAdded)
+    ? '− Not cool!'
+    : '+ I’m interested!';
+
+  return (
+    <button className={buttonClasses}>{buttonContent}</button>
+  )
+};
+
 const CourseInfo = (course) => {
   return (
     <div className="pb4">
@@ -13,7 +29,7 @@ const CourseInfo = (course) => {
         <li className="gray dib f6">{course.code}</li>
       </ul>
 
-      <button className="input-reset sans-serif pointer mt3 db pv2 w-100 f6 bg-light-green ba bw1 b--black grow"><span>+</span> I’m interested!</button>
+      {CourseButton(Math.random() >= 0.5)}
     </div>
   )
 };

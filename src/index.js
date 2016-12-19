@@ -128,7 +128,7 @@ const CourseSelector = () => {
       </div>
     </div>
   )
-}
+};
 
 const app = (
   <div className="pa4 sans-serif">

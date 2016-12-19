@@ -50,16 +50,6 @@ const app = (
         {
           sampleCourses.map((course) => Course(course, Math.random() >= 0.5))
         }
-        {/*{Course(sampleCourses[0], false)}*/}
-        {/*{Course(sampleCourses[1], false)}*/}
-        {/*{Course(sampleCourses[0])}*/}
-        {/*{Course(sampleCourses[1])}*/}
-        {/*{Course(sampleCourses[0])}*/}
-        {/*{Course(sampleCourses[0], false)}*/}
-        {/*{Course(sampleCourses[1], false)}*/}
-        {/*{Course(sampleCourses[0], false)}*/}
-        {/*{Course(sampleCourses[1])}*/}
-        {/*{Course(sampleCourses[0], false)}*/}
       </ol>
     </div>
   </div>

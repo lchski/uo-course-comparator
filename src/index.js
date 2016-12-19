@@ -53,34 +53,39 @@ const app = (
         </div>
 
         <div className="measure black-80 mt3">
-          <label className="f6 b db" htmlFor="language">Language</label>
-          <select className="w-100 mt2" id="language">
-            <option value="Either">Either</option>
-            <option value="English">English</option>
-            <option value="French">French</option>
-          </select>
+          <p className="f6 b db ma0">Language</p>
+
+          <div className="inline-flex items-center mr2 mt2">
+            <label htmlFor="language--english" className="mr1 lh-copy f6">English</label>
+            <input type="checkbox" name="language" id="language--english" checked/>
+          </div>
+
+          <div className="inline-flex items-center mr2 mt2">
+            <label htmlFor="language--french" className="mr1 lh-copy f6">French</label>
+            <input type="checkbox" name="language" id="language--french" checked/>
+          </div>
         </div>
 
         <div className="measure black-80 mt3">
           <p className="f6 b db ma0">Year</p>
 
           <div className="inline-flex items-center mr2 mt2">
-            <label htmlFor="year-1" className="mr1">1</label>
+            <label htmlFor="year-1" className="mr1 lh-copy f6">1</label>
             <input type="checkbox" name="year" id="year-1" checked/>
           </div>
 
           <div className="inline-flex items-center mr2 mt2">
-            <label htmlFor="year-2" className="mr1">2</label>
+            <label htmlFor="year-2" className="mr1 lh-copy f6">2</label>
             <input type="checkbox" name="year" id="year-2" checked/>
           </div>
 
           <div className="inline-flex items-center mr2 mt2">
-            <label htmlFor="year-3" className="mr1">3</label>
+            <label htmlFor="year-3" className="mr1 lh-copy f6">3</label>
             <input type="checkbox" name="year" id="year-3" checked/>
           </div>
 
           <div className="inline-flex items-center mr2 mt2">
-            <label htmlFor="year-4" className="mr1">4</label>
+            <label htmlFor="year-4" className="mr1 lh-copy f6">4</label>
             <input type="checkbox" name="year" id="year-4" checked/>
           </div>
         </div>

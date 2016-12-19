@@ -136,6 +136,27 @@ const CourseSelector = () => {
   )
 };
 
+const SelectedCourseViewer = () => {
+  return (
+    <div>
+      <p className="measure-narrow lh-copy">Listed below are the courses you’ve marked as interesting.</p>
+
+      <div>
+        <button className="input-reset f6 pa2 sans-serif pointer bg-light-gray ba b--black">expand all</button>
+        <button className="input-reset f6 pa2 sans-serif pointer bg-light-gray ba b--black ml2">close all</button>
+
+        {CourseFilters()}
+
+        <ol className="list pl0 mt4">
+          {
+            sampleCourses.map((course) => Course(course, Math.random() >= 0.5))
+          }
+        </ol>
+      </div>
+    </div>
+  )
+};
+
 const app = (
   <div className="pa4 sans-serif">
     <h1 className="bb bw2 pb2 lh-title">UO Course Comparator</h1>
@@ -146,7 +167,7 @@ const app = (
       <a className="dim dark-red" href="#">View selections</a>
     </nav>
 
-    {CourseSelector()}
+    {SelectedCourseViewer()}
   </div>
 );
 

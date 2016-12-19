@@ -25,7 +25,7 @@ const Course = (course, isOpen = true) => {
   });
 
   return (
-    <li className="b--black-30 pv1 mt2 relative" key={course.code}>
+    <li className="b--black-30 pv1 mt2 measure" key={course.code}>
       <h3 className={headerClasses}>{course.title}</h3>
 
       {isOpen ? CourseInfo(course) : null}

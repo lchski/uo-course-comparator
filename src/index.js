@@ -38,12 +38,12 @@ const app = (
         {
           sampleCourses.map((course) => {
             return (
-              <li className="b--black-30 pv3" key={course.code}>
+              <li className="b--black-30 pv3 mt2" key={course.code}>
                 <h3 className="bb bw1 pb1 lh-title mt0">{course.title}</h3>
-                <p className="lh-copy">{course.description}</p>
+                <p className="lh-copy serif mb0">{course.description}</p>
 
-                <ul className="list pl0">
-                  <li className="gray dib">{course.code}</li>
+                <ul className="list pl0 mt2">
+                  <li className="gray dib f6">{course.code}</li>
                 </ul>
               </li>
             )

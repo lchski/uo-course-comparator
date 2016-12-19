@@ -20,6 +20,30 @@ const sampleCourses = [
   }
 ];
 
+// !IMPORTANT! Remove the Math.random() when set up in proper components
+
+const Course = (course) => {
+  return (
+    <li className="b--black-30 pv3 mt2" key={course.code + Math.random()}>
+      <h3 className="bb bw1 pb1 lh-title mt0">{course.title}</h3>
+
+      <p className="lh-copy serif mb0">{course.description}</p>
+
+      <ul className="list pl0 mt2">
+        <li className="gray dib f6">{course.code}</li>
+      </ul>
+    </li>
+  )
+};
+
+const CourseClosed = (course) => {
+  return (
+    <li className="b--black-30 pv3 mt2" key={course.code + Math.random()}>
+      <h3 className="bb bw1 pb1 lh-title mt0">{course.title}</h3>
+    </li>
+  )
+};
+
 const app = (
   <div className="pa4 sans-serif">
     <h1 className="bb bw2 pb2 lh-title">UO Course Comparator</h1>
@@ -35,23 +59,16 @@ const app = (
       <h2 className="lh-title mb0">Political Science</h2>
 
       <ol className="list pl0 mt1">
-        {
-          sampleCourses.map((course) => {
-            return (
-              <li className="b--black-30 pv3 mt2" key={course.code}>
-                <h3 className="bb bw1 pb1 lh-title mt0">{course.title}</h3>
-                <p className="lh-copy serif mb0">{course.description}</p>
-
-                <ul className="list pl0 mt2">
-                  <li className="gray dib f6">{course.code}</li>
-                </ul>
-              </li>
-            )
-          })
-        }
+        {CourseClosed(sampleCourses[0])}
+        {CourseClosed(sampleCourses[1])}
+        {Course(sampleCourses[0])}
+        {CourseClosed(sampleCourses[0])}
+        {Course(sampleCourses[1])}
+        {CourseClosed(sampleCourses[0])}
       </ol>
     </div>
   </div>
 );
+
 
 render( app, document.getElementById('root') );

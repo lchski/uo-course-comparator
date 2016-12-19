@@ -1,24 +1,7 @@
 import React from 'react';
 import { render } from 'react-dom';
 
-const sampleCourses = [
-  {
-    "code": "POL1101",
-    "description": "Comparative study of the ideas, concepts and issues leading to an understanding of political phenomena and of their impact on the lives of individuals and societies. Reflection on power, citizenship and political participation. Introduction to research tasks (e.g. bibliographic research, writing a research or reading report).",
-    "language": "English",
-    "restriction": "",
-    "title": "Introduction to Political Science",
-    "year": "1"
-  },
-  {
-    "code": "POL1102",
-    "description": "Understanding globalization in its political, economic, social and cultural dimensions. Relationship between globalization and politics: new roles for the nation-state, international organizations, social movements, local communities. Introduction to research tasks (e.g. bibliographic research, writing a research or reading report).",
-    "language": "English",
-    "restriction": "",
-    "title": "Politics and Globalization",
-    "year": "1"
-  }
-];
+import sampleCourses from './data/POL';
 
 const CourseInfo = (course) => {
   return (
@@ -64,16 +47,19 @@ const app = (
       <button className="input-reset f6 pa2 sans-serif pointer bg-light-gray ba b--black ml2">close all</button>
 
       <ol className="list pl0 mt4">
-        {Course(sampleCourses[0], false)}
-        {Course(sampleCourses[1], false)}
-        {Course(sampleCourses[0])}
-        {Course(sampleCourses[1])}
-        {Course(sampleCourses[0])}
-        {Course(sampleCourses[0], false)}
-        {Course(sampleCourses[1], false)}
-        {Course(sampleCourses[0], false)}
-        {Course(sampleCourses[1])}
-        {Course(sampleCourses[0], false)}
+        {
+          sampleCourses.map((course) => Course(course, Math.random() >= 0.5))
+        }
+        {/*{Course(sampleCourses[0], false)}*/}
+        {/*{Course(sampleCourses[1], false)}*/}
+        {/*{Course(sampleCourses[0])}*/}
+        {/*{Course(sampleCourses[1])}*/}
+        {/*{Course(sampleCourses[0])}*/}
+        {/*{Course(sampleCourses[0], false)}*/}
+        {/*{Course(sampleCourses[1], false)}*/}
+        {/*{Course(sampleCourses[0], false)}*/}
+        {/*{Course(sampleCourses[1])}*/}
+        {/*{Course(sampleCourses[0], false)}*/}
       </ol>
     </div>
   </div>

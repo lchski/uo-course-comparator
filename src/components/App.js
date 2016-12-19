@@ -1,5 +1,5 @@
 import React from 'react';
-import { Match, Miss } from 'react-router';
+import { Link, Match, Miss } from 'react-router';
 
 import sampleCourses from '../data/POL';
 
@@ -13,9 +13,9 @@ class App extends React.Component {
         <h1 className="bb bw2 pb2 lh-title">UO Course Comparator</h1>
 
         <nav>
-          <a className="dim dark-red mr2" href="#">Select courses</a>
+          <Link className="dim dark-red mr2" to="/">Select courses</Link>
           <span className="mr2 gray">/</span>
-          <a className="dim dark-red" href="#">View selections</a>
+          <Link className="dim dark-red" to="/interesting-courses">View selections</Link>
         </nav>
 
         <Match

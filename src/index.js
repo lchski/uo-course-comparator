@@ -49,7 +49,7 @@ const app = (
 
         <div className="measure black-80 mt3">
           <label className="f6 b db" htmlFor="search" >Search</label>
-          <input className="input-reset ba b--black-20 pa2 mt2 db w-100 f6 sans-serif" type="text" id="search"/>
+          <input className="input-reset ba b--black-20 ph2 pv1 mt2 db w-100 f6 sans-serif" type="text" id="search"/>
         </div>
 
         <div className="measure black-80 mt3">

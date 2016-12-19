@@ -1,8 +1,10 @@
 import React from 'react';
+import { Match, Miss } from 'react-router';
 
 import sampleCourses from '../data/POL';
 
 import CourseSelector from './CourseSelector';
+import SelectedCourseViewer from './SelectedCourseViewer';
 
 class App extends React.Component {
   render() {
@@ -16,7 +18,20 @@ class App extends React.Component {
           <a className="dim dark-red" href="#">View selections</a>
         </nav>
 
-        <CourseSelector courses={sampleCourses}/>
+        <Match
+          exactly
+          pattern="/"
+          render={
+            (props) => <CourseSelector {...props} courses={sampleCourses}/>
+          }
+        />
+        <Match
+          exactly
+          pattern="/interesting-courses"
+          render={
+            (props) => <SelectedCourseViewer {...props} courses={sampleCourses}/>
+          }
+        />
       </div>
     )
   }

@@ -158,7 +158,7 @@ const SelectedCourseViewer = () => {
 };
 
 class App extends React.Component {
-  static render() {
+  render() {
     return (
       <div className="pa4 sans-serif">
         <h1 className="bb bw2 pb2 lh-title">UO Course Comparator</h1>

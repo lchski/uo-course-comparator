@@ -60,6 +60,9 @@ const app = (
     <div className="pv3">
       <h2 className="lh-title">Political Science</h2>
 
+      <button className="input-reset f6 pa2 sans-serif pointer bg-light-gray ba b--black">expand all</button>
+      <button className="input-reset f6 pa2 sans-serif pointer bg-light-gray ba b--black ml2">close all</button>
+
       <ol className="list pl0 mt4">
         {Course(sampleCourses[0], false)}
         {Course(sampleCourses[1], false)}

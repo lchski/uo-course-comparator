@@ -60,7 +60,7 @@ const app = (
       <option value="POL">Political Science</option>
     </select>
 
-    <div className="pv3">
+    <div className="pv3 measure">
       <h2 className="lh-title">Political Science</h2>
 
       <button className="input-reset f6 pa2 sans-serif pointer bg-light-gray ba b--black">expand all</button>

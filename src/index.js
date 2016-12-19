@@ -44,6 +44,19 @@ const app = (
       <button className="input-reset f6 pa2 sans-serif pointer bg-light-gray ba b--black">expand all</button>
       <button className="input-reset f6 pa2 sans-serif pointer bg-light-gray ba b--black ml2">close all</button>
 
+      <div className="ph2 pv3 bg-light-gray mt4">
+        <h3 className="mt0">Filters</h3>
+
+        <div className="measure black-80">
+          <label className="f6 b db" htmlFor="language">Language</label>
+          <select className="w-100 mt1" id="language">
+            <option value="Either">Either</option>
+            <option value="English">English</option>
+            <option value="French">French</option>
+          </select>
+        </div>
+      </div>
+
       <ol className="list pl0 mt4">
         {
           sampleCourses.map((course) => Course(course, Math.random() >= 0.5))

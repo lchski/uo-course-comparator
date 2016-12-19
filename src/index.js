@@ -19,8 +19,11 @@ const CourseInfo = (course) => {
 
 const Course = (course, isOpen = true) => {
   return (
-    <li className="b--black-30 pv1 mt2" key={course.code}>
-      <h3 className="bb bw1 pb1 lh-title mt0">{course.title}</h3>
+    <li className="b--black-30 pv1 mt2 relative" key={course.code}>
+      <div className="flex mb2 w-100">
+        <span className="ph2 pv1 bg-black white self-end bb bw1 b--black">+</span>
+        <h3 className="bb bw1 pb1 lh-title mt0 mb0 w-100 pl2">{course.title}</h3>
+      </div>
 
       {isOpen ? CourseInfo(course) : null}
     </li>

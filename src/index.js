@@ -44,7 +44,7 @@ const CourseInfo = (course) => {
 
 const Course = (course, isOpen = true) => {
   let headerClasses = classNames({
-    'bb bw1 pb1 lh-title mt0': true,
+    'bb bw1 pb1 lh-title mt0 hover-black-80 pointer link': true,
     'black-50 b--black-40': !isOpen
   });
 

@@ -1,5 +1,6 @@
 import React from 'react';
 import { render } from 'react-dom';
+import classNames from 'classnames';
 
 import sampleCourses from './data/POL';
 
@@ -18,12 +19,14 @@ const CourseInfo = (course) => {
 };
 
 const Course = (course, isOpen = true) => {
+  let headerClasses = classNames({
+    'bb bw1 pb1 lh-title mt0': true,
+    'black-50 b--black-40': !isOpen
+  });
+
   return (
     <li className="b--black-30 pv1 mt2 relative" key={course.code}>
-      <div className="flex mb2 w-100">
-        <span className="ph2 pv1 bg-black white self-end bb bw1 b--black">+</span>
-        <h3 className="bb bw1 pb1 lh-title mt0 mb0 w-100 pl2">{course.title}</h3>
-      </div>
+      <h3 className={headerClasses}>{course.title}</h3>
 
       {isOpen ? CourseInfo(course) : null}
     </li>

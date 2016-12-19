@@ -1,14 +1,24 @@
 import React from 'react';
 import { render } from 'react-dom';
 
-const sampleCourse = {
-  "code": "POL1101",
-  "description": "Comparative study of the ideas, concepts and issues leading to an understanding of political phenomena and of their impact on the lives of individuals and societies. Reflection on power, citizenship and political participation. Introduction to research tasks (e.g. bibliographic research, writing a research or reading report).",
-  "language": "English",
-  "restriction": "",
-  "title": "Introduction to Political Science",
-  "year": "1"
-};
+const sampleCourses = [
+  {
+    "code": "POL1101",
+    "description": "Comparative study of the ideas, concepts and issues leading to an understanding of political phenomena and of their impact on the lives of individuals and societies. Reflection on power, citizenship and political participation. Introduction to research tasks (e.g. bibliographic research, writing a research or reading report).",
+    "language": "English",
+    "restriction": "",
+    "title": "Introduction to Political Science",
+    "year": "1"
+  },
+  {
+    "code": "POL1102",
+    "description": "Understanding globalization in its political, economic, social and cultural dimensions. Relationship between globalization and politics: new roles for the nation-state, international organizations, social movements, local communities. Introduction to research tasks (e.g. bibliographic research, writing a research or reading report).",
+    "language": "English",
+    "restriction": "",
+    "title": "Politics and Globalization",
+    "year": "1"
+  }
+];
 
 const app = (
   <div className="pa4 sans-serif">
@@ -25,14 +35,20 @@ const app = (
       <h2 className="lh-title mb0">Political Science</h2>
 
       <ol className="list pl0 mt1">
-        <li className="bb b--black-30 pv3">
-          <h3 className="bb bw1 pb1 lh-title mt0">{sampleCourse.title}</h3>
-          <p className="lh-copy">{sampleCourse.description}</p>
+        {
+          sampleCourses.map((course) => {
+            return (
+              <li className="b--black-30 pv3" key={course.code}>
+                <h3 className="bb bw1 pb1 lh-title mt0">{course.title}</h3>
+                <p className="lh-copy">{course.description}</p>
 
-          <ul className="list pl0">
-            <li className="gray dib">{sampleCourse.code}</li>
-          </ul>
-        </li>
+                <ul className="list pl0">
+                  <li className="gray dib">{course.code}</li>
+                </ul>
+              </li>
+            )
+          })
+        }
       </ol>
     </div>
   </div>

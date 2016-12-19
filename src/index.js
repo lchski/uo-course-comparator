@@ -22,12 +22,14 @@ const sampleCourses = [
 
 const CourseInfo = (course) => {
   return (
-    <div>
+    <div className="pb4">
       <p className="lh-copy serif mb0">{course.description}</p>
 
-      <ul className="list pl0 mt2 pb4">
+      <ul className="list pl0 mt2">
         <li className="gray dib f6">{course.code}</li>
       </ul>
+
+      <button className="input-reset sans-serif pointer mt3 db pv2 w-100 f6 bg-light-green bn"><span>+</span> I’m interested!</button>
     </div>
   )
 };

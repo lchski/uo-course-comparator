@@ -2,7 +2,7 @@ import React from 'react';
 
 import classNames from 'classnames';
 
-import Course from './Course';
+import Course from './Course/Course';
 
 class CourseList extends React.Component {
   constructor() {

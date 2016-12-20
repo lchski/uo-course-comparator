@@ -2,7 +2,7 @@ import React from 'react';
 
 import classNames from 'classnames';
 
-import BasicButton from './Buttons/BasicButton';
+import BasicButton from '../Buttons/BasicButton';
 
 class Course extends React.Component {
   constructor() {

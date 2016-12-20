@@ -17,7 +17,7 @@ class SelectedCourseViewer extends React.Component {
 
           <ol className="list pl0 mt4">
             {
-              this.props.courses.map((course) => <Course course={course} isOpen={Math.random() >= 0.5} isAdded={Math.random() >= 0.5}/>)
+              this.props.courses.map((course) => <Course key={course.code} course={course} isOpen={Math.random() >= 0.5} isAdded={Math.random() >= 0.5}/>)
             }
           </ol>
         </div>

@@ -11,7 +11,7 @@ const CourseInfo = (props) => {
         <li className="gray dib f6">{props.course.code}</li>
       </ul>
 
-      {CourseInterestButton(props.isAdded)}
+      <CourseInterestButton isAdded={props.isAdded}/>
     </div>
   )
 };

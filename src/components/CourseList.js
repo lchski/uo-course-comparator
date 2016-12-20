@@ -80,9 +80,7 @@ class CourseList extends React.Component {
   doesCoursePassFilters(course) {
     let fuzzySearch = new Fuse([course], {
       keys: ['title', 'description', 'code'],
-      threshold: 0.6,
-      distance: 1000,
-      maxPatternLength: 100
+      threshold: 0.5
     });
 
     let filterConditions = [

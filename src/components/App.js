@@ -7,6 +7,32 @@ import CourseSelector from './CourseSelector';
 import SelectedCourseViewer from './SelectedCourseViewer';
 
 class App extends React.Component {
+  constructor() {
+    super();
+
+    this.toggleInterestedCourse = this.toggleInterestedCourse.bind(this);
+
+    this.state = {
+      interestedCourses: []
+    };
+  }
+
+  toggleInterestedCourse(courseCode) {
+    // Grab a copy of the openCourses state
+    let interestedCourses = [...this.state.interestedCourses];
+    const courseIndex = interestedCourses.indexOf(courseCode);
+
+    if (courseIndex === -1) {
+      // If course isn't in the list (i.e. it isn't interesting), let's add it to the list
+      interestedCourses.push(courseCode);
+    } else {
+      // If the course is in the list, let's remove it
+      interestedCourses.splice(courseIndex, 1);
+    }
+
+    this.setState({ interestedCourses });
+  }
+
   render() {
     return (
       <div className="pa4 sans-serif">
@@ -22,14 +48,14 @@ class App extends React.Component {
           exactly
           pattern="/"
           render={
-            (props) => <CourseSelector {...props} courses={sampleCourses}/>
+            (props) => <CourseSelector {...props} courses={sampleCourses} toggleInterestedCourse={this.toggleInterestedCourse}/>
           }
         />
         <Match
           exactly
           pattern="/interesting-courses"
           render={
-            (props) => <SelectedCourseViewer {...props} courses={sampleCourses}/>
+            (props) => <SelectedCourseViewer {...props} courses={sampleCourses} toggleInterestedCourse={this.toggleInterestedCourse}/>
           }
         />
       </div>

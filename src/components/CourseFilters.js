@@ -39,8 +39,9 @@ class CourseFilters extends React.Component {
                   id={`language--${language}`}
                   checked={this.props.activeFilters.language.indexOf(language) !== -1}
                   onChange={(e) => this.props.alterFilterState(
-                    'UPDATE_LANGUAGE',
+                    'UPDATE_CHECKBOX',
                     {
+                      checkboxType: 'language',
                       language: language,
                       value: e.target.checked
                     }
@@ -64,8 +65,9 @@ class CourseFilters extends React.Component {
                   id={`year--${year}`}
                   checked={this.props.activeFilters.year.indexOf(year) !== -1}
                   onChange={(e) => this.props.alterFilterState(
-                    'UPDATE_YEAR',
+                    'UPDATE_CHECKBOX',
                     {
+                      checkboxType: 'year',
                       year: year,
                       value: e.target.checked
                     }

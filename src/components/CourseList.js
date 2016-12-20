@@ -61,18 +61,11 @@ class CourseList extends React.Component {
       case 'UPDATE_SEARCH':
         filters.search = payload.value;
         break;
-      case 'UPDATE_LANGUAGE':
+      case 'UPDATE_CHECKBOX':
         if (payload.value) {
-          filters.language.push(payload.language);
+          filters[payload.checkboxType].push(payload[payload.checkboxType]);
         } else {
-          filters.language.splice(filters.language.indexOf(payload.language), 1);
-        }
-        break;
-      case 'UPDATE_YEAR':
-        if (payload.value) {
-          filters.year.push(payload.year);
-        } else {
-          filters.year.splice(filters.year.indexOf(payload.year), 1);
+          filters[payload.checkboxType].splice(filters[payload.checkboxType].indexOf(payload[payload.checkboxType]), 1);
         }
         break;
       default:

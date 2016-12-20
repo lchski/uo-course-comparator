@@ -32,11 +32,11 @@ class CourseFilters extends React.Component {
           {languages.map((language) => {
             return (
               <div key={language} className="inline-flex items-center mr2 mt2">
-                <label htmlFor={'language--' + language} className="mr1 lh-copy f6">{language.charAt(0).toUpperCase() + language.slice(1)}</label>
+                <label htmlFor={`language--${language}`} className="mr1 lh-copy f6">{language.charAt(0).toUpperCase() + language.slice(1)}</label>
                 <input
                   type="checkbox"
                   name="language"
-                  id={'language--' + language}
+                  id={`language--${language}`}
                   checked={this.props.activeFilters.language.indexOf(language) !== -1}
                   onChange={(e) => this.props.alterFilterState(
                     'UPDATE_LANGUAGE',
@@ -57,11 +57,11 @@ class CourseFilters extends React.Component {
           {years.map((year) => {
             return (
               <div key={year} className="inline-flex items-center mr2 mt2">
-                <label htmlFor={'year--' + year} className="mr1 lh-copy f6">{year}</label>
+                <label htmlFor={`year--${year}`} className="mr1 lh-copy f6">{year}</label>
                 <input
                   type="checkbox"
                   name="year"
-                  id={'year--' + year}
+                  id={`year--${year}`}
                   checked={this.props.activeFilters.year.indexOf(year) !== -1}
                   onChange={(e) => this.props.alterFilterState(
                     'UPDATE_YEAR',

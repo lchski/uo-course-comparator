@@ -24,7 +24,7 @@ const CourseInterestButton = (props) => {
     : 'I’m interested!';
 
   return (
-    <BasicButton className={buttonOuterClasses}><span className={buttonIconClasses}>{buttonIconContent}</span> {buttonTextContent}</BasicButton>
+    <BasicButton className={buttonOuterClasses} onClick={props.onClick}><span className={buttonIconClasses}>{buttonIconContent}</span> {buttonTextContent}</BasicButton>
   )
 };
 

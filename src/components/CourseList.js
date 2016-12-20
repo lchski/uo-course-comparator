@@ -108,7 +108,8 @@ class CourseList extends React.Component {
           {
             this.props.courses.map((course) => {
               let isOpen = this.state.openCourses.includes(course.code);
-              let boundToggleOpenState= this.toggleOpenState.bind(null, course.code);
+              let boundToggleOpenState = this.toggleOpenState.bind(null, course.code);
+              let boundToggleInterestedCourse = this.props.toggleInterestedCourse.bind(null, course.code);
 
               if (this.doesCoursePassFilters(course)) {
                 return <Course
@@ -117,6 +118,7 @@ class CourseList extends React.Component {
                   isOpen={isOpen}
                   isAdded={Math.random() >= 0.5}
                   toggleOpenState={boundToggleOpenState}
+                  toggleInterestedCourse={boundToggleInterestedCourse}
                 />
               } else {
                 return null

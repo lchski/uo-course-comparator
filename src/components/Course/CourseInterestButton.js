@@ -7,8 +7,8 @@ import BasicButton from '../Buttons/BasicButton';
 const CourseInterestButton = (props) => {
   let buttonOuterClasses = classNames({
     'mt3 db pv2 w-100 bw1 grow relative': true,
-    'bg-light-red': props.isAdded,
-    'bg-light-green': !props.isAdded
+    'bg-light-red hover-bg-light-red': props.isAdded,
+    'bg-light-green hover-bg-light-green': !props.isAdded
   });
 
   let buttonIconClasses = classNames({

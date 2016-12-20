@@ -8,7 +8,11 @@ class SelectedCourseViewer extends React.Component {
       <div>
         <p className="measure-narrow lh-copy">Listed below are the courses you’ve marked as interesting.</p>
 
-        <CourseList courses={this.props.courses}/>
+        <CourseList
+          toggleInterestedCourse={this.props.toggleInterestedCourse}
+          interestedCourses={this.props.interestedCourses}
+          courses={this.props.courses}
+        />
       </div>
     )
   }

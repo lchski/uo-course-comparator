@@ -48,14 +48,24 @@ class App extends React.Component {
           exactly
           pattern="/"
           render={
-            (props) => <CourseSelector {...props} courses={sampleCourses} toggleInterestedCourse={this.toggleInterestedCourse}/>
+            (props) => <CourseSelector
+              {...props}
+              courses={sampleCourses}
+              toggleInterestedCourse={this.toggleInterestedCourse}
+              interestedCourses={this.state.interestedCourses}
+            />
           }
         />
         <Match
           exactly
           pattern="/interesting-courses"
           render={
-            (props) => <SelectedCourseViewer {...props} courses={sampleCourses} toggleInterestedCourse={this.toggleInterestedCourse}/>
+            (props) => <SelectedCourseViewer
+              {...props}
+              courses={sampleCourses}
+              toggleInterestedCourse={this.toggleInterestedCourse}
+              interestedCourses={this.state.interestedCourses}
+            />
           }
         />
       </div>

@@ -13,4 +13,8 @@ class BasicButton extends React.Component {
   }
 }
 
+BasicButton.defaultProps = {
+  className: ''
+};
+
 export default BasicButton;

@@ -15,13 +15,11 @@ class CourseSelector extends React.Component {
           <option value="POL">Political Science</option>
         </select>
 
-        <BasicButton className="bg-green">Hello!</BasicButton>
-
         <div className="pv3 measure">
           <h2 className="lh-title">Political Science</h2>
 
-          <button className="input-reset f6 pa2 sans-serif pointer bg-light-gray ba b--black">expand all</button>
-          <button className="input-reset f6 pa2 sans-serif pointer bg-light-gray ba b--black ml2">close all</button>
+          <BasicButton>expand all</BasicButton>
+          <BasicButton className="ml2">close all</BasicButton>
 
           <CourseFilters/>
 

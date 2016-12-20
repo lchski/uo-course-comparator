@@ -14,6 +14,12 @@ class CourseFilters extends React.Component {
             id="search"
             placeholder="Search for terms related to your interests"
             value={this.props.activeFilters.search}
+            onChange={(e) => this.props.alterFilterState(
+              'UPDATE_SEARCH',
+              {
+                value: e.target.value
+              }
+            )}
           />
         </div>
 

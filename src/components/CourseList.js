@@ -14,6 +14,7 @@ class CourseList extends React.Component {
     this.toggleOpenState = this.toggleOpenState.bind(this);
     this.openAllCourses = this.openAllCourses.bind(this);
     this.closeAllCourses = this.closeAllCourses.bind(this);
+    this.alterFilterState = this.alterFilterState.bind(this);
 
     this.state = {
       openCourses: [],
@@ -53,6 +54,18 @@ class CourseList extends React.Component {
     this.setState({ openCourses });
   }
 
+  alterFilterState(action, payload) {
+    let filters = {...this.state.filters};
+
+    switch (action) {
+      case 'UPDATE_SEARCH':
+        filters.search = payload.value;
+        break;
+    }
+
+    this.setState({ filters });
+  }
+
   render() {
     let wrapperClasses = classNames({
       [this.props.className]: true
@@ -63,7 +76,7 @@ class CourseList extends React.Component {
         <BasicButton onClick={this.openAllCourses}>expand all</BasicButton>
         <BasicButton onClick={this.closeAllCourses} className="ml2">close all</BasicButton>
 
-        <CourseFilters activeFilters={this.state.filters}/>
+        <CourseFilters activeFilters={this.state.filters} alterFilterState={this.alterFilterState}/>
 
         <ol className="list pl0 mt4">
           {

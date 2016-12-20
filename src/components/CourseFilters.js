@@ -71,6 +71,13 @@ class CourseFilters extends React.Component {
               name="year"
               id="year--1"
               checked={this.props.activeFilters.year.indexOf('1') !== -1}
+              onChange={(e) => this.props.alterFilterState(
+                'UPDATE_YEAR',
+                {
+                  year: '1',
+                  value: e.target.checked
+                }
+              )}
             />
           </div>
 
@@ -81,6 +88,14 @@ class CourseFilters extends React.Component {
               name="year"
               id="year--2"
               checked={this.props.activeFilters.year.indexOf('2') !== -1}
+              onChange={(e) => this.props.alterFilterState(
+                'UPDATE_YEAR',
+                {
+                  year: '2',
+                  value: e.target.checked
+                }
+              )}
+
             />
           </div>
 
@@ -91,6 +106,13 @@ class CourseFilters extends React.Component {
               name="year"
               id="year--3"
               checked={this.props.activeFilters.year.indexOf('3') !== -1}
+              onChange={(e) => this.props.alterFilterState(
+                'UPDATE_YEAR',
+                {
+                  year: '3',
+                  value: e.target.checked
+                }
+              )}
             />
           </div>
 
@@ -101,6 +123,13 @@ class CourseFilters extends React.Component {
               name="year"
               id="year--4"
               checked={this.props.activeFilters.year.indexOf('4') !== -1}
+              onChange={(e) => this.props.alterFilterState(
+                'UPDATE_YEAR',
+                {
+                  year: '4',
+                  value: e.target.checked
+                }
+              )}
             />
           </div>
         </div>

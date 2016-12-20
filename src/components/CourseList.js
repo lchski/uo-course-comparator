@@ -68,6 +68,13 @@ class CourseList extends React.Component {
           filters.language.splice(filters.language.indexOf(payload.language), 1);
         }
         break;
+      case 'UPDATE_YEAR':
+        if (payload.value) {
+          filters.year.push(payload.year);
+        } else {
+          filters.year.splice(filters.year.indexOf(payload.year), 1);
+        }
+        break;
       default:
         break;
     }

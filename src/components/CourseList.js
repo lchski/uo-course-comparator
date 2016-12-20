@@ -89,8 +89,6 @@ class CourseList extends React.Component {
       this.state.filters.search === '' || fuzzySearch.search(this.state.filters.search).length > 0
     ];
 
-    console.log(fuzzySearch.search(this.state.filters.search));
-
     return filterConditions.every((condition) => condition);
   }
 

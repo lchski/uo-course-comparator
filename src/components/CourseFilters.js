@@ -2,6 +2,9 @@ import React from 'react';
 
 class CourseFilters extends React.Component {
   render() {
+    const languages = ['english', 'french'];
+    const years = ['1', '2', '3', '4'];
+
     return (
       <div className="ph2 pv3 bg-light-gray mt4">
         <h3 className="mt0">Filters</h3>
@@ -26,39 +29,26 @@ class CourseFilters extends React.Component {
         <div className="measure black-80 mt3">
           <p className="f6 b db ma0">Language</p>
 
-          <div className="inline-flex items-center mr2 mt2">
-            <label htmlFor="language--english" className="mr1 lh-copy f6">English</label>
-            <input
-              type="checkbox"
-              name="language"
-              id="language--english"
-              checked={this.props.activeFilters.language.indexOf('english') !== -1}
-              onChange={(e) => this.props.alterFilterState(
-                'UPDATE_LANGUAGE',
-                {
-                  language: 'english',
-                  value: e.target.checked
-                }
-              )}
-            />
-          </div>
-
-          <div className="inline-flex items-center mr2 mt2">
-            <label htmlFor="language--french" className="mr1 lh-copy f6">French</label>
-            <input
-              type="checkbox"
-              name="language"
-              id="language--french"
-              checked={this.props.activeFilters.language.indexOf('french') !== -1}
-              onChange={(e) => this.props.alterFilterState(
-                'UPDATE_LANGUAGE',
-                {
-                  language: 'french',
-                  value: e.target.checked
-                }
-              )}
-            />
-          </div>
+          {languages.map((language) => {
+            return (
+              <div key={language} className="inline-flex items-center mr2 mt2">
+                <label htmlFor={'language--' + language} className="mr1 lh-copy f6">{language.charAt(0).toUpperCase() + language.slice(1)}</label>
+                <input
+                  type="checkbox"
+                  name="language"
+                  id={'language--' + language}
+                  checked={this.props.activeFilters.language.indexOf(language) !== -1}
+                  onChange={(e) => this.props.alterFilterState(
+                    'UPDATE_LANGUAGE',
+                    {
+                      language: language,
+                      value: e.target.checked
+                    }
+                  )}
+                />
+              </div>
+            )
+          }, this)}
         </div>
 
         <div className="measure black-80 mt3">

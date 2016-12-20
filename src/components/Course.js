@@ -58,7 +58,7 @@ class Course extends React.Component {
 
     return (
       <li className="b--black-30 pv1 mt2 measure" key={this.props.course.code}>
-        <h3 className={headerClasses}>{this.props.course.title}</h3>
+        <h3 className={headerClasses} onClick={this.props.toggleOpenState}>{this.props.course.title}</h3>
 
         {this.props.isOpen ? this.renderCourseInfo() : null}
       </li>

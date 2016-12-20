@@ -42,12 +42,14 @@ class CourseList extends React.Component {
         {
           this.props.courses.map((course) => {
             let isOpen = this.state.openCourses.includes(course.code);
+            let boundToggleOpenState= this.toggleOpenState.bind(null, course.code);
 
             return <Course
               key={course.code}
               course={course}
               isOpen={isOpen}
               isAdded={Math.random() >= 0.5}
+              toggleOpenState={boundToggleOpenState}
             />
           })
         }

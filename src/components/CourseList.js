@@ -15,6 +15,7 @@ class CourseList extends React.Component {
     this.openAllCourses = this.openAllCourses.bind(this);
     this.closeAllCourses = this.closeAllCourses.bind(this);
     this.alterFilterState = this.alterFilterState.bind(this);
+    this.doesCoursePassFilters = this.doesCoursePassFilters.bind(this);
 
     this.state = {
       openCourses: [],
@@ -75,6 +76,15 @@ class CourseList extends React.Component {
     this.setState({ filters });
   }
 
+  doesCoursePassFilters(course) {
+    let filterConditions = [
+      this.state.filters.language.indexOf(course.language.toLowerCase()) !== -1,
+      this.state.filters.year.indexOf(course.year) !== -1
+    ];
+
+    return filterConditions.every((condition) => condition);
+  }
+
   render() {
     let wrapperClasses = classNames({
       [this.props.className]: true
@@ -93,13 +103,17 @@ class CourseList extends React.Component {
               let isOpen = this.state.openCourses.includes(course.code);
               let boundToggleOpenState= this.toggleOpenState.bind(null, course.code);
 
-              return <Course
-                key={course.code}
-                course={course}
-                isOpen={isOpen}
-                isAdded={Math.random() >= 0.5}
-                toggleOpenState={boundToggleOpenState}
-              />
+              if (this.doesCoursePassFilters(course)) {
+                return <Course
+                  key={course.code}
+                  course={course}
+                  isOpen={isOpen}
+                  isAdded={Math.random() >= 0.5}
+                  toggleOpenState={boundToggleOpenState}
+                />
+              } else {
+                return null
+              }
             })
           }
         </ol>

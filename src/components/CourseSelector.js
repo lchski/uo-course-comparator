@@ -1,8 +1,6 @@
 import React from 'react';
 
-import CourseFilters from './CourseFilters';
 import CourseList from './CourseList';
-import BasicButton from './Buttons/BasicButton';
 
 class CourseSelector extends React.Component {
   render() {
@@ -17,11 +15,6 @@ class CourseSelector extends React.Component {
 
         <div className="pv3 measure">
           <h2 className="lh-title">Political Science</h2>
-
-          <BasicButton>expand all</BasicButton>
-          <BasicButton className="ml2">close all</BasicButton>
-
-          <CourseFilters/>
 
           <CourseList courses={this.props.courses} className="mt4"/>
         </div>

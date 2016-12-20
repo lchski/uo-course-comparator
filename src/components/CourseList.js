@@ -2,6 +2,9 @@ import React from 'react';
 
 import classNames from 'classnames';
 
+import CourseFilters from './CourseFilters';
+import BasicButton from './Buttons/BasicButton';
+
 import Course from './Course/Course';
 
 class CourseList extends React.Component {
@@ -32,28 +35,34 @@ class CourseList extends React.Component {
   }
 
   render() {
-    let listClasses = classNames({
-      'list pl0': true,
+    let wrapperClasses = classNames({
       [this.props.className]: true
     });
 
     return (
-      <ol className={listClasses}>
-        {
-          this.props.courses.map((course) => {
-            let isOpen = this.state.openCourses.includes(course.code);
-            let boundToggleOpenState= this.toggleOpenState.bind(null, course.code);
+      <div className={wrapperClasses}>
+        <BasicButton>expand all</BasicButton>
+        <BasicButton className="ml2">close all</BasicButton>
 
-            return <Course
-              key={course.code}
-              course={course}
-              isOpen={isOpen}
-              isAdded={Math.random() >= 0.5}
-              toggleOpenState={boundToggleOpenState}
-            />
-          })
-        }
-      </ol>
+        <CourseFilters/>
+
+        <ol className="list pl0">
+          {
+            this.props.courses.map((course) => {
+              let isOpen = this.state.openCourses.includes(course.code);
+              let boundToggleOpenState= this.toggleOpenState.bind(null, course.code);
+
+              return <Course
+                key={course.code}
+                course={course}
+                isOpen={isOpen}
+                isAdded={Math.random() >= 0.5}
+                toggleOpenState={boundToggleOpenState}
+              />
+            })
+          }
+        </ol>
+      </div>
     )
   }
 }

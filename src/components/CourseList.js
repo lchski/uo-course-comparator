@@ -46,7 +46,7 @@ class CourseList extends React.Component {
 
         <CourseFilters/>
 
-        <ol className="list pl0">
+        <ol className="list pl0 mt4">
           {
             this.props.courses.map((course) => {
               let isOpen = this.state.openCourses.includes(course.code);

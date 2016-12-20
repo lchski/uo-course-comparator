@@ -16,7 +16,7 @@ class CourseSelector extends React.Component {
         <div className="pv3 measure">
           <h2 className="lh-title">Political Science</h2>
 
-          <CourseList courses={this.props.courses} className="mt4"/>
+          <CourseList courses={this.props.courses}/>
         </div>
       </div>
     )

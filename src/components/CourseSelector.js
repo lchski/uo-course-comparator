@@ -2,6 +2,7 @@ import React from 'react';
 
 import CourseFilters from './CourseFilters';
 import Course from './Course';
+import BasicButton from './Buttons/BasicButton';
 
 class CourseSelector extends React.Component {
   render() {
@@ -13,6 +14,8 @@ class CourseSelector extends React.Component {
         <select id="department" className="w-100 mt2">
           <option value="POL">Political Science</option>
         </select>
+
+        <BasicButton className="bg-green">Hello!</BasicButton>
 
         <div className="pv3 measure">
           <h2 className="lh-title">Political Science</h2>

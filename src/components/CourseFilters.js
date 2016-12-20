@@ -54,74 +54,26 @@ class CourseFilters extends React.Component {
         <div className="measure black-80 mt3">
           <p className="f6 b db ma0">Year</p>
 
-          <div className="inline-flex items-center mr2 mt2">
-            <label htmlFor="year--1" className="mr1 lh-copy f6">1</label>
-            <input
-              type="checkbox"
-              name="year"
-              id="year--1"
-              checked={this.props.activeFilters.year.indexOf('1') !== -1}
-              onChange={(e) => this.props.alterFilterState(
-                'UPDATE_YEAR',
-                {
-                  year: '1',
-                  value: e.target.checked
-                }
-              )}
-            />
-          </div>
-
-          <div className="inline-flex items-center mr2 mt2">
-            <label htmlFor="year--2" className="mr1 lh-copy f6">2</label>
-            <input
-              type="checkbox"
-              name="year"
-              id="year--2"
-              checked={this.props.activeFilters.year.indexOf('2') !== -1}
-              onChange={(e) => this.props.alterFilterState(
-                'UPDATE_YEAR',
-                {
-                  year: '2',
-                  value: e.target.checked
-                }
-              )}
-
-            />
-          </div>
-
-          <div className="inline-flex items-center mr2 mt2">
-            <label htmlFor="year--3" className="mr1 lh-copy f6">3</label>
-            <input
-              type="checkbox"
-              name="year"
-              id="year--3"
-              checked={this.props.activeFilters.year.indexOf('3') !== -1}
-              onChange={(e) => this.props.alterFilterState(
-                'UPDATE_YEAR',
-                {
-                  year: '3',
-                  value: e.target.checked
-                }
-              )}
-            />
-          </div>
-
-          <div className="inline-flex items-center mr2 mt2">
-            <label htmlFor="year--4" className="mr1 lh-copy f6">4</label>
-            <input
-              type="checkbox"
-              name="year"
-              id="year--4"
-              checked={this.props.activeFilters.year.indexOf('4') !== -1}
-              onChange={(e) => this.props.alterFilterState(
-                'UPDATE_YEAR',
-                {
-                  year: '4',
-                  value: e.target.checked
-                }
-              )}
-            />
-          </div>
+          {years.map((year) => {
+            return (
+              <div key={year} className="inline-flex items-center mr2 mt2">
+                <label htmlFor={'year--' + year} className="mr1 lh-copy f6">{year}</label>
+                <input
+                  type="checkbox"
+                  name="year"
+                  id={'year--' + year}
+                  checked={this.props.activeFilters.year.indexOf(year) !== -1}
+                  onChange={(e) => this.props.alterFilterState(
+                    'UPDATE_YEAR',
+                    {
+                      year: year,
+                      value: e.target.checked
+                    }
+                  )}
+                />
+              </div>
+            )
+          }, this)}
         </div>
       </div>
     )

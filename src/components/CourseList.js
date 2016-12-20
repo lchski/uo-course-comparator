@@ -8,9 +8,27 @@ class CourseList extends React.Component {
   constructor() {
     super();
 
+    this.toggleOpenState = this.toggleOpenState.bind(this);
+
     this.state = {
       openCourses: []
     };
+  }
+
+  toggleOpenState(courseCode) {
+    // Grab a copy of the openCourses state
+    let openCourses = [...this.state.openCourses];
+    const courseIndex = openCourses.indexOf(courseCode);
+
+    if (courseIndex === -1) {
+      // If course isn't in the list (i.e. it isn't open yet), let's add it to the list
+      openCourses.push(courseCode);
+    } else {
+      // If the course is in the list, let's remove it
+      openCourses.splice(courseIndex, 1);
+    }
+
+    this.setState({ openCourses });
   }
 
   render() {

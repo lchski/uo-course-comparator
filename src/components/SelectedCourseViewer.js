@@ -1,7 +1,7 @@
 import React from 'react';
 
 import CourseFilters from './CourseFilters';
-import Course from './Course';
+import CourseList from './CourseList';
 
 class SelectedCourseViewer extends React.Component {
   render() {
@@ -15,11 +15,7 @@ class SelectedCourseViewer extends React.Component {
 
           <CourseFilters/>
 
-          <ol className="list pl0 mt4">
-            {
-              this.props.courses.map((course) => <Course key={course.code} course={course} isOpen={Math.random() >= 0.5} isAdded={Math.random() >= 0.5}/>)
-            }
-          </ol>
+          <CourseList courses={this.props.courses} className="mt4"/>
         </div>
       </div>
     )

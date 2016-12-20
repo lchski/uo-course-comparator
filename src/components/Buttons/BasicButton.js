@@ -9,7 +9,7 @@ class BasicButton extends React.Component {
       [this.props.className]: true
     });
 
-    return <button className={buttonClasses}>{this.props.children}</button>
+    return <button onClick={this.props.onClick} className={buttonClasses}>{this.props.children}</button>
   }
 }
 

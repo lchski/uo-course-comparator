@@ -13,6 +13,7 @@ class CourseList extends React.Component {
 
     this.toggleOpenState = this.toggleOpenState.bind(this);
     this.openAllCourses = this.openAllCourses.bind(this);
+    this.closeAllCourses = this.closeAllCourses.bind(this);
 
     this.state = {
       openCourses: []
@@ -41,6 +42,12 @@ class CourseList extends React.Component {
     this.setState({ openCourses });
   }
 
+  closeAllCourses() {
+    let openCourses = [];
+
+    this.setState({ openCourses });
+  }
+
   render() {
     let wrapperClasses = classNames({
       [this.props.className]: true
@@ -49,7 +56,7 @@ class CourseList extends React.Component {
     return (
       <div className={wrapperClasses}>
         <BasicButton onClick={this.openAllCourses}>expand all</BasicButton>
-        <BasicButton className="ml2">close all</BasicButton>
+        <BasicButton onClick={this.closeAllCourses} className="ml2">close all</BasicButton>
 
         <CourseFilters/>
 

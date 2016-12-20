@@ -1,6 +1,7 @@
 import React from 'react';
 
 import classNames from 'classnames';
+import Fuse from 'fuse.js';
 
 import CourseFilters from './CourseFilters';
 import BasicButton from './Buttons/BasicButton';
@@ -77,10 +78,20 @@ class CourseList extends React.Component {
   }
 
   doesCoursePassFilters(course) {
+    let fuzzySearch = new Fuse([course], {
+      keys: ['title', 'description', 'code'],
+      threshold: 0.6,
+      distance: 1000,
+      maxPatternLength: 100
+    });
+
     let filterConditions = [
       this.state.filters.language.indexOf(course.language.toLowerCase()) !== -1,
-      this.state.filters.year.indexOf(course.year) !== -1
+      this.state.filters.year.indexOf(course.year) !== -1,
+      this.state.filters.search === '' || fuzzySearch.search(this.state.filters.search).length > 0
     ];
+
+    console.log(fuzzySearch.search(this.state.filters.search));
 
     return filterConditions.every((condition) => condition);
   }

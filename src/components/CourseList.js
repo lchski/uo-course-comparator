@@ -16,7 +16,12 @@ class CourseList extends React.Component {
     this.closeAllCourses = this.closeAllCourses.bind(this);
 
     this.state = {
-      openCourses: []
+      openCourses: [],
+      filters: {
+        search: '',
+        language: ['english', 'french'],
+        year: ['1', '2', '3', '4']
+      }
     };
   }
 
@@ -58,7 +63,7 @@ class CourseList extends React.Component {
         <BasicButton onClick={this.openAllCourses}>expand all</BasicButton>
         <BasicButton onClick={this.closeAllCourses} className="ml2">close all</BasicButton>
 
-        <CourseFilters/>
+        <CourseFilters activeFilters={this.state.filters}/>
 
         <ol className="list pl0 mt4">
           {

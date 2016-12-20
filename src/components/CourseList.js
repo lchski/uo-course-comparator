@@ -5,6 +5,14 @@ import classNames from 'classnames';
 import Course from './Course';
 
 class CourseList extends React.Component {
+  constructor() {
+    super();
+
+    this.state = {
+      openCourses: []
+    };
+  }
+
   render() {
     let listClasses = classNames({
       'list pl0': true,
@@ -14,7 +22,11 @@ class CourseList extends React.Component {
     return (
       <ol className={listClasses}>
         {
-          this.props.courses.map((course) => <Course key={course.code} course={course} isOpen={Math.random() >= 0.5} isAdded={Math.random() >= 0.5}/>)
+          this.props.courses.map((course) => {
+            let isOpen = this.state.openCourses.includes(course.code);
+
+            return <Course key={course.code} course={course} isOpen={isOpen} isAdded={Math.random() >= 0.5}/>
+          })
         }
       </ol>
     )

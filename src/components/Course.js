@@ -2,6 +2,8 @@ import React from 'react';
 
 import classNames from 'classnames';
 
+import BasicButton from './Buttons/BasicButton';
+
 class Course extends React.Component {
   constructor() {
     super();
@@ -12,7 +14,7 @@ class Course extends React.Component {
 
   renderCourseButton() {
     let buttonOuterClasses = classNames({
-      'input-reset sans-serif pointer mt3 db pv2 w-100 f6 ba bw1 b--black grow relative': true,
+      'mt3 db pv2 w-100 bw1 grow relative': true,
       'bg-light-red': this.props.isAdded,
       'bg-light-green': !this.props.isAdded
     });
@@ -30,7 +32,7 @@ class Course extends React.Component {
       : 'I’m interested!';
 
     return (
-      <button className={buttonOuterClasses}><span className={buttonIconClasses}>{buttonIconContent}</span> {buttonTextContent}</button>
+      <BasicButton className={buttonOuterClasses}><span className={buttonIconClasses}>{buttonIconContent}</span> {buttonTextContent}</BasicButton>
     )
   }
 

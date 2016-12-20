@@ -33,6 +33,13 @@ class CourseFilters extends React.Component {
               name="language"
               id="language--english"
               checked={this.props.activeFilters.language.indexOf('english') !== -1}
+              onChange={(e) => this.props.alterFilterState(
+                'UPDATE_LANGUAGE',
+                {
+                  language: 'english',
+                  value: e.target.checked
+                }
+              )}
             />
           </div>
 
@@ -43,6 +50,13 @@ class CourseFilters extends React.Component {
               name="language"
               id="language--french"
               checked={this.props.activeFilters.language.indexOf('french') !== -1}
+              onChange={(e) => this.props.alterFilterState(
+                'UPDATE_LANGUAGE',
+                {
+                  language: 'french',
+                  value: e.target.checked
+                }
+              )}
             />
           </div>
         </div>

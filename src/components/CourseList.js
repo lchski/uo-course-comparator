@@ -61,6 +61,15 @@ class CourseList extends React.Component {
       case 'UPDATE_SEARCH':
         filters.search = payload.value;
         break;
+      case 'UPDATE_LANGUAGE':
+        if (payload.value) {
+          filters.language.push(payload.language);
+        } else {
+          filters.language.splice(filters.language.indexOf(payload.language), 1);
+        }
+        break;
+      default:
+        break;
     }
 
     this.setState({ filters });

@@ -56,6 +56,7 @@ class App extends React.Component {
             />
           }
         />
+
         <Match
           exactly
           pattern="/interesting-courses"

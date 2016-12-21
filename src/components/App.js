@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link, Match, Miss } from 'react-router';
 
+import departments from '../data/departments';
 import sampleCourses from '../data/HIS';
 
 import CourseSelector from './CourseSelector';

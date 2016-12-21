@@ -63,13 +63,13 @@ class CourseList extends React.Component {
   }
 
   openAllCourses() {
-    let openCourses = this.props.courses.map((course) => course.code);
+    const openCourses = this.props.courses.map((course) => course.code);
 
     this.setState({ openCourses });
   }
 
   closeAllCourses() {
-    let openCourses = [];
+    const openCourses = [];
 
     this.setState({ openCourses });
   }
@@ -95,25 +95,27 @@ class CourseList extends React.Component {
     this.setState({ filters });
   }
 
-  doesCoursePassFilters(course) {
-    let fuzzySearch = new Fuse([course], {
-      keys: ['title', 'description', 'code'],
-      threshold: 0.5
-    });
-
-    let filterConditions = [
+  doesCoursePassFilters(course, searchResults) {
+    const filterConditions = [
       this.state.filters.language.indexOf(course.language.toLowerCase()) !== -1,
       this.state.filters.year.indexOf(course.year) !== -1,
-      this.state.filters.search === '' || fuzzySearch.search(this.state.filters.search).length > 0
+      this.state.filters.search === '' || searchResults.includes(course)
     ];
 
     return filterConditions.every((condition) => condition);
   }
 
   render() {
-    let wrapperClasses = classNames({
+    const wrapperClasses = classNames({
       [this.props.className]: true
     });
+
+    const fuzzySearch = new Fuse(this.props.courses, {
+      keys: ['title', 'description', 'code', 'restriction'],
+      threshold: 0.5
+    });
+
+    const searchResults = fuzzySearch.search(this.state.filters.search);
 
     return (
       <div className={wrapperClasses}>
@@ -130,7 +132,7 @@ class CourseList extends React.Component {
               let boundToggleOpenState = this.toggleOpenState.bind(null, course.code);
               let boundToggleInterestedCourse = this.props.toggleInterestedCourse.bind(null, course.code);
 
-              if (this.doesCoursePassFilters(course)) {
+              if (this.doesCoursePassFilters(course, searchResults)) {
                 return <Course
                   key={course.code}
                   course={course}

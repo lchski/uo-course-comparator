@@ -50,7 +50,11 @@ class CourseSelector extends React.Component {
           }
         </select>
 
-        {(typeof currentDepartment != 'undefined') ? this.renderDepartmentSection(currentDepartment) : null}
+        {
+          (typeof currentDepartment != 'undefined')
+            ? this.renderDepartmentSection(currentDepartment)
+            : null
+        }
       </div>
     )
   }

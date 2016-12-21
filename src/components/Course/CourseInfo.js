@@ -8,7 +8,8 @@ const CourseInfo = (props) => {
       <p className="lh-copy serif mb0">{props.course.description}</p>
 
       <ul className="list pl0 mt2">
-        <li className="gray dib f6">{props.course.code}</li>
+        <li className="gray dib f6 mr3">{props.course.code}</li>
+        <li className="gray dib f6">Year {props.course.year}</li>
       </ul>
 
       <CourseInterestButton isAdded={props.isAdded} onClick={props.toggleInterestedCourse}/>

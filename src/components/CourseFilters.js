@@ -1,5 +1,7 @@
 import React from 'react';
 
+import BasicButton from './Buttons/BasicButton';
+
 class CourseFilters extends React.Component {
   render() {
     const languages = ['english', 'french'];
@@ -77,6 +79,8 @@ class CourseFilters extends React.Component {
             )
           }, this)}
         </div>
+
+        <BasicButton className="mt3" onClick={this.props.resetFilters}>reset filters</BasicButton>
       </div>
     )
   }

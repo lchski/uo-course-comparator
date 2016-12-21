@@ -8,6 +8,12 @@ import BasicButton from './Buttons/BasicButton';
 
 import Course from './Course/Course';
 
+const defaultFilters = {
+  search: '',
+  language: ['english', 'french'],
+  year: ['1', '2', '3', '4']
+};
+
 class CourseList extends React.Component {
   constructor() {
     super();
@@ -16,15 +22,12 @@ class CourseList extends React.Component {
     this.openAllCourses = this.openAllCourses.bind(this);
     this.closeAllCourses = this.closeAllCourses.bind(this);
     this.alterFilterState = this.alterFilterState.bind(this);
+    this.resetFilters = this.resetFilters.bind(this);
     this.doesCoursePassFilters = this.doesCoursePassFilters.bind(this);
 
     this.state = {
       openCourses: [],
-      filters: {
-        search: '',
-        language: ['english', 'french'],
-        year: ['1', '2', '3', '4']
-      }
+      filters: defaultFilters
     };
   }
 
@@ -95,6 +98,12 @@ class CourseList extends React.Component {
     this.setState({ filters });
   }
 
+  resetFilters() {
+    this.setState({
+      filters: defaultFilters
+    });
+  }
+
   doesCoursePassFilters(course, searchResults) {
     const filterConditions = [
       this.state.filters.language.indexOf(course.language.toLowerCase()) !== -1,
@@ -122,7 +131,7 @@ class CourseList extends React.Component {
         <BasicButton onClick={this.openAllCourses}>expand all</BasicButton>
         <BasicButton onClick={this.closeAllCourses} className="ml2">close all</BasicButton>
 
-        <CourseFilters activeFilters={this.state.filters} alterFilterState={this.alterFilterState}/>
+        <CourseFilters activeFilters={this.state.filters} alterFilterState={this.alterFilterState} resetFilters={this.resetFilters}/>
 
         <ol className="list pl0 mt4">
           {

@@ -17,6 +17,24 @@ class App extends React.Component {
     };
   }
 
+  componentWillMount() {
+    // Grab a reference to our stored interested courses
+    const localStorageInterestedCourses = localStorage.getItem('interested-courses');
+
+    // Check if we've actually stored our interested courses
+    if (localStorageInterestedCourses) {
+      // Set our component state to match the stored one
+      this.setState({
+        interestedCourses: JSON.parse(localStorageInterestedCourses)
+      });
+    }
+  }
+
+  componentDidUpdate() {
+    // Update our stored interested courses
+    localStorage.setItem('interested-courses', JSON.stringify(this.state.interestedCourses));
+  }
+
   toggleInterestedCourse(courseCode) {
     // Grab a copy of the openCourses state
     let interestedCourses = [...this.state.interestedCourses];

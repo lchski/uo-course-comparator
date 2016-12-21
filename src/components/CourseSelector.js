@@ -1,5 +1,7 @@
 import React from 'react';
 
+import { request as xhr } from 'superagent';
+
 import CourseList from './CourseList';
 
 class CourseSelector extends React.Component {

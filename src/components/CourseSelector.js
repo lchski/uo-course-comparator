@@ -10,7 +10,11 @@ class CourseSelector extends React.Component {
 
         <label htmlFor="department" className="db i">Department</label>
         <select id="department" className="w-100 mt2">
-          <option value="POL">Political Science</option>
+          {
+            this.props.departments.map((department) => {
+              return <option key={department.code} value={department.code}>{department.name}</option>
+            })
+          }
         </select>
 
         <div className="pv3 measure">

@@ -72,6 +72,7 @@ class App extends React.Component {
               courses={sampleCourses}
               toggleInterestedCourse={this.toggleInterestedCourse}
               interestedCourses={this.state.interestedCourses}
+              departments={departments}
             />
           }
         />

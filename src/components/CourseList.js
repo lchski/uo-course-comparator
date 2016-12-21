@@ -28,6 +28,24 @@ class CourseList extends React.Component {
     };
   }
 
+  componentWillMount() {
+    // Grab a reference to our stored filter state
+    const localStorageFilters = localStorage.getItem('course-filters');
+
+    // Check if we've actually stored our filter state
+    if (localStorageFilters) {
+      // Set our component state to match the stored one
+      this.setState({
+        filters: JSON.parse(localStorageFilters)
+      });
+    }
+  }
+
+  componentDidUpdate() {
+    // Update our stored filter state
+    localStorage.setItem('course-filters', JSON.stringify(this.state.filters));
+  }
+
   toggleOpenState(courseCode) {
     // Grab a copy of the openCourses state
     let openCourses = [...this.state.openCourses];

@@ -52,7 +52,7 @@ class SelectedCourseViewer extends React.Component {
         >
           {
             filteredDepartments.map((department) => {
-              return <option key={department.code} value={department.code}>{department.name}</option>
+              return <option className="pa2" key={department.code} value={department.code}>{department.name}</option>
             })
           }
         </select>

@@ -1,4 +1,4 @@
-const courses = [
+[
     {
         "code": "HIS1101",
         "description": "Survey of the political, social and cultural evolution of Canada, from its origins to the present.",
@@ -1511,6 +1511,4 @@ const courses = [
         "title": "Stage coop V / CO-OP Work Term V",
         "year": "4"
     }
-];
-
-export default courses;
+]

@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { request as xhr } from 'superagent';
+import request from 'superagent';
 
 import CourseList from './CourseList';
 
@@ -18,6 +18,13 @@ class CourseSelector extends React.Component {
   }
 
   switchDepartment(department) {
+    this.departmentSwitchRequest = request.get(`${process.env.PUBLIC_URL}/data/${department}.json`)
+      .then((success) => {
+        console.log('Qapla!', success);
+      }, (failure) => {
+        console.log('Bah!', failure);
+      });
+
     this.setState({ currentDepartment: department });
   }
 

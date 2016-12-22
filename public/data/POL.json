@@ -1,4 +1,4 @@
-const courses = [
+[
     {
         "code": "POL1101",
         "description": "Comparative study of the ideas, concepts and issues leading to an understanding of political phenomena and of their impact on the lives of individuals and societies. Reflection on power, citizenship and political participation. Introduction to research tasks (e.g. bibliographic research, writing a research or reading report).",
@@ -1391,6 +1391,4 @@ const courses = [
         "title": "Séminaire de synthèse en relations internationales et politique mondiale / Honours Seminar in International Relations and Global Politics",
         "year": "4"
     }
-];
-
-export default courses;
+]

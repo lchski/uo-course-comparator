@@ -1,0 +1,290 @@
+[
+    {
+        "code": "FEM1100",
+        "description": "Interdisciplinary approach to women and to the intersection of social relations of gender, race, class, sexuality and disability in Canadian and global contexts. Introduction to basic conceptual debates in Women's Studies and to feminist theoretical positions. Development of critical analytical skills.",
+        "language": "English",
+        "restriction": "",
+        "title": "Women, Gender, Feminism: An Introduction",
+        "year": "1"
+    },
+    {
+        "code": "FEM1500",
+        "description": "Approche interdisciplinaire des femmes et de l'intersection des relations sociales liées au genre, à la race, la classe, la sexualité et les (in)capacités en contextes canadien et international. Introduction aux débats conceptuels de base en Études des femmes et aux principaux courants théoriques féministes. Développement d'habiletés d'analyse critique.",
+        "language": "French",
+        "restriction": "",
+        "title": "Femmes, genre, féminisme : une introduction",
+        "year": "1"
+    },
+    {
+        "code": "FEM2103",
+        "description": "Critical examination of epistemological and methodological issues raised by feminist studies. Introduction to research design and to documentary research, as well as to a range of basic techniques for analysing data from a variety of sources (statistical, literary, archival, interviews, etc.).",
+        "language": "English",
+        "restriction": "Prerequisites: FEM1100 and 18 university credits. This course is equivalent to CMN2101, CRM2303, ECS2111, POL2156, PSY2174, SCS2150, SOC2111.",
+        "title": "Methodology in Feminist Studies",
+        "year": "2"
+    },
+    {
+        "code": "FEM2104",
+        "description": "Feminist perspectives and critical analyses of gender, (dis)ability and health. Topics might include social constructions of health and healthy bodies, sexual health and reproduction, health and social institutions, and gendered power dynamics within Canada's health care system.",
+        "language": "English",
+        "restriction": "Prerequisite: FEM1100 or 18 university credits.",
+        "title": "Gender, (Dis)ability and Health",
+        "year": "2"
+    },
+    {
+        "code": "FEM2107",
+        "description": "Feminist intersectional approaches to examine how gender, race, class and (dis)ability shape social and political institutions and women's lived experiences.",
+        "language": "English",
+        "restriction": "Prerequisite: FEM1100 or 18 university credits.",
+        "title": "Diversities of Women: Gender, Race, Class and (Dis)ability",
+        "year": "2"
+    },
+    {
+        "code": "FEM2109",
+        "description": "Examines interdisciplinary scholarship on gender and globalization. Topics may include labour, securitization, technology, migration, hierarchies and power, economies and resistance/agency.",
+        "language": "English",
+        "restriction": "Prerequisite: FEM1100 or 18 university credits.",
+        "title": "Gender and Globalization in a Transnational World",
+        "year": "2"
+    },
+    {
+        "code": "FEM2110",
+        "description": "Constructions of gender and sexuality in popular culture. Feminist analysis of the ways in which social relations of gender, race and sexuality have been conceptualized and experienced in relation to the institutions, technologies, practices and representations of popular culture.",
+        "language": "English",
+        "restriction": "Prerequisite: FEM1100 or 18 university credits.",
+        "title": "Sexuality, Gender and Popular Culture",
+        "year": "2"
+    },
+    {
+        "code": "FEM2111",
+        "description": "Examines the effects of gender, social class and racialization on women's paid and unpaid work, care work, the definition of skills and of the different types and fields of employment, as well as on contemporary politics of production and reproduction.",
+        "language": "English",
+        "restriction": "Prerequisite: FEM1100 or 18 university credits.",
+        "title": "Class, Work, Gender and (Re)production",
+        "year": "2"
+    },
+    {
+        "code": "FEM2503",
+        "description": "Examen critique d'enjeux épistémologiques et méthodologiques soulevés par les études féministes. Introduction à la conception d'un travail de recherche et à la recherche documentaire, ainsi qu'à un éventail de techniques de base d'analyse de données provenant de sources variées (statistiques, littéraires, archivistiques, entretiens, etc.).",
+        "language": "French",
+        "restriction": "Préalables : FEM1500 et 18 crédits universitaires. Ce cours est équivalent à CMN2501, CRM2703, ECS2111, POL2556, PSY2574, SCS2550, SOC2511.",
+        "title": "Méthodologie en études féministes",
+        "year": "2"
+    },
+    {
+        "code": "FEM2504",
+        "description": "Perspectives féministes et analyses critiques du genre, des (in)capacités et de la santé. Les thèmes à l'étude pourront inclure : la construction sociale de la santé et du corps sain, la reproduction, la santé et les institutions sociales et les dynamiques sociopolitiques genrées dans le système de santé canadien.",
+        "language": "French",
+        "restriction": "Préalable : FEM1500 ou 18 crédits universitaires.",
+        "title": "Genre, (in)capacités et santé",
+        "year": "2"
+    },
+    {
+        "code": "FEM2507",
+        "description": "Perspectives féministes intersectionnelles pour l'examen de la façon dont les rapports sociaux de genre, de race, et de classe, ainsi que les (in)capacités façonnent les institutions sociales et politiques et les expériences vécues des femmes.",
+        "language": "French",
+        "restriction": "Préalable : FEM1500 ou 18 crédits universitaires.",
+        "title": "Diversité des femmes : genre, race, classe et (in)capacités",
+        "year": "2"
+    },
+    {
+        "code": "FEM2509",
+        "description": "Examen des travaux interdisciplinaires sur le genre et la mondialisation. Différents sujets seront à l'étude, tels : travail, sécurité, technologie, migration, hiérarchies et pouvoir, économies, résistances/agentivité.",
+        "language": "French",
+        "restriction": "Préalable : FEM1500 ou 18 crédits universitaires.",
+        "title": "Genre et mondialisation en contexte transnational",
+        "year": "2"
+    },
+    {
+        "code": "FEM2510",
+        "description": "Constructions du genre et de la sexualité dans la culture populaire. Analyses féministes des façons dont les rapports sociaux de genre, de race et de sexualité sont conceptualisés et vécus dans leur rapport aux institutions, technologies, pratiques et représentations de la culture populaire.",
+        "language": "French",
+        "restriction": "Préalable : FEM1500 ou 18 crédits universitaires.",
+        "title": "Sexualité, genre et culture populaire",
+        "year": "2"
+    },
+    {
+        "code": "FEM2511",
+        "description": "Examen des effets du genre, de la classe sociale et de la racialisation sur le travail salarié et non salarié des femmes, le travail de soins, la définition des qualifications et des types et domaines d'emploi, ainsi que sur les dynamiques sociopolitiques contemporaines dans les champs de la production et de la reproduction sociales.",
+        "language": "French",
+        "restriction": "Préalable : FEM1500 ou 18 crédits universitaires.",
+        "title": "Classe, travail, genre et (re)production",
+        "year": "2"
+    },
+    {
+        "code": "FEM3100",
+        "description": "Study of a selected feminist topic. Contents may change from year to year. May be repeated for credits.",
+        "language": "English",
+        "restriction": "Prerequisites: 3 credits in FEM and 51 university credits.",
+        "title": "Special Topic in Women's Studies",
+        "year": "3"
+    },
+    {
+        "code": "FEM3103",
+        "description": "Feminist analysis of mainstream methodologies and multidisciplinary approaches; examination and articulation of feminist and anti-sexist research methods and practices.",
+        "language": "English",
+        "restriction": "Prerequisite: FEM1100",
+        "title": "Methodology in Women's Studies",
+        "year": "3"
+    },
+    {
+        "code": "FEM3104",
+        "description": "Examination of the contribution of feminist theories and feminist jurisprudence to an understanding of law and social justice. Analysis of the relationship between law and inequality or oppression (based on, for example: gender, 'race', class, sexuality). Implications of this analysis for strategies of engagement with specific forms of law domestically and internationally.",
+        "language": "English",
+        "restriction": "Prerequisite: FEM2109 or 54 university credits.",
+        "title": "Feminism, Justice and the Law",
+        "year": "3"
+    },
+    {
+        "code": "FEM3105",
+        "description": "Seminar in feminist theories allowing students to contextualize and synthesize their knowledge of women's studies through an in-depth examination of feminist thought.",
+        "language": "English",
+        "restriction": "Prerequisites: 3 credits in FEM and 51 university credits.",
+        "title": "Feminist Theories",
+        "year": "3"
+    },
+    {
+        "code": "FEM3106",
+        "description": "Critical introduction to the topic of women, gender and development, both as a field of theoretical study and as an area of supranational, governmental and non-governmental intervention. Analysis of key development paradigms and their potential impact on the needs and concerns of women situated in the global south.",
+        "language": "English",
+        "restriction": "Prerequisite: FEM2109 or 54 university credits. Also offered as DVM3106.",
+        "title": "Women, Gender and Development",
+        "year": "3"
+    },
+    {
+        "code": "FEM3107",
+        "description": "Examines the history of gay and lesbian studies as well as the emergence of queer theory and cultures. Understood in terms of what does not conform to normative sexualities, queer also offers to analysts a range of emergent cultural expressions.",
+        "language": "English",
+        "restriction": "Prerequisite: FEM2110 or FEM2104 or 54 university credits.",
+        "title": "Queer Theories",
+        "year": "3"
+    },
+    {
+        "code": "FEM3108",
+        "description": "Historical and contemporary issues identified as relevant by Aboriginal women today. Study of their diversity: lifestyles, knowledge, status, community involvement, governance, historical and contemporary struggles and realities. Aboriginal women resisting colonial domination, violence, and injustice. Development of indigenous feminisms and reclamation of power.",
+        "language": "English",
+        "restriction": "Prerequisite: FEM2107 or FEM2111 or 54 university credits. Previously FEM2108.",
+        "title": "Indigenous Feminisms and Aboriginal Women's Issues",
+        "year": "3"
+    },
+    {
+        "code": "FEM3500",
+        "description": "Étude d'un thème féministe choisi. Le contenu pourra changer d'année en année. Peut être repris pour crédits.",
+        "language": "French",
+        "restriction": "Préalables : 3 crédits FEM et 51 crédits universitaires.",
+        "title": "Thème choisi en études des femmes",
+        "year": "3"
+    },
+    {
+        "code": "FEM3503",
+        "description": "Apports des approches multidisciplinaires, des méthodes de recherche et des interventions féministes et anti-sexistes.",
+        "language": "French",
+        "restriction": "Préalable: FEM1500",
+        "title": "Méthodologie en études des femmes",
+        "year": "3"
+    },
+    {
+        "code": "FEM3504",
+        "description": "Examen des contributions des théories féministes et de la jurisprudence féministe à l'analyse du droit et de la justice sociale. Analyse de la relation entre le droit et l'inégalité ou l'oppression (par exemple, fondée sur les enjeux de genre, race, classe, sexualité). Conséquences de cette analyse pour les stratégies recourant à des formes spécifiques de droit, aux niveaux national et international.",
+        "language": "French",
+        "restriction": "Préalable : FEM2509 ou 54 crédits universitaires.",
+        "title": "Féminisme, justice et droit",
+        "year": "3"
+    },
+    {
+        "code": "FEM3505",
+        "description": "Séminaire consacré à l'étude approfondie des théories féministes. Contextualisation et synthèse des connaissances acquises en études des femmes à partir d'une analyse détaillée de ces théories.",
+        "language": "French",
+        "restriction": "Préalables : 3 crédits FEM et 51 crédits universitaires.",
+        "title": "Théories féministes",
+        "year": "3"
+    },
+    {
+        "code": "FEM3506",
+        "description": "Introduction critique à la question des femmes, du genre et du développement à la fois en tant que champ d'études théoriques et domaine d'interventions supranationales, gouvernementales et non-gouvernementales. Analyse des paradigmes clés du développement et de leur impact potentiel sur les besoins et les préoccupations des femmes du Sud.",
+        "language": "French",
+        "restriction": "Préalable : FEM2509 ou 54 crédits universitaires. Aussi offert sous la cote DVM3506.",
+        "title": "Femmes, genre et développement",
+        "year": "3"
+    },
+    {
+        "code": "FEM3507",
+        "description": "Examen de l'histoire des études gaies et lesbiennes ainsi que l'émergence de théories et de cultures 'queer'. Compris comme étant ce qui n'est pas conforme aux sexualités normatives, ce terme propose également à l'analyse une variété d'expressions culturelles émergentes.",
+        "language": "French",
+        "restriction": "Préalable : FEM2510 ou FEM2504 ou 54 crédits universitaires.",
+        "title": "Les théories queer",
+        "year": "3"
+    },
+    {
+        "code": "FEM3508",
+        "description": "Questions historiques et contemporaines jugées pertinentes par les femmes autochtones d'aujourd'hui. Étude de leur diversité : modes de vie, connaissances, statuts, implication communautaire, gouvernance, luttes et réalités historiques et contemporaines. Résistance des femmes autochtones à la domination coloniale, à la violence et à l'injustice. Développement de féminismes indigénistes et réclamations du pouvoir.",
+        "language": "French",
+        "restriction": "Préalable : FEM2507 ou FEM2511 ou 54 crédits universitaires. Antérieurement FEM2508.",
+        "title": "Féminismes indigénistes et situation des femmes autochtones",
+        "year": "3"
+    },
+    {
+        "code": "FEM4260",
+        "description": "This course requires 360 hours of work. Field placement in a setting approved by the Department of Criminology. Supervision of the experience. Evaluation \"Satisfactory\" or \"Not Satisfactory\". Previously part of CRM 4255. This course cannot be combined with CRM4260.",
+        "language": "English",
+        "restriction": "Corequisite: CRM4317. Reserved for fourth-year students registered in a Joint Honours programs in criminology and women's studies.",
+        "title": "Field Placement related to Women and Penal Justice",
+        "year": "4"
+    },
+    {
+        "code": "FEM4310",
+        "description": "Examination of theoretical and empirical questions raised by feminists in a transnational context. Analysis of the emergence of women's organizing across borders. Highlights the complex connections between women in the Global North and the Global South. Topics might include: gender and the environment, militarism and war; production and reproduction; migrant rights and human rights; women's health; sex trafficking and sexualities.",
+        "language": "English",
+        "restriction": "Prerequisites: FEM2109 and 54 university credits.",
+        "title": "Feminism and Transnationalism",
+        "year": "4"
+    },
+    {
+        "code": "FEM4320",
+        "description": "Examination of central debates in anti-racist and anti-colonial feminisms. Topics might include: gendered and racialized representations of ethnicity and the nation; colonialist stereotypes and orientalism; imperialism and neo-colonialism; representations of women post 9-11.",
+        "language": "English",
+        "restriction": "Prerequisites: FEM2107 or FEM2111 and 54 university credits.",
+        "title": "Anti-Colonial and Anti-Racist Feminisms",
+        "year": "4"
+    },
+    {
+        "code": "FEM4330",
+        "description": "Exploration of feminist, queer and trans theories and practices about gender, identities and embodiment. Topics might include the normative body, scientific and social constructions of the body, the medicalization of the body, body modification, gender performance, trans activism, ableism, and resistance.",
+        "language": "English",
+        "restriction": "Prerequisites: FEM2110 or FEM2104 and 54 university credits.",
+        "title": "Gender, Identity and Embodiment",
+        "year": "4"
+    },
+    {
+        "code": "FEM4660",
+        "description": "Stage de 360 heures de travail dans une activité pertinente approuvée par le Département de criminologie. Supervision des apprentissages. Évaluation : \"Satisfaisant\" ou \"Non-satisfaisant\". Ce cours ne peut être combiné avec CRM4660.",
+        "language": "French",
+        "restriction": "Concomitant : CRM4717. Réservé aux étudiants et étudiantes inscrits en quatrième année au Baccalauréat spécialisé bidisciplinaire en criminologie et études des femmes.",
+        "title": "Stage pratique relié à la justice pénale et aux femmes",
+        "year": "4"
+    },
+    {
+        "code": "FEM4710",
+        "description": "Examen des questions théoriques et empiriques soulevées par les féministes dans un contexte transnational. Analyse de l'émergence de l'organisation transnationale des femmes. Les interrelations complexes entre les femmes du Nord et celles du Sud sont soulignées. Les thèmes à l'étude pourront inclure: genre et environnement, militarisme et guerre; production et reproduction; droits des migrant(e)s et droits humains; santé des femmes; trafic sexuel et sexualités.",
+        "language": "French",
+        "restriction": "Préalables : FEM2509 et 54 crédits universitaires.",
+        "title": "Féminisme et transnationalisme",
+        "year": "4"
+    },
+    {
+        "code": "FEM4720",
+        "description": "Examen des débats initiés par les féminismes anticoloniaux et antiracistes. Applications à des sujets tels : représentations sexuées et racialisées de l'ethnicité et de la nation; stéréotypes colonialistes et orientalisme; impérialisme et néo-colonialisme; représentations des femmes après les attentats du 11 septembre 2001.",
+        "language": "French",
+        "restriction": "Préalables : FEM2507 ou FEM2511 et 54 crédits universitaires.",
+        "title": "Féminismes anticoloniaux et antiracistes",
+        "year": "4"
+    },
+    {
+        "code": "FEM4730",
+        "description": "L'exploration des théories et pratiques féministes, queer et transgenre en relation avec le genre, les identités et corporéité. Applications à des sujets tels : la normativité corporelle, la construction scientifique et sociale du corps, la médicalisation du corps, la modification du corps, le genre comme performance, l'activisme transgenre, la discrimination fondée sur les (in)capacités et la résistance.",
+        "language": "French",
+        "restriction": "Préalables : FEM2510 ou FEM2504 et 54 crédits universitaires.",
+        "title": "Genre, identité et corporéité",
+        "year": "4"
+    }
+]

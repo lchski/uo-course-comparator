@@ -1,0 +1,354 @@
+[
+    {
+        "code": "FLS0505",
+        "description": "Éléments fondamentaux de la compréhension orale et de l'écrit permettant d'identifier le sujet, les idées principales et les détails dans des passages courts et simplifiés. Pour l'expression orale et écrite, activités de conversation simples et discussions brèves, phrases simples et complexes, survol du paragraphe.",
+        "language": "French",
+        "restriction": "Préalable : Connaissance fondamentale de français et pointage satisfaisant au test de classement.",
+        "title": "Fondements préuniversitaires en français langue seconde",
+        "year": "0"
+    },
+    {
+        "code": "FLS0510",
+        "description": "Développement de la compréhension orale et de l'écrit: introduction à l'inférence et aux modèles d'organisation dans des passages de plus en plus authentiques. Révision des habiletés en expressions orale et écrite, activités telles que : dialogues et jeux de rôle, construction de phrases complexes, composition de paragraphes courts.",
+        "language": "French",
+        "restriction": "Préalable : FLS0505 ou pointage équivalant au test de classement.",
+        "title": "Accès préuniversitaire en français langue seconde",
+        "year": "0"
+    },
+    {
+        "code": "FLS0520",
+        "description": "Poursuite des acquis en compréhension orale et de l'écrit : compréhension de passages plus longs avec une syntaxe variable. En expression orale et écrite, initiation aux exigences universitaires comme : présentations orales, paragraphes complexes et format de la dissertation.",
+        "language": "French",
+        "restriction": "Préalable : FLS0510 ou pointage équivalant au test de classement.",
+        "title": "Perfectionnement préuniversitaire en français langue seconde",
+        "year": "0"
+    },
+    {
+        "code": "FLS0530",
+        "description": "Raffinement des habiletés de compréhension orale et de l'écrit déjà maîtrisées et amélioration de la pensée critique. En expression orale et écrite, apprentissage de stratégies d'autocorrection à l'aide de travaux tels que : débats et présentations orales longues, résumés non guidés et dissertations selon divers formats d'organisation.",
+        "language": "French",
+        "restriction": "Préalable : FLS0520 ou pointage équivalant au test de classement.",
+        "title": "Enrichissement préuniversitaire en français langue seconde",
+        "year": "0"
+    },
+    {
+        "code": "FLS0540",
+        "description": "Brochette de passages étendus authentiques pour l'amélioration de la compréhension orale et de l'écrit avec emphase sur l'écoute et la lecture critiques. En expression orale et écrite, insistance sur : production orale fluide et correcte dans une variété de situations telles qu'entrevues et discours, organisation et synthèse de l'information provenant de différentes sources et expansion de la rédaction formelle pour inclure des rapports de recherche et des dissertations formelles suivant divers patrons.",
+        "language": "French",
+        "restriction": "Préalable : FLS0530 ou pointage équivalant au test de classement.",
+        "title": "Passerelle universitaire en français langue seconde",
+        "year": "0"
+    },
+    {
+        "code": "FLS0550",
+        "description": "Atelier sur un thème choisi portant sur les habiletés réceptives ou productives, des objectifs lexicaux, la grammaire, etc. Le thème peut varier d'une section à l'autre.",
+        "language": "French",
+        "restriction": "Préalable : Permission du département.",
+        "title": "Français sur objectifs universitaires : habiletés complémentaires",
+        "year": "0"
+    },
+    {
+        "code": "FLS0560",
+        "description": "Le thème peut varier d'une section à l'autre.",
+        "language": "French",
+        "restriction": "Préalable : Permission du département.",
+        "title": "Formation sur mesure en français langue seconde",
+        "year": "0"
+    },
+    {
+        "code": "FLS1000",
+        "description": "The test is offered during registration according to a schedule determined by the Second Language Institute. In all cases, students must make an appointment at the Second Language Institute a few days before the testing session.   Le test est offert pendant les périodes d'inscription selon un calendrier déterminé par l'Institut des langues secondes. Dans tous les cas, les étudiants et étudiantes doivent prendre rendez-vous en s'adressant à l'Institut des langues secondes quelques jours avant la session de testing.",
+        "language": "Bilingual/Unofficial/Unspecified",
+        "restriction": "In the case of a significant discrepancy between students' observed second language performance and their results on the Proficiency Test, the Second Language Institute reserves the right to require additional evaluation.   Dans le cas où serait constaté un écart significatif entre les résultats d'un étudiant ou d'une étudiante au test de compétence et ses aptitudes réelles dans la langue seconde, l'Institut des langues secondes se réserve le droit d'exiger une évaluation additionnelle.",
+        "title": "Test de compétence en français langue seconde / Test of Proficiency in French as a Second Language",
+        "year": "1"
+    },
+    {
+        "code": "FLS1510",
+        "description": "Initiation au code linguistique de base (prononciation et orthographe, grammaire, vocabulaire). Présentation de quelques stratégies d'apprentissage de la langue seconde. Activités de compréhension et d'expression élémentaires à l'oral et à l'écrit à partir de documents simples dans un contexte universitaire.",
+        "language": "French",
+        "restriction": "Les auditeurs ne sont pas admis.",
+        "title": "Communication orale et écrite en français langue seconde : niveau débutant",
+        "year": "1"
+    },
+    {
+        "code": "FLS1511",
+        "description": "Développement de la compréhension de l'oral et de l'écrit à partir de documents sélectionnés. Techniques de production orale élémentaire; pratique d'échanges simples. Initiation à la phrase écrite. Éléments pertinents du code linguistique. Pratique individuelle.",
+        "language": "French",
+        "restriction": "Préalable : FLS1510 ou l'équivalent. Les auditeurs ne sont pas admis.",
+        "title": "Communication orale et écrite en français langue seconde : niveau élémentaire I",
+        "year": "1"
+    },
+    {
+        "code": "FLS1512",
+        "description": "Développement de la compréhension de l'oral et de l'écrit; identification des idées principales. Développement des techniques de production orale; pratique permettant des conversations simples. Développement de l'expression écrite simple. Éléments pertinents du code linguistique. Pratique individuelle.",
+        "language": "French",
+        "restriction": "Prerequisite: FLS1511 or equivalent. The courses FL1512, FLS1611 cannot be combined for credits. Auditors are not permitted.",
+        "title": "Communication orale et écrite en français langue seconde: niveau élémentaire II",
+        "year": "1"
+    },
+    {
+        "code": "FLS1513",
+        "description": "Introduction aux principes fondamentaux de la grammaire française : système de conjugaison, adjectifs et pronoms. Articulation de la phrase.",
+        "language": "French",
+        "restriction": "Prerequisite: FLS1512 or equivalent. Auditors are not permitted.",
+        "title": "Grammaire francaise pour étudiants en langue : niveau élémentaire / French Grammar for Second Language Learners: Elementary Level",
+        "year": "1"
+    },
+    {
+        "code": "FLS1611",
+        "description": "This course is an accelerated version of FLS1511 and FLS1512 to allow the completion of these two courses in one session. See these two course descriptions for content.",
+        "language": "French",
+        "restriction": "The courses FLS1611, FLS1511, FLS1512 cannot be combined for credits. Auditors are not permitted.",
+        "title": "Communication orale et écrite en français langue seconde : niveaux élémentaires I et II / Oral and Written Communication in French as a Second Language: Elementary Levels I and II",
+        "year": "1"
+    },
+    {
+        "code": "FLS1651",
+        "description": " ",
+        "language": "French",
+        "restriction": "Reserved for bursary students.",
+        "title": "Oral & Written French",
+        "year": "1"
+    },
+    {
+        "code": "FLS2500",
+        "description": "Développement de stratégies favorisant un apprentissage efficace et autonome en langue seconde. Découverte et optimisation de l'utilisation des ressources à la disposition des apprenants. Planification d'un portfolio de majeure en FLS.",
+        "language": "French",
+        "restriction": "Préalable : FLS2512 ou l'équivalent. Les auditeurs ne sont pas admis. Consulter le Département pour plus de détails.",
+        "title": "Apprendre à  apprendre",
+        "year": "2"
+    },
+    {
+        "code": "FLS2511",
+        "description": "Révision et élargissement des stratégies de compréhension de l'oral et de l'écrit. Pratique de l'expression orale : conversations libres, courts exposés. Pratique de l'expression écrite : la phrase simple, le paragraphe. Systématisation des connaissances du code linguistique. Pratique individuelle.",
+        "language": "French",
+        "restriction": "Préalable : FLS1513 ou l'équivalent. Les auditeurs ne sont pas admis.",
+        "title": "Communication orale et écrite en français langue seconde : niveau intermédiaire I",
+        "year": "2"
+    },
+    {
+        "code": "FLS2512",
+        "description": "Compréhension de documents écrits et sonores d'intérêt général et universitaire. Pratique de l'expression orale : discussions libres, courts exposés et exercices oraux. Pratique de l'expression écrite : la phrase simple et complexe, le paragraphe, le court texte. Systématisation des connaissances du code linguistique. Pratique individuelle.",
+        "language": "French",
+        "restriction": "Préalable: FLS2511 ou l'équivalent. Ces crédits excluent ceux de FLS2611. Les auditeurs ne sont pas admis.Co- requisite: FLS2512 or equivalent. Auditors are not permitted.",
+        "title": "Communication orale et écrite en français langue seconde : niveau intermédiaire II",
+        "year": "2"
+    },
+    {
+        "code": "FLS2513",
+        "description": "The sentence and its components: principal and subordinate.The verb conjugation system. Prepositions and principal conjunctions. Paragraph formation.",
+        "language": "French",
+        "restriction": "Corequisite: FLS2512 or equivalent. Auditors are not permitted.",
+        "title": "Grammaire française pour étudiants en langue seconde : niveau intermédiaire / French Grammar for Second Language Learners: Intermediate Level",
+        "year": "2"
+    },
+    {
+        "code": "FLS2521",
+        "description": "Exploitation de textes pour la compréhension de l'écrit. Observation de modèles et réinvestissement dans des tâches d'écriture contextualisées : prise de notes, rédaction de messages, lettres, résumés, courts récits. Renforcement des connaissances grammaticales et lexicales.",
+        "language": "French",
+        "restriction": "Préalable : FLS2513 ou l'équivalent. Les auditeurs ne sont pas admis. Consulter le Département pour plus de détails.",
+        "title": "Lire et écrire en français langue seconde",
+        "year": "2"
+    },
+    {
+        "code": "FLS2522",
+        "description": "Exploitation de textes pour la compréhension de l'oral et introduction à l'évaluation critique du contenu; écoute dirigée de documents de longueur et de difficulté variées; prise de notes. Pratique de l'expression orale : imitation de modèles complexes, discussions structurées, commentaires, exposés. Renforcement des connaissances grammaticales et lexicales.",
+        "language": "French",
+        "restriction": "Préalable : FLS2513 ou l'équivalent. Les auditeurs ne sont pas admis. Consulter le Département pour plus de détails.",
+        "title": "Écouter et parler en français langue seconde",
+        "year": "2"
+    },
+    {
+        "code": "FLS2581",
+        "description": "Cours de français associé à un cours de 3 crédits dans une discipline donnée, suivi en français par des étudiants non francophones. L'objectif est de développer les capacités de compréhension en langue seconde (écoute et lecture) et d'aider l'étudiant à bien assimiler la matière de la discipline. Les réponses aux questions d'examen peuvent être fournies en anglais ou en français dans le cours de la discipline, en français seulement dans le cours de langue.",
+        "language": "French",
+        "restriction": "Préalable : FLS2521 ou FLS2522 ou l'équivalent. Les auditeurs ne sont pas admis. Consulter le Département pour plus de détails.",
+        "title": "Immersion 1 : Compréhension orale et écrite",
+        "year": "2"
+    },
+    {
+        "code": "FLS2611",
+        "description": "This course is an accelerated version of FLS2511 and FLS2512 to allow the completion of these two courses in one session. See these two course descriptions for content.",
+        "language": "French",
+        "restriction": "Prerequisite: FLS1512 or FLS1611 or equivalent. The courses FLS2611, FLS2511, FLS2512 cannot be combined for credits. Auditors are not permitted.",
+        "title": "Communication orale et écrite en français langue seconde : niveaux intermédiaires I et II / Oral and Written Communication in French as a Second Language: Intermediate Levels I and II",
+        "year": "2"
+    },
+    {
+        "code": "FLS2651",
+        "description": " ",
+        "language": "French",
+        "restriction": "Reserved for bursary students.",
+        "title": "Oral & Written French",
+        "year": "2"
+    },
+    {
+        "code": "FLS2731",
+        "description": "Pratique intensive de la compréhension de l'oral et sensibilisation aux niveaux de langue. Étude de documents sonores d'envergure. Travaux de laboratoire.",
+        "language": "French",
+        "restriction": "Préalable : FLS2522 ou l'équivalent. Les auditeurs ne sont pas admis.",
+        "title": "Compréhension de l'oral en français langue seconde : niveau avancé I",
+        "year": "2"
+    },
+    {
+        "code": "FLS2741",
+        "description": "Pratique systématique de la compréhension de l'écrit. Lecture de textes de genre et difficultés variés. Introduction à la lecture critique et sensibilisation aux niveaux de langue.",
+        "language": "French",
+        "restriction": "Préalable : FLS2521 ou l'équivalent. Les auditeurs ne sont pas admis. Consulter le Département pour plus de détails.",
+        "title": "Mieux lire en FLS",
+        "year": "2"
+    },
+    {
+        "code": "FLS2751",
+        "description": "Étude et pratique de la communication orale dans des situations de communication impliquant les registres de la langue familière et semi-formelle. Expression des opinions et des sentiments. Observation et imitation de modèles variés. Conversations dirigées (spontanées et préparées) et discussions. Exercices en classe et au laboratoire.",
+        "language": "French",
+        "restriction": "Préalable : FLS2522 ou l'équivalent. Les auditeurs ne sont pas admis. Consulter le Département pour plus de détails.",
+        "title": "Discutons-en",
+        "year": "2"
+    },
+    {
+        "code": "FLS2761",
+        "description": "Étude des étapes nécessaires à l'élaboration de divers genres d'écrits : rédaction de récits, résumés et analyses de modèles de registres variés. Éléments de correspondance courante. Organisation structurée des paragraphes avec consolidation des notions d'autocorrection.",
+        "language": "French",
+        "restriction": "Préalables : FLS2521 ou l'équivalent, FLS2771 ou l'équivalent. Les auditeurs ne sont pas admis. Consulter le Département pour plus de détails.",
+        "title": "Mieux écrire en FLS",
+        "year": "2"
+    },
+    {
+        "code": "FLS2771",
+        "description": "Étude systématique de notions grammaticales par le biais d'activités actionnelles et de réalisation de tâches à oral et à l'écrit. Types et formes de phrases simples et complexes. Consolidation de l'emploi des catégories grammaticales, analyse syntaxique et étude de la conjugaison.",
+        "language": "French",
+        "restriction": "Préalables : FLS2521, FLS2522 ou l'équivalent. Les auditeurs ne sont pas admis. Consulter le Département pour plus de détails.",
+        "title": "Grammaire en contexte : interactions orales et écrites",
+        "year": "2"
+    },
+    {
+        "code": "FLS2772",
+        "description": "Perfectionnement de la prononciation en français standard; caractéristiques articulatoires et prosodiques. Correspondances lettres/sons. Sensibilisation aux registres de la communication.",
+        "language": "French",
+        "restriction": "Préalable : FLS2513 ou l'équivalent. Les auditeurs ne sont pas admis. Consulter le Département pour plus de détails.",
+        "title": "Mieux prononcer pour mieux communiquer en FLS",
+        "year": "2"
+    },
+    {
+        "code": "FLS2791",
+        "description": "Engagement et travail bénévole dans un contexte francophone choisi, approuvé et encadré par le professeur du cours en partenariat avec le Centre d'engagement mondial et communautaire. Encadrement en classe et évaluation mesurée par des activités de réflexion critique à l'oral et à l'écrit.",
+        "language": "French",
+        "restriction": "Préalables : FLS2521, FLS2522 ou l'équivalent. Les auditeurs ne sont pas admis. Consulter le Département pour plus de détails.",
+        "title": "De la salle de classe à la communauté : apprentissage du FLS par le bénévolat",
+        "year": "2"
+    },
+    {
+        "code": "FLS3500",
+        "description": "Exercices diagnostiques et élaboration de stratégies pour améliorer la compréhension de l'oral et de l'écrit et la production orale et écrite aux niveaux intermédiaire-fort et avancé. Une attestation de compétence faisant état du profil langagier de l'étudiant est délivré à la suite d'une série de tests passés avec succès.",
+        "language": "French",
+        "restriction": "",
+        "title": "Compétence en langue seconde : exercices et évaluation",
+        "year": "3"
+    },
+    {
+        "code": "FLS3581",
+        "description": "Cours de français associé à un cours de 3 crédits dans une discipline donnée, suivi en français par des étudiants non francophones. L'objectif est de développer les capacités de production orale et écrite en langue seconde et, ainsi, de donner aux étudiants la confiance nécessaire pour exprimer des idées et rédiger des travaux en français. Les réponses aux questions d'examen peuvent être fournies en anglais ou en français dans le cours de la discipline, en français seulement dans le cours de langue.",
+        "language": "French",
+        "restriction": "Préalables : FLS2581, FLS2751 ou FLS2581, FLS2761 ou l'équivalent. Les auditeurs ne sont pas admis. Consulter le Département pour plus de détails.",
+        "title": "Immersion 2 : Production orale et écrite",
+        "year": "3"
+    },
+    {
+        "code": "FLS3751",
+        "description": "Étude et pratique systématique de diverses formes de communication orale utilisées dans le cadre de situations semi-formelles propres à la vie universitaire (comptes rendus, exposés, tables rondes). Étude et application des techniques employées par le locuteur et par l'interlocuteur. Observation et imitation de modèles variés. Raffinement de la prononciation, du vocabulaire et de la grammaire de l' oral.",
+        "language": "French",
+        "restriction": "Préalable : FLS2751 ou l'équivalent. Les auditeurs ne sont pas admis. Consulter le Département pour plus de détails.",
+        "title": "FLS et l'art de s'exprimer",
+        "year": "3"
+    },
+    {
+        "code": "FLS3761",
+        "description": "Application et perfectionnement individuel des techniques et procédés d'écriture selon la spécificité du genre discursif par le biais de tâches d'écriture. Raffinement du code orthographique et syntaxique; enrichissement du vocabulaire expressif et spécialisé. Stratégies avancées d'autonomie en écriture.",
+        "language": "French",
+        "restriction": "Préalables : FLS2761 ou l'équivalent, FLS2771 ou l'équivalent. Les auditeurs ne sont pas admis. Consulter le Département pour plus de détails.",
+        "title": "S'exprimer à l'écrit en FLS en contexte universitaire",
+        "year": "3"
+    },
+    {
+        "code": "FLS3771",
+        "description": "Étude systématique et application des notions grammaticales dans le cadre de la phrase complexe et du paragraphe (juxtaposition, coordination, subordination); emploi des modes et concordance des temps; emploi des connecteurs logiques à l'oral et à l'écrit (explication, comparaison, condition, cause, conséquence, but, opposition et concession, etc.). Le groupe nominal : étude raisonnée du genre grammatical (marques et attribution). Exercices correctifs, interactifs et productifs. Activités et tâches communicatives.",
+        "language": "French",
+        "restriction": "Préalable : FLS2771 ou l'équivalent. Les auditeurs ne sont pas admis. Consulter le Département pour plus de détails.",
+        "title": "La grammaire des textes universitaires en FLS",
+        "year": "3"
+    },
+    {
+        "code": "FLS3773",
+        "description": "Étude exploratoire du vocabulaire : origines, formation et rapports des mots entre eux. Analyse de règles d'emploi à l'oral et à l'écrit. Analyse et création de champs sémantiques et lexicaux grâce à des tâches exploratoires. Activités à partir d'échantillons langagiers authentiques. Exploitation de ressources lexicales.",
+        "language": "French",
+        "restriction": "Préalables : FLS2521, FLS2522 ou l'équivalent. Les auditeurs ne sont pas admis. Consulter le Département pour plus de détails.",
+        "title": "Le mot juste en FLS",
+        "year": "3"
+    },
+    {
+        "code": "FLS3791",
+        "description": "Analyse de la langue et des conventions utilisées sur internet et dans les médias sociaux francophones. Développement et approfondissement de compétences en littératie numérique pour l'apprentissage du FLS. Pratique de la communication orale et écrite médiatisée par les technologies: blogues, wikis, forums de discussion, fils Twitter et plus.",
+        "language": "French",
+        "restriction": "Préalables : FLS2761 ou l'équivalent. Les auditeurs ne sont pas admis. Consulter le Département pour plus de détails.",
+        "title": "Technologies, internet et médias sociaux en FLS",
+        "year": "3"
+    },
+    {
+        "code": "FLS4500",
+        "description": "Cours synthèse. Projets constituant à la fois une synthèse des connaissances et une réflexion sur le parcours d'apprentissage. Formulation d'objectifs d'apprentissage pour l'avenir. Réalisation et présentation d'un portfolio illustrant le développement linguistique et les réussites majeures.",
+        "language": "French",
+        "restriction": "Préalables : 18 crédits de cours en Français langue seconde (FLS). Cours réservé aux étudiants de la Majeure Français langue seconde.",
+        "title": "Séminaire de fin de parcours",
+        "year": "4"
+    },
+    {
+        "code": "FLS4581",
+        "description": "Cours de français associé à un cours de 3 crédits de niveau 3000 ou 4000 (autre que celui associé à FLS4781) d'une discipline différente suivi concurremment en français par des étudiants non francophones. L'objectif est d'aider les étudiants à faire des présentations orales et à participer à des débats et tables rondes en rapport avec la discipline étudiée en L2. L'accent est mis sur la justesse et la correction des formes linguistiques employées et sur l'analyse d'une sélection de modèles de communication orale reliés au milieu universitaire et aux thèmes spécifiques du cours de discipline. Tout travail remis dans le cours de langue ne pourra être soumis pour notation dans le cours de discipline.",
+        "language": "French",
+        "restriction": "Préalables : FLS2751, FLS3581 ou l'équivalent. Les auditeurs ne sont pas admis. Consulter le Département pour plus de détails.",
+        "title": "Immersion autonome : Communication et argumentation à  l'oral en contexte universitaire",
+        "year": "4"
+    },
+    {
+        "code": "FLS4774",
+        "description": "Développement de la compréhension de la langue parlée au Canada français dans ses variantes principales. Étude de documents écrits et sonores.",
+        "language": "French",
+        "restriction": "Préalables : FLS2751, FLS2761 ou l'équivalent. Les auditeurs ne sont pas admis.",
+        "title": "Le français d'ici",
+        "year": "4"
+    },
+    {
+        "code": "FLS4775",
+        "description": "Examen de l'apport de la compréhension culturelle à la qualité de la communication en langue seconde, à partir de documents de diverses sources. Étude comparée des réactions des francophones et des anglophones à des situations communes; identification des composantes culturelles qui expliquent ces réactions, applications",
+        "language": "French",
+        "restriction": "Préalables : FLS2751, FLS2761 ou l'équivalent. Les auditeurs ne sont pas admis. Consulter le Département pour plus de détails.",
+        "title": "Dimensions et compétences culturelles en FLS. Bilingue et francophile pour la vie",
+        "year": "4"
+    },
+    {
+        "code": "FLS4776",
+        "description": "Évoluez avec aisance dans le contexte particulier de la profession que vous exercez ou dans votre emploi de rêve. À l'oral et à l'écrit. reconnaissez et utilisez les formules les plus directes et efficaces pour enrichir votre communication.",
+        "language": "French",
+        "restriction": "Préalables : FLS3761 ou l'équivalent. Les auditeurs ne sont pas admis. Consulter le Département pour plus de détails.",
+        "title": "Le français langue seconde et le monde du travail.",
+        "year": "4"
+    },
+    {
+        "code": "FLS4781",
+        "description": "Cours de français associé à un cours de 3 crédits de niveau 3000 ou 4000 (autre que celui associé à FLS4581) d'une discipline différente suivi concurremment en français par des étudiants non francophones. L'objectif est d'aider les étudiants à rédiger des rapports de recherche et des articles scientifiques en rapport avec la discipline étudiée en L2. L'accent est mis sur la justesse et la correction des des formes linguistiques employées et sur l'analyse d'une sélection de modèles de composition reliés au milieu universitaire et aux thèmes spécifiques du cours. Tout devoir remis dans le cours de langue ne pourra être soumis pour notation dans le cours de discipline.",
+        "language": "French",
+        "restriction": "Préalables : FLS2761, FLS3581 ou l'équivalent. Les auditeurs ne sont pas admis. Consulter le Département pour plus de détails.",
+        "title": "Immersion autonome : Perfectionnement de l'écrit en contexte universitaire",
+        "year": "4"
+    },
+    {
+        "code": "FLS4791",
+        "description": "S'exprimer avec nuance, précision et fluidité dans des situations de communication variées à l'écrit et à l'oral par le biais de documents déclencheurs audios, vidéos et écrits ayant trait aux domaines des arts, du sport et des loisirs. Étude du vocabulaire des domaines cibles, de connecteurs logiques, de structures syntaxiques complexes. Stratégies de communication.",
+        "language": "French",
+        "restriction": "Préalable : FLS3761 ou FLS3581 ou l'équivalent. Les auditeurs ne sont pas admis. Consulter le Département pour plus de détails.",
+        "title": "Interagir en FLS avec le monde qui nous entoure : actualité, loisirs et culture",
+        "year": "4"
+    }
+]

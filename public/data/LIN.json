@@ -1,0 +1,762 @@
+[
+    {
+        "code": "LIN1300",
+        "description": "Introduction to the study of language, that is, of what is common to all human speakers no matter what specific language they speak. The nature and structure of language, its role in society, how it is learned and how it changes. Linguistic phenomena and their links to other disciplines such as artificial intelligence, education, literature, psychology, speech pathology, translation.",
+        "language": "English",
+        "restriction": "Previously LIN1100. Not open to 3rd or 4th year LIN students.",
+        "title": "What is Language?",
+        "year": "1"
+    },
+    {
+        "code": "LIN1310",
+        "description": "Introduction to the study of the internal structure of words and lexical creation (morphology), of principles governing their combination into larger units to create sentences (syntax), and of basic principles leading to the interpretation of these various linguistic units (semantics).",
+        "language": "English",
+        "restriction": "Previously LIN1101.",
+        "title": "Introduction to Linguistics: From Words to Utterances",
+        "year": "1"
+    },
+    {
+        "code": "LIN1320",
+        "description": "Introduction to the study of the sounds of language (phonetics) and of the sound systems of languages (phonology). Articulation of sounds, phonetic alphabet and phonetic transcription. Sound processes and phonological rules.",
+        "language": "English",
+        "restriction": "Previously LIN2120.",
+        "title": "Introduction to Linguistics: The Sounds of Language",
+        "year": "1"
+    },
+    {
+        "code": "LIN1340",
+        "description": "Are some dialects more correct than others? Do men and women speak the same way? Does bilingualism affect our ability to reason? Do the upper classes really speak better? Have Canadian French and English changed? By examining how we speak in everyday situations, this course addresses these questions and explores ways in which language and society affect each other.",
+        "language": "English",
+        "restriction": "Previously LIN2140. Not open to 3rd or 4th year LIN students.",
+        "title": "Language in Society",
+        "year": "1"
+    },
+    {
+        "code": "LIN1700",
+        "description": "Introduction à l'étude du langage, faculté sous-jacente à toutes les langues humaines. Nature et structure du langage. La langue dans la société. Acquisition des langues. Les phénomènes linguistiques et leurs rapports avec d'autres disciplines : intelligence artificielle, éducation, littérature, psychologie, orthophonie, traduction, etc.",
+        "language": "French",
+        "restriction": "Antérieurement LIN1500. Les étudiants et les étudiantes de 3e et 4e en LIN ne peuvent pas s'inscrire à ce cours.",
+        "title": "Qu'est-ce que le langage?",
+        "year": "1"
+    },
+    {
+        "code": "LIN1710",
+        "description": "Introduction à l'étude de la structure interne des mots et des processus de création lexicale (morphologie), des principes régissant leur combinaison en unités plus larges pour former des phrases (syntaxe), ainsi que des principes de base menant à l'interprétation des diverses unités produites (sémantique).",
+        "language": "French",
+        "restriction": "Antérieurement LIN1501.",
+        "title": "Introduction à la linguistique : Des mots aux énoncés",
+        "year": "1"
+    },
+    {
+        "code": "LIN1720",
+        "description": "Introduction à l'étude des sons du langage (phonétique) et des systèmes sonores des langues (phonologie). Articulation des sons, alphabet phonétique et transcription phonétique. Processus affectant les sons et règles phonologiques.",
+        "language": "French",
+        "restriction": "Antérieurement LIN2520.",
+        "title": "Introduction à la linguistique : Les sons du langage",
+        "year": "1"
+    },
+    {
+        "code": "LIN1740",
+        "description": "Certains dialectes sont-ils plus corrects que d'autres? Les hommes et les femmes parlent-ils de la même façon? Le bilinguisme affecte-t-il notre capacité de raisonnement? Les classes supérieures parlent-elles vraiment mieux? Est-ce que le français et l'anglais parlés au Canada ont changé? Par l'examen de notre façon de parler dans des situations courantes, ce cours aborde ces questions et explore les interactions entre langue et société.",
+        "language": "French",
+        "restriction": "Antérieurement LIN2540. Les étudiants et les étudiantes de 3e et 4e année en LIN ne peuvent pas s'inscrire à ce cours.",
+        "title": "Langue et société",
+        "year": "1"
+    },
+    {
+        "code": "LIN2300",
+        "description": "Language diversity and language families. Language distribution, origin and evolution. Language loss: causes and symptoms, current situation, future prospects, and possibilities of intervention.",
+        "language": "English",
+        "restriction": "",
+        "title": "The World's Languages",
+        "year": "2"
+    },
+    {
+        "code": "LIN2301",
+        "description": "Introduction to the study of an Aboriginal language of Canada, through the teaching of that language as a second language. The language to be studied will be announced in advance by the Department.",
+        "language": "English",
+        "restriction": "No credit is given to students who are already proficient in the language.",
+        "title": "Aboriginal Language",
+        "year": "2"
+    },
+    {
+        "code": "LIN2302",
+        "description": "Analysis of the structure of an Aboriginal language of Canada. The language to be studied shall be announced in advance by the Department.",
+        "language": "English",
+        "restriction": "Prerequisite: LIN2301.",
+        "title": "Aboriginal Language: Structure Analysis",
+        "year": "2"
+    },
+    {
+        "code": "LIN2304",
+        "description": "A survey of systems used to visually record language forms from earliest times to the present. Egyptian hieroglyphics, Mayan writing, the Roman alphabet, among many others. Development of writing. Relationship between features of writing systems and characteristics of the languages that use them. Nature of the linguistic elements that are represented in writing.",
+        "language": "English",
+        "restriction": "",
+        "title": "Writing Systems",
+        "year": "2"
+    },
+    {
+        "code": "LIN2310",
+        "description": "Introduction to syntactic theory, analysis and argumentation.",
+        "language": "English",
+        "restriction": "Prerequisite: LIN1310. Prerequisite or corequisite: LIN1320. Previously LIN2110.",
+        "title": "Introduction to Syntax",
+        "year": "2"
+    },
+    {
+        "code": "LIN2320",
+        "description": "Introduction to contemporary phonology. Argumentation and the nature of theoretical problems. Presentation of a wide range of phenomena in English and other languages.",
+        "language": "English",
+        "restriction": "Prerequisite: LIN1320. Prerequisite or corequisite: LIN1310. Previously LIN2100.",
+        "title": "Introduction to Phonology",
+        "year": "2"
+    },
+    {
+        "code": "LIN2352",
+        "description": "Neuroanatomical organization associated with language functioning. Clinical and experimental findings in aphasiology, laterality, and development disorders. Neural representation and processing of language.",
+        "language": "English",
+        "restriction": "Prerequisites: LIN1310, LIN1320. Previously LIN3352.",
+        "title": "Neurolinguistics",
+        "year": "2"
+    },
+    {
+        "code": "LIN2355",
+        "description": "Theories of second language acquisition. Topics may include the context of learning, adult versus child learners, neurolinguistic considerations, the role of a theory of competence, social and psychological factors.",
+        "language": "English",
+        "restriction": "Prerequisites: LIN1310, LIN1320. Previously LIN3355.",
+        "title": "Second Language Acquisition",
+        "year": "2"
+    },
+    {
+        "code": "LIN2358",
+        "description": "Survey of clinical disorders affecting linguistic communication (speech and language), including those related to the peripheral hearing mechanism.",
+        "language": "English",
+        "restriction": "Prerequisites: LIN1310, LIN1320. Previously LIN3358.",
+        "title": "Communication Disorders",
+        "year": "2"
+    },
+    {
+        "code": "LIN2360",
+        "description": "Issues in bilingualism from a sociolinguistic and/or cognitive perspective.",
+        "language": "English",
+        "restriction": "Prerequisites: LIN1310, LIN1320. Previously LIN3360.",
+        "title": "Bilingualism",
+        "year": "2"
+    },
+    {
+        "code": "LIN2361",
+        "description": "Initiation for the non-specialist to the fundamental structures of the English language. Critical discussion of traditional analyses within the perspective of contemporary linguistic thought.",
+        "language": "English",
+        "restriction": "Prerequisites: LIN1310, LIN1320. Previously LIN2103.",
+        "title": "Descriptive Grammar of Modern English",
+        "year": "2"
+    },
+    {
+        "code": "LIN2381",
+        "description": "Major dialect areas of English. Phonological, morphological, syntactic, lexical variation. Ongoing dialectal changes.",
+        "language": "English",
+        "restriction": "Prerequisites: LIN1310, LIN1320.",
+        "title": "Varieties of English",
+        "year": "2"
+    },
+    {
+        "code": "LIN2700",
+        "description": "Diversité linguistique et familles de langues. Répartition des langues, origine et évolution du langage. Disparition des langues : causes et symptômes, situation actuelle, perspectives d'avenir et possibilités d'intervention.",
+        "language": "French",
+        "restriction": "",
+        "title": "Les langues dans le monde",
+        "year": "2"
+    },
+    {
+        "code": "LIN2701",
+        "description": "Introduction à l'étude d'une langue autochtone du Canada. La langue étudiée sera annoncée à l'avance par le département.",
+        "language": "French",
+        "restriction": "Ce cours ne sera pas crédité aux étudiants et étudiantes ayant déjà une connaissance avancée de la langue choisie.",
+        "title": "Langue autochtone",
+        "year": "2"
+    },
+    {
+        "code": "LIN2702",
+        "description": "Analyse de la structure d'une langue autochtone du Canada. La langue étudiée sera annoncée à l'avance par le département.",
+        "language": "French",
+        "restriction": "Préalable : LIN2701.",
+        "title": "Langue autochtone : Analyse structurelle",
+        "year": "2"
+    },
+    {
+        "code": "LIN2704",
+        "description": "Étude des systèmes qui permettent de représenter la parole sous forme visuelle, de la période ancienne jusqu'à aujourd'hui. Hiéroglyphes égyptiens, écriture maya, alphabet romain, etc. Développement historique de l'écriture. Relation entre les propriétés des systèmes d'écriture et les caractérisitiques des langues qui les emploient. Nature des éléments linguistiques qui sont représentés par écrit.",
+        "language": "French",
+        "restriction": "",
+        "title": "Systèmes d'écriture",
+        "year": "2"
+    },
+    {
+        "code": "LIN2710",
+        "description": "Introduction à la théorie, à l'analyse et à l'argumentation syntaxique.",
+        "language": "French",
+        "restriction": "Préalable : LIN1710. Préalable ou concomitant : LIN1720. Antérieurement LIN2510.",
+        "title": "Introduction à la syntaxe",
+        "year": "2"
+    },
+    {
+        "code": "LIN2720",
+        "description": "Introduction à la phonologie contemporaine. Argumentation et nature des problèmes théoriques. Présentation d'un large éventail de phénomènes sonores, en français et dans d'autres langues.",
+        "language": "French",
+        "restriction": "Préalable : LIN1720. Préalable ou concomitant : LIN1710. Antérieurement LIN2500.",
+        "title": "Introduction à la phonologie",
+        "year": "2"
+    },
+    {
+        "code": "LIN2752",
+        "description": "Examen de l'organisation neuroanatomique associée au fonctionnement du langage. Résultats cliniques et expérimentaux en aphasiologie, en latéralité et en troubles du développement du langage. Représentation neurale du langage et fonctionnement neurolinguistique.",
+        "language": "French",
+        "restriction": "Préalables : LIN1710, LIN1720. Antérieurement LIN3752.",
+        "title": "Neurolinguistique",
+        "year": "2"
+    },
+    {
+        "code": "LIN2755",
+        "description": "Théories de l'acquisition des langues secondes. Thèmes possibles: contexte de l'apprentissage, apprenants adultes et enfants, considérations neurolinguistiques, rôle de la compétence, facteurs sociaux et psychologiques.",
+        "language": "French",
+        "restriction": "Préalables : LIN1710, LIN1720. Antérieurement LIN3755.",
+        "title": "Acquisition des langues secondes",
+        "year": "2"
+    },
+    {
+        "code": "LIN2758",
+        "description": "Aperçu des troubles cliniques dégradant la communication linguistique (c.-à-d. parole et langage) y compris ceux qui sont reliés au mécanisme auditif périphérique.",
+        "language": "French",
+        "restriction": "Préalables : LIN1710, LIN1720. Antérieurement LIN3758.",
+        "title": "Troubles de la communication",
+        "year": "2"
+    },
+    {
+        "code": "LIN2760",
+        "description": "Problèmes de bilinguisme considérés dans une perspective sociolinguistique et/ou cognitive.",
+        "language": "French",
+        "restriction": "Préalables : LIN1710, LIN1720. Antérieurement LIN3760.",
+        "title": "Bilinguisme",
+        "year": "2"
+    },
+    {
+        "code": "LIN2762",
+        "description": "Description des structures fondamentales du français à la lumière de la linguistique contemporaine. Réflexions critiques sur la grammaire traditionnelle.",
+        "language": "French",
+        "restriction": "Préalables : LIN1710, LIN1720. Antérieurement LIN2503.",
+        "title": "Grammaire descriptive du français moderne",
+        "year": "2"
+    },
+    {
+        "code": "LIN2782",
+        "description": "Examen de différentes variétés du français parlé en France et hors de France. Dimensions sociolinguistiques de la francophonie.",
+        "language": "French",
+        "restriction": "Préalables : LIN1710, LIN1720. Antérieurement LIN2531.",
+        "title": "Variétés de français",
+        "year": "2"
+    },
+    {
+        "code": "LIN2784",
+        "description": "Aspects historiques et sociologiques de la langue française depuis l'Ancien Régime jusqu'à nos jours. Les parlers franco-canadiens. Les parlers français au Canada. Analyse des principales caractéristiques phonétiques, morphosyntaxiques et lexicales de ces parlers. Travaux pratiques à partir de documents écrits et oraux.",
+        "language": "French",
+        "restriction": "Préalables : LIN1710, LIN1720. Antérieurement LIN2502.",
+        "title": "Le français du Canada",
+        "year": "2"
+    },
+    {
+        "code": "LIN2785",
+        "description": "Origine et place du français ontarien dans l'ensemble des parlers français au Canada. Particularismes phonétiques, morphologiques, syntaxiques et lexicaux. Aspects sociolinguistiques : bilinguisme, assimilation, exogamie et transferts. Problèmes pratiques de l'aménagement linguistique du français en situation minoritaire.",
+        "language": "French",
+        "restriction": "Antérieurement LIN2505.",
+        "title": "Le français de l'Ontario",
+        "year": "2"
+    },
+    {
+        "code": "LIN2786",
+        "description": "Origine et structure du lexique canado-français: archaïsmes, dialectalismes, régionalismes et emprunts. Procédés de création lexicale; comparaison avec le français général. Étude de glossaires, de dictionnaires et de documents oraux et écrits.",
+        "language": "French",
+        "restriction": "Préalables : LIN1710, LIN1720. Antérieurement LIN3503.",
+        "title": "Lexicologie du français parlé au Canada",
+        "year": "2"
+    },
+    {
+        "code": "LIN3310",
+        "description": "Contemporary syntactic theory.",
+        "language": "English",
+        "restriction": "Prerequisites: LIN1320, LIN2310. Previously LIN3111.",
+        "title": "Syntactic Theory",
+        "year": "3"
+    },
+    {
+        "code": "LIN3315",
+        "description": "Introduction to semantic theory.",
+        "language": "English",
+        "restriction": "Prerequisites: LIN1320, LIN2310. Previously LIN3115.",
+        "title": "Introduction to Semantics",
+        "year": "3"
+    },
+    {
+        "code": "LIN3320",
+        "description": "Contemporary phonological theory.",
+        "language": "English",
+        "restriction": "Prerequisites: LIN1310, LIN2320. Previously LIN3101.",
+        "title": "Phonological Theory",
+        "year": "3"
+    },
+    {
+        "code": "LIN3325",
+        "description": "Survey of phonetics and phonetic typologies of the world's languages; introduction to speech physiology; introduction to speech acoustics. Survey of writing systems typology.",
+        "language": "English",
+        "restriction": "Prerequisites: LIN1310, LIN2320. Previously LIN4121.",
+        "title": "Intermediate Phonetics",
+        "year": "3"
+    },
+    {
+        "code": "LIN3328",
+        "description": "Nature and goals of morphological theory. Word structure. Morphological features. The place of morphology in a grammar. Inflection and derivation. Language typology.",
+        "language": "English",
+        "restriction": "Prerequisites: LIN2310, LIN2320. Previously LIN2125.",
+        "title": "Morphology",
+        "year": "3"
+    },
+    {
+        "code": "LIN3330",
+        "description": "Introduction to historical linguistics and language change.",
+        "language": "English",
+        "restriction": "Prerequisites: LIN2310, LIN2320. Previously LIN3130.",
+        "title": "Historical Linguistics",
+        "year": "3"
+    },
+    {
+        "code": "LIN3332",
+        "description": "Development of English from its roots in Indo-European and Germanic; effects of contact with Celtic, Latin, Scandinavian, French. Dialect variation in Old and Middle English and effects on current dialects. Ongoing change in English.",
+        "language": "English",
+        "restriction": "Prerequisites: LIN2310, LIN2320. Previously LIN3132.",
+        "title": "Linguistic History of English",
+        "year": "3"
+    },
+    {
+        "code": "LIN3335",
+        "description": "Synchronic or diachronic problem in one or more Indo-European language families.",
+        "language": "English",
+        "restriction": "Prerequisites: LIN2310, LIN2320. Previously LIN3137.",
+        "title": "Indo-European Linguistics",
+        "year": "3"
+    },
+    {
+        "code": "LIN3338",
+        "description": "Historical development of linguistic thought.",
+        "language": "English",
+        "restriction": "Prerequisites: LIN2310, LIN2320. Previously LIN3170.",
+        "title": "History of Linguistics",
+        "year": "3"
+    },
+    {
+        "code": "LIN3340",
+        "description": "Theory of language variation and change. Compilation of dialect atlases. Standard and non-standard varieties of language. Contemporary approaches to dialect variation.",
+        "language": "English",
+        "restriction": "Prerequisites: LIN2310, LIN2320. Previously LIN3141.",
+        "title": "Dialectology",
+        "year": "3"
+    },
+    {
+        "code": "LIN3342",
+        "description": "Aspects of linguistic theory in the light of social structures and language functions. Topics may include language variation, language change, discourse structure, bilingual and compensatory education, language planning and language and culture.",
+        "language": "English",
+        "restriction": "Prerequisites: LIN2310, LIN2320. Previously LIN3140.",
+        "title": "Sociolinguistics",
+        "year": "3"
+    },
+    {
+        "code": "LIN3350",
+        "description": "Survey of fundamental issues in psycholinguistics such as speech perception and production, sentence and discourse comprehension and first language acquisition.",
+        "language": "English",
+        "restriction": "Prerequisites: LIN2310, LIN2320. Previously LIN3150.",
+        "title": "Psycholinguistics",
+        "year": "3"
+    },
+    {
+        "code": "LIN3354",
+        "description": "Acquisition of the mother tongue.",
+        "language": "English",
+        "restriction": "Prerequisites: LIN2310, LIN2320. Previously LIN4151.",
+        "title": "First Language Acquisition",
+        "year": "3"
+    },
+    {
+        "code": "LIN3371",
+        "description": "Selected topics in the philosophy of language. Philosophical logic and recent linguistic theory: meaning, truth, verification, existence, reference, propositions, entailment, subjects and predicates.",
+        "language": "English",
+        "restriction": "Prerequisite: LIN2310. Previously LIN3391. Also offered as PHI3391.",
+        "title": "Philosophy of Language",
+        "year": "3"
+    },
+    {
+        "code": "LIN3710",
+        "description": "Théorie syntaxique contemporaine.",
+        "language": "French",
+        "restriction": "Préalables : LIN1720, LIN2710. Antérieurement LIN3520.",
+        "title": "Théorie syntaxique",
+        "year": "3"
+    },
+    {
+        "code": "LIN3715",
+        "description": "Introduction à la théorie sémantique.",
+        "language": "French",
+        "restriction": "Préalables : LIN1720, LIN2710. Antérieurement LIN3515.",
+        "title": "Introduction à la sémantique",
+        "year": "3"
+    },
+    {
+        "code": "LIN3720",
+        "description": "Théorie phonologique contemporaine.",
+        "language": "French",
+        "restriction": "Préalables : LIN1710, LIN2720. Antérieurement LIN3505.",
+        "title": "Théorie phonologique",
+        "year": "3"
+    },
+    {
+        "code": "LIN3725",
+        "description": "Phonétique et typologie phonétique des langues du monde; introduction à la physiologie de la parole; introduction à l'acoustique de la parole. Typologie des systèmes d'écriture.",
+        "language": "French",
+        "restriction": "Préalables : LIN1710, LIN2720. Antérieurement LIN4521.",
+        "title": "Phonétique intermédiaire",
+        "year": "3"
+    },
+    {
+        "code": "LIN3728",
+        "description": "Nature et buts de la théorie morphologique. Structure du mot. Traits morphologiques. Place de la morphologie dans la grammaire. Flexion et dérivation. Typologie linguistique.",
+        "language": "French",
+        "restriction": "Préalables : LIN2710, LIN2720. Antérieurement LIN 2525.",
+        "title": "Morphologie",
+        "year": "3"
+    },
+    {
+        "code": "LIN3730",
+        "description": "Introduction à la linguistique historique et à l'étude du changement linguistique.",
+        "language": "French",
+        "restriction": "Préalables : LIN2710, LIN2720. Antérieurement LIN3530.",
+        "title": "Linguistique historique",
+        "year": "3"
+    },
+    {
+        "code": "LIN3733",
+        "description": "Application des théories et des méthodes de la linguistique historique à l'étude diachronique de la langue française.",
+        "language": "French",
+        "restriction": "Préalables : LIN2710, LIN2720. Antérieurement LIN3533.",
+        "title": "Histoire linguistique du français",
+        "year": "3"
+    },
+    {
+        "code": "LIN3735",
+        "description": "Étude d'une question synchronique ou diachronique dans une ou plusieurs famille(s) indo-européenne(s).",
+        "language": "French",
+        "restriction": "Préalables : LIN2710, LIN2720. Antérieurement LIN3537.",
+        "title": "Linguistique indo-européenne",
+        "year": "3"
+    },
+    {
+        "code": "LIN3738",
+        "description": "Développement historique de la pensée linguistique.",
+        "language": "French",
+        "restriction": "Préalables : LIN2710, LIN2720. Antérieurement LIN3570.",
+        "title": "Histoire de la linguistique",
+        "year": "3"
+    },
+    {
+        "code": "LIN3740",
+        "description": "Théorie de la variation et du changement linguistiques. Compilation des atlas linguistiques. Variétés standard et non standard. Approches contemporaines de la variation dialectale.",
+        "language": "French",
+        "restriction": "Préalables : LIN2710, LIN2720. Antérieurement LIN3541.",
+        "title": "Dialectologie",
+        "year": "3"
+    },
+    {
+        "code": "LIN3742",
+        "description": "Théorie linguistique, structure sociale et fonctions du langage. Thèmes possibles : variation, changement linguistique, structure du discours, éducation bilingue, planification linguistique, langue et culture.",
+        "language": "French",
+        "restriction": "Préalables : LIN2710, LIN2720. Antérieurement LIN3540.",
+        "title": "Sociolinguistique",
+        "year": "3"
+    },
+    {
+        "code": "LIN3750",
+        "description": "Problèmes de base en psycholinguistique.",
+        "language": "French",
+        "restriction": "Préalables : LIN2710, LIN2720. Antérieurement LIN3550.",
+        "title": "Psycholinguistique",
+        "year": "3"
+    },
+    {
+        "code": "LIN3754",
+        "description": "Acquisition de la langue maternelle.",
+        "language": "French",
+        "restriction": "Préalables : LIN2710, LIN2720. Antérieurement LIN4551.",
+        "title": "Acquisition de la langue maternelle",
+        "year": "3"
+    },
+    {
+        "code": "LIN3771",
+        "description": "Étude des problèmes particuliers à la philosophie du langage. La logique philosophique et les plus récentes théories linguistiques : signification, vérité, vérification, existence, référence, propositions, implications, sujets et prédicats.",
+        "language": "French",
+        "restriction": "Préalable : LIN2710. Antérieurement LIN3791. Aussi offert sous la cote PHI3791.",
+        "title": "Philosophie du langage",
+        "year": "3"
+    },
+    {
+        "code": "LIN3781",
+        "description": "Structures grammaticales du français parlé au Canada. Analyse des écarts par rapport au français général. Liens avec la syntaxe de la langue populaire. Étude de documents oraux et écrits.",
+        "language": "French",
+        "restriction": "Préalable : LIN2710. Antérieurement LIN3502.",
+        "title": "Morphologie et syntaxe du français parlé au Canada",
+        "year": "3"
+    },
+    {
+        "code": "LIN3782",
+        "description": "Propriétés phonétiques et phonologiques du français parlé au Canada. Variantes régionales et sociales. Comparaison avec le français général. Étude de documents oraux.",
+        "language": "French",
+        "restriction": "Préalable : LIN2720. Antérieurement LIN3504.",
+        "title": "Phonétique et phonologie du français parlé au Canada",
+        "year": "3"
+    },
+    {
+        "code": "LIN4315",
+        "description": "Contemporary semantic theory.",
+        "language": "English",
+        "restriction": "Prerequisite: LIN3315. Previously LIN3116.",
+        "title": "Semantic Theory",
+        "year": "4"
+    },
+    {
+        "code": "LIN4325",
+        "description": "Anatomical, physiological, and neurological substrates of speech production and of hearing. Phonetics in the light of these substrates. Ontogeny and phylogeny of speech. Applied speech sciences.",
+        "language": "English",
+        "restriction": "Prerequisite: LIN3325. Previously LIN4122.",
+        "title": "Speech Production",
+        "year": "4"
+    },
+    {
+        "code": "LIN4326",
+        "description": "Acoustic theory; acoustics of the speech signal; articulatory generation of the acoustic phonetic signal; psychoacoustics; implications for research. Laboratory methods in the speech sciences. Group or individual project(s).",
+        "language": "English",
+        "restriction": "Prerequisite: LIN3325. Previously LIN4123.",
+        "title": "Speech Acoustics",
+        "year": "4"
+    },
+    {
+        "code": "LIN4328",
+        "description": "Analysis of phonetic and phonological disorders of speech and language; phonetics of physiological anomalies and of other disorders; phonological disorders.",
+        "language": "English",
+        "restriction": "Prerequisite: LIN3325.",
+        "title": "Clinical Phonetics and Phonology",
+        "year": "4"
+    },
+    {
+        "code": "LIN4340",
+        "description": "Analysis of language and social behaviour on the basis of natural data gathered in the speech community. Methods of linguistic data-collection in the urban setting, including the rapid anonymous survey, the sociolinguistic interview, participant observation and natural experimentation. Working in groups, students will study a particular neighbourhood in the Ottawa-Gatineau metropolitan region.",
+        "language": "English",
+        "restriction": "Prerequisite: LIN3310 or LIN3320 or LIN3342. Previously LIN4142.",
+        "title": "Urban Dialectology I : Data Collection",
+        "year": "4"
+    },
+    {
+        "code": "LIN4341",
+        "description": "Introduction to quantitative methods, within the framework of variation theory, for the empirical study of linguistic variation, of class and ethnic stratification, of age and sex differentiation, of linguistic change in progress and discourse analysis. Technical aspects of transcribing, coding, counting and storing spontaneous speech-data collected by students in LIN 4340 or elsewhere.",
+        "language": "English",
+        "restriction": "Prerequisite: LIN4340. Previously LIN4143.",
+        "title": "Urban Dialectology II: Empirical Analysis of Linguistic Variation",
+        "year": "4"
+    },
+    {
+        "code": "LIN4372",
+        "description": "Insights into the diversity of linguistic structure and a range of theoretical issues through the medium of linguistics analysis of an unfamiliar language.",
+        "language": "English",
+        "restriction": "Prerequisites: LIN 3310, LIN 3320.",
+        "title": "Linguistic Analysis of an Unfamiliar Language",
+        "year": "4"
+    },
+    {
+        "code": "LIN4381",
+        "description": "Variable theme course examining various aspects of English from a linguistic perspective.",
+        "language": "English",
+        "restriction": "Prerequisites: LIN3310, LIN3320. Previously LIN4301.",
+        "title": "Research in English Linguistics",
+        "year": "4"
+    },
+    {
+        "code": "LIN4391",
+        "description": "Topics in current linguistics.",
+        "language": "English",
+        "restriction": "Prerequisite: Permission of the Department. Previously LIN4997.",
+        "title": "Topics in Linguistics I",
+        "year": "4"
+    },
+    {
+        "code": "LIN4392",
+        "description": "Topics in current linguistics.",
+        "language": "English",
+        "restriction": "Prerequisite: Permission of the Department.",
+        "title": "Topics in Linguistics II",
+        "year": "4"
+    },
+    {
+        "code": "LIN4393",
+        "description": "Topics in current linguistics.",
+        "language": "English",
+        "restriction": "Prerequisite: Permission of the Department.",
+        "title": "Topics in Linguistics III",
+        "year": "4"
+    },
+    {
+        "code": "LIN4398",
+        "description": "Thesis or major research paper written under the guidance of two professors, of whom one is the supervisor. Before being able to register, the student must create a plan for the thesis and have it approved by the professors.",
+        "language": "English",
+        "restriction": "Prerequisites: 3 courses from LIN3310, LIN3315, LIN3320, LIN3325, LIN3328, LIN3350 and permission of the Department. Average grade of A- (8) in LIN courses. Open only to students enrolled in the Honours BA in Linguistics or the Joint Honours BA in Psychology and Linguistics.",
+        "title": "Honours Thesis",
+        "year": "4"
+    },
+    {
+        "code": "LIN4399",
+        "description": "Major research paper written under the guidance of a professor of the Department. Before being able to register, the student must create a plan for the research project and have it approved by the professor and the department.",
+        "language": "English",
+        "restriction": "Prerequisites: 6 credits from LIN3310, LIN3315, LIN3320, LIN3325, LIN3328, LIN3350 and permission of the Department.",
+        "title": "Guided Research",
+        "year": "4"
+    },
+    {
+        "code": "LIN4715",
+        "description": "Théorie sémantique contemporaine.",
+        "language": "French",
+        "restriction": "Préalable : LIN3715. Antérieurement LIN3516.",
+        "title": "Théorie sémantique",
+        "year": "4"
+    },
+    {
+        "code": "LIN4725",
+        "description": "Substrats anatomique, physiologique et neurologique de la production de la parole et de l'ouïe. La phonétique à la lumière de ces substrats. Ontogénie et phylogénie de la parole. Sciences de la parole et applications.",
+        "language": "French",
+        "restriction": "Préalable : LIN3725. Antérieurement LIN4522.",
+        "title": "Production de la parole",
+        "year": "4"
+    },
+    {
+        "code": "LIN4726",
+        "description": "Théorie acoustique. Acoustique du signal vocal, génération articulatoire du signal acoustique phonétique, psychoacoustique, implications pour la recherche. Projet(s) individuel(s) ou en groupe.",
+        "language": "French",
+        "restriction": "Préalable : LIN3725. Antérieurement LIN4523.",
+        "title": "Acoustique de la parole",
+        "year": "4"
+    },
+    {
+        "code": "LIN4728",
+        "description": "Analyse de troubles phonétiques et phonologiques de la parole et de la langue; phonétique des anomalies physiologiques et d'autres troubles; troubles phonologiques.",
+        "language": "French",
+        "restriction": "Préalable : LIN3725.",
+        "title": "Phonétique et phonologie cliniques",
+        "year": "4"
+    },
+    {
+        "code": "LIN4740",
+        "description": "Analyse du langage et du comportement social à partir de données sur le parler spontané, recueillies dans une communauté linguistique. Méthodes de collecte de données en milieu urbain : enquête anonyme rapide, entrevue sociolinguistique, observation participante et expérimentation naturelle. Étude en groupe d'un quartier de la région métropolitaine d'Ottawa-Gatineau.",
+        "language": "French",
+        "restriction": "Préalable : LIN3710 ou LIN3720 ou LIN3742. Antérieurement LIN4542.",
+        "title": "Dialectologie urbaine I : Collecte de données",
+        "year": "4"
+    },
+    {
+        "code": "LIN4741",
+        "description": "Introduction aux méthodes quantitatives reliées à l'analyse empirique de la variation linguistique, à la stratification des classes et des ethnies, à l'étude du changement linguistique en cours et à l'analyse du discours dans le cadre de la théorie de la variation. Aspects techniques de la transcription, du codage, du dépouillement et de l'emmagasinage des données recueillies dans le cadre du cours LIN 4740 ou ailleurs.",
+        "language": "French",
+        "restriction": "Préalable : LIN4740. Antérieurement LIN4543.",
+        "title": "Dialectologie urbaine II : Analyse empirique de la variation linguistique",
+        "year": "4"
+    },
+    {
+        "code": "LIN4772",
+        "description": "Regard sur la diversité des structures linguistiques et sur un ensemble de problèmes théoriques par l'intermédiaire de l'analyse linguistique d'une langue peu familière.",
+        "language": "French",
+        "restriction": "Préalables : LIN3710, LIN3720.",
+        "title": "Analyse linguistique d'une langue peu familière",
+        "year": "4"
+    },
+    {
+        "code": "LIN4782",
+        "description": "Cours à thème variable portant sur différents aspects linguistiques du français.",
+        "language": "French",
+        "restriction": "Préalables : LIN3710, LIN3720. Antérieurement LIN4701.",
+        "title": "Recherche en linguistique française",
+        "year": "4"
+    },
+    {
+        "code": "LIN4783",
+        "description": "Cours à thème variable portant sur différents aspects linguistiques du français parlé au Canada.",
+        "language": "French",
+        "restriction": "Préalables : 6 crédits parmi LIN2784, LIN3710 ou LIN3720. Antérieurement LIN4702.",
+        "title": "Recherche sur le français parlé au Canada",
+        "year": "4"
+    },
+    {
+        "code": "LIN4791",
+        "description": "Problèmes de linguistique contemporaine.",
+        "language": "French",
+        "restriction": "Préalable : Permission du Département.",
+        "title": "Problèmes de linguistique I",
+        "year": "4"
+    },
+    {
+        "code": "LIN4792",
+        "description": "Problèmes de linguistique contemporaine.",
+        "language": "French",
+        "restriction": "Préalable : Permission du Département.",
+        "title": "Problèmes de linguistique II",
+        "year": "4"
+    },
+    {
+        "code": "LIN4793",
+        "description": "Problèmes de linguistique contemporaine.",
+        "language": "French",
+        "restriction": "Préalable : Permission du Département.",
+        "title": "Problèmes de linguistique III",
+        "year": "4"
+    },
+    {
+        "code": "LIN4798",
+        "description": "Mémoire ou travail de recherche substantiel élaboré sous la direction de deux professeurs, dont l'un sera le superviseur. Avant de pouvoir s'inscrire, l'étudiant doit établir un projet de mémoire et le faire approuver par les professeurs.",
+        "language": "French",
+        "restriction": "Préalables : 3 cours parmi LIN3710, LIN3715, LIN3720, LIN3725, LIN3728, LIN3750. Permission du Département. Moyenne de A- (8) dans les cours LIN. Inscription réservée aux étudiants inscrits au spécialisé en linguistique ou au spécialisé bidisciplinaire psychologie-linguistique.",
+        "title": "Mémoire de spécialisation",
+        "year": "4"
+    },
+    {
+        "code": "LIN4799",
+        "description": "Travail de recherche substantiel élaboré de façon individuelle sous la supervision d'un professeur du Département. Avant de pouvoir s'inscrire, l'étudiant doit définir un projet de recherche et le faire approuver par le professeur et par le département.",
+        "language": "French",
+        "restriction": "Préalables : 6 crédits parmi LIN3710, LIN3715, LIN3720, LIN3725, LIN3728 et LIN3750, et permission du Département.",
+        "title": "Recherche dirigée",
+        "year": "4"
+    },
+    {
+        "code": "LIN4952",
+        "description": "Students will explore concepts and theories introduced in LIN3350 Psycholinguistics by conducting a psycholinguistic experiment in small groups. Group members will be responsible for research design, implementation, analysis, and interpretation of the experiment.   Les étudiants exploreront des concepts et des théories présentés en LIN3750 psycholinguistique en menant une expérience de psycholinguistique en petits groupes. Les membres de chaque groupe auront la responsabilité de concevoir, réaliser, analyser et interpréter l'expérience.",
+        "language": "Bilingual/Unofficial/Unspecified",
+        "restriction": "Prerequisite: LIN3350 with a minimum of B.   Préalable : LIN3750 avec minimum B.",
+        "title": "Laboratoire en psycholinguistique / Laboratory in Psycholinguistics",
+        "year": "4"
+    },
+    {
+        "code": "LIN4970",
+        "description": "Introduction to the theory and practice of linguistic analysis in the field, that is, documentation of an undocumented or partially documented language through interaction with a native speaker consultant. Consultant selection, data elicitation, methods of fieldwork, cultural issues in the field.   Introduction à la théorie et à la pratique de l'analyse sur le terrain, c'est-à-dire la documentation d'une langue non ou peu documentée par le biais de consultations avec un locuteur natif. Choix de consultants, cueillette de données, techniques d'enquête, enjeux culturels sur le terrain.",
+        "language": "Bilingual/Unofficial/Unspecified",
+        "restriction": "Prerequisites: LIN2310, LIN2320, and 3 credits from: LIN3310, LIN3320, LIN3325.   Préalables : LIN2710, LIN2720, et 3 crédits parmi LIN3710, LIN3720, LIN3725.",
+        "title": "Méthodologie du travail avec des consultants linguistiques / Methodology of linguistic consultant work",
+        "year": "4"
+    },
+    {
+        "code": "LIN4973",
+        "description": "Linguistic analysis on location within a community of native speakers of the language being analyzed. Course will be held on a cost-recovery basis in a community in Canada or abroad.   Analyse linguistique sur le terrain, au sein d'une communauté de locuteurs natifs de la langue à être étudiée. Le cours sera offert dans une communauté au Canada ou à l'étranger, sur la base du recouvrement des coûts.",
+        "language": "Bilingual/Unofficial/Unspecified",
+        "restriction": "Prerequisite: LIN4372 (focused on the same language as LIN4973). Permission of the professor is required. LIN4970 highly recommended.   Préalable : LIN4772 (basé sur la même langue que LIN4973). Permission du professeur est requise. LIN4970 fortement recommandé.",
+        "title": "Recherche sur le terrain / Field Research",
+        "year": "4"
+    }
+]

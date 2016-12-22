@@ -2,7 +2,7 @@ import React from 'react';
 import { Link, Match, Miss } from 'react-router';
 
 import departments from '../data/departments';
-import sampleCourses from '../data/HIS';
+import compiledCourses from '../data/courses.json';
 
 import 'tachyons';
 
@@ -71,7 +71,6 @@ class App extends React.Component {
           render={
             (props) => <CourseSelector
               {...props}
-              courses={sampleCourses}
               toggleInterestedCourse={this.toggleInterestedCourse}
               interestedCourses={this.state.interestedCourses}
               departments={departments}
@@ -85,7 +84,7 @@ class App extends React.Component {
           render={
             (props) => <SelectedCourseViewer
               {...props}
-              courses={sampleCourses}
+              courses={compiledCourses}
               toggleInterestedCourse={this.toggleInterestedCourse}
               interestedCourses={this.state.interestedCourses}
             />

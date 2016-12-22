@@ -46,7 +46,7 @@ class SelectedCourseViewer extends React.Component {
 
         <select
           id="department"
-          className="w-100 mt2"
+          className="w-100 mt1 mb4"
           onChange={(e) => this.alterDisplayedDepartments(e.target.selectedOptions)}
           multiple={true}
         >

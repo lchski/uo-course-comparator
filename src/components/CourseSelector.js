@@ -18,14 +18,15 @@ class CourseSelector extends React.Component {
   }
 
   switchDepartment(department) {
-    this.departmentSwitchRequest = request.get(`${process.env.PUBLIC_URL}/data/${department}.json`)
+    request.get(`${process.env.PUBLIC_URL}/data/${department}.json`)
       .then((success) => {
-        console.log('Qapla!', success);
+        this.setState({
+          currentDepartment: department,
+          courses: success.body
+        });
       }, (failure) => {
         console.log('Bah!', failure);
       });
-
-    this.setState({ currentDepartment: department });
   }
 
   renderDepartmentSection(currentDepartment) {
@@ -36,7 +37,7 @@ class CourseSelector extends React.Component {
         <CourseList
           toggleInterestedCourse={this.props.toggleInterestedCourse}
           interestedCourses={this.props.interestedCourses}
-          courses={this.props.courses}
+          courses={this.state.courses}
         />
       </div>
     )

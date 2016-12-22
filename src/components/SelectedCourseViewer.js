@@ -3,6 +3,28 @@ import React from 'react';
 import CourseList from './CourseList';
 
 class SelectedCourseViewer extends React.Component {
+  constructor() {
+    super();
+
+    this.alterDisplayedDepartments = this.alterDisplayedDepartments.bind(this);
+
+    this.state = {
+      displayedDepartments: []
+    };
+  }
+
+  alterDisplayedDepartments(selectedDepartments) {
+    let extractedDepartmentCodes = [];
+
+    for (let i = 0; i < selectedDepartments.length; i++) {
+      extractedDepartmentCodes.push(selectedDepartments[i].value);
+    }
+
+    this.setState({
+      displayedDepartments: extractedDepartmentCodes
+    });
+  }
+
   render() {
     let filteredCourses = this.props.courses.filter((course) => this.props.interestedCourses.includes(course.code));
 
@@ -18,11 +40,22 @@ class SelectedCourseViewer extends React.Component {
 
     let filteredDepartments = this.props.departments.filter((department) => extractedDepartments.includes(department.code));
 
-    console.log(filteredDepartments);
-
     return (
       <div>
         <p className="measure-narrow lh-copy">Listed below are the courses you’ve marked as interesting.</p>
+
+        <select
+          id="department"
+          className="w-100 mt2"
+          onChange={(e) => this.alterDisplayedDepartments(e.target.selectedOptions)}
+          multiple={true}
+        >
+          {
+            filteredDepartments.map((department) => {
+              return <option key={department.code} value={department.code}>{department.name}</option>
+            })
+          }
+        </select>
 
         <CourseList
           toggleInterestedCourse={this.props.toggleInterestedCourse}

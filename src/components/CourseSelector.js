@@ -18,20 +18,18 @@ class CourseSelector extends React.Component {
   }
 
   componentWillMount() {
-    // Grab a reference to our stored filter state
+    // Grab a reference to the stored department
     const localStorageDepartment = localStorage.getItem('selected-department');
 
-    // Check if we've actually stored our filter state
+    // Check if we've actually stored a department
     if (localStorageDepartment) {
       // Set our component state to match the stored one
-      this.setState({
-        currentDepartment: JSON.parse(localStorageDepartment)
-      });
+      this.switchDepartment(JSON.parse(localStorageDepartment));
     }
   }
 
   componentDidUpdate() {
-    // Update our stored filter state
+    // Update our stored department
     localStorage.setItem('selected-department', JSON.stringify(this.state.currentDepartment));
   }
 

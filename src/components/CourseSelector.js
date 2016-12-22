@@ -17,11 +17,15 @@ class CourseSelector extends React.Component {
     };
   }
 
-  switchDepartment(department) {
-    request.get(`${process.env.PUBLIC_URL}/data/${department}.json`)
+  switchDepartment(newDepartmentCode) {
+    if (typeof this.props.departments.find((department) => department.code === newDepartmentCode) == 'undefined') {
+      return;
+    }
+
+    request.get(`${process.env.PUBLIC_URL}/data/${newDepartmentCode}.json`)
       .then((success) => {
         this.setState({
-          currentDepartment: department,
+          currentDepartment: newDepartmentCode,
           courses: success.body
         });
       }, (failure) => {

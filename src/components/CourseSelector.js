@@ -17,20 +17,37 @@ class CourseSelector extends React.Component {
     };
   }
 
+  componentWillMount() {
+    // Grab a reference to our stored filter state
+    const localStorageDepartment = localStorage.getItem('selected-department');
+
+    // Check if we've actually stored our filter state
+    if (localStorageDepartment) {
+      // Set our component state to match the stored one
+      this.setState({
+        currentDepartment: JSON.parse(localStorageDepartment)
+      });
+    }
+  }
+
+  componentDidUpdate() {
+    // Update our stored filter state
+    localStorage.setItem('selected-department', JSON.stringify(this.state.currentDepartment));
+  }
+
   switchDepartment(newDepartmentCode) {
-    if (typeof this.props.departments.find((department) => department.code === newDepartmentCode) == 'undefined') {
-      return;
+    if (typeof this.props.departments.find((department) => department.code === newDepartmentCode) != 'undefined') {
+      request.get(`${process.env.PUBLIC_URL}/data/${newDepartmentCode}.json`)
+        .then((success) => {
+          this.setState({
+            courses: success.body
+          });
+        }, (failure) => {
+          console.log('Bah!', failure);
+        });
     }
 
-    request.get(`${process.env.PUBLIC_URL}/data/${newDepartmentCode}.json`)
-      .then((success) => {
-        this.setState({
-          currentDepartment: newDepartmentCode,
-          courses: success.body
-        });
-      }, (failure) => {
-        console.log('Bah!', failure);
-      });
+    this.setState({ currentDepartment: newDepartmentCode });
   }
 
   renderDepartmentSection(currentDepartment) {
@@ -55,8 +72,8 @@ class CourseSelector extends React.Component {
         <p className="measure-narrow lh-copy">Welcome to the course comparator. To begin, select a department whose courses you’d like to view.</p>
 
         <label htmlFor="department" className="db i">Department</label>
-        <select id="department" className="w-100 mt2" onChange={(e) => this.switchDepartment(e.target.value)}>
-          <option value={null}>---No department---</option>
+        <select id="department" className="w-100 mt2" onChange={(e) => this.switchDepartment(e.target.value)} value={this.state.currentDepartment}>
+          <option value={0}>---No department---</option>
           {
             this.props.departments.map((department) => {
               return <option key={department.code} value={department.code}>{department.name}</option>

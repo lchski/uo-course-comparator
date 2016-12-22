@@ -4,6 +4,8 @@ import { Link, Match, Miss } from 'react-router';
 import departments from '../data/departments';
 import sampleCourses from '../data/HIS';
 
+import 'tachyons';
+
 import CourseSelector from './CourseSelector';
 import SelectedCourseViewer from './SelectedCourseViewer';
 

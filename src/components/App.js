@@ -87,6 +87,7 @@ class App extends React.Component {
               courses={compiledCourses}
               toggleInterestedCourse={this.toggleInterestedCourse}
               interestedCourses={this.state.interestedCourses}
+              departments={departments}
             />
           }
         />

@@ -14,7 +14,11 @@ class SelectedCourseViewer extends React.Component {
      * departments.) Then, we cast that to a Set, which can contain only unique values,
      * and spread it into an Array so that we have it in a more useful datatype.
      */
-    let departments = [...new Set(filteredCourses.map((course) => course.code.substring(0,3)))];
+    let extractedDepartments = [...new Set(filteredCourses.map((course) => course.code.substring(0,3)))];
+
+    let filteredDepartments = this.props.departments.filter((department) => extractedDepartments.includes(department.code));
+
+    console.log(filteredDepartments);
 
     return (
       <div>

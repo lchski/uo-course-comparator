@@ -89,6 +89,14 @@ class App extends React.Component {
             />
           }
         />
+
+        <Miss
+          render={
+            (props) => (
+              <div className="lh-copy mt3">You seem to have found a page that we haven’t worked on... Nothing to see here!</div>
+            )
+          }
+        />
       </div>
     )
   }

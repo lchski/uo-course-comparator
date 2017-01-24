@@ -2,7 +2,7 @@ import React from 'react';
 
 import request from 'superagent';
 
-import CourseList from './CourseList';
+import CourseList from '../components/CourseList';
 
 class CourseSelector extends React.Component {
   constructor() {

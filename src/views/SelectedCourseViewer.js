@@ -1,6 +1,6 @@
 import React from 'react';
 
-import CourseList from './CourseList';
+import CourseList from '../components/CourseList';
 
 class SelectedCourseViewer extends React.Component {
   constructor() {

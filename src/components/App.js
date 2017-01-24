@@ -6,8 +6,8 @@ import compiledCourses from '../data/courses.json';
 
 import 'tachyons';
 
-import CourseSelector from './CourseSelector';
-import SelectedCourseViewer from './SelectedCourseViewer';
+import CourseSelector from '../views/CourseSelector';
+import SelectedCourseViewer from '../views/SelectedCourseViewer';
 
 class App extends React.Component {
   constructor() {

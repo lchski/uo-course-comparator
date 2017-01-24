@@ -9,20 +9,20 @@ class SelectedCourseViewer extends React.Component {
     this.alterDisplayedDepartments = this.alterDisplayedDepartments.bind(this);
 
     this.state = {
-      displayedDepartments: []
+      displayedDepartments: new Set()
     };
   }
 
-  alterDisplayedDepartments(selectedDepartments) {
-    let extractedDepartmentCodes = [];
+  alterDisplayedDepartments(departmentCode, displayedState) {
+    let displayedDepartments = new Set([...this.state.displayedDepartments]);
 
-    for (let i = 0; i < selectedDepartments.length; i++) {
-      extractedDepartmentCodes.push(selectedDepartments[i].value);
+    if (true === displayedState) {
+      displayedDepartments.add(departmentCode);
+    } else {
+      displayedDepartments.delete(departmentCode);
     }
 
-    this.setState({
-      displayedDepartments: extractedDepartmentCodes
-    });
+    this.setState({ displayedDepartments });
   }
 
   render() {
@@ -44,20 +44,25 @@ class SelectedCourseViewer extends React.Component {
       <div>
         <p className="measure-narrow lh-copy">Listed below are the courses you’ve marked as interesting.</p>
 
-        <select
-          id="department"
-          className="w-100 mt1 mb4"
-          onChange={(e) => this.alterDisplayedDepartments(e.target.selectedOptions)}
-          multiple={true}
-        >
-          {
-            filteredDepartments.map((department) => {
-              return <option className="pa2" key={department.code} value={department.code}>{department.name}</option>
-            })
-          }
-        </select>
+        {
+          filteredDepartments.map((department) => {
+            return (
+              <div key={department.code} className="inline-flex items-center mr2 mt2">
+                <label htmlFor={`department--${department.code}`} className="mr1 lh-copy f6">{department.name}</label>
+                <input
+                  type="checkbox"
+                  name="department"
+                  id={`department--${department.code}`}
+                  checked={this.state.displayedDepartments.has(department.code)}
+                  onChange={(e) => this.alterDisplayedDepartments(department.code, e.target.checked)}
+                />
+              </div>
+            )
+          })
+        }
 
         <CourseList
+          className="mt4"
           toggleInterestedCourse={this.props.toggleInterestedCourse}
           interestedCourses={this.props.interestedCourses}
           courses={filteredCourses}

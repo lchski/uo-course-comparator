@@ -9,8 +9,30 @@ class SelectedCourseViewer extends React.Component {
     this.alterDisplayedDepartments = this.alterDisplayedDepartments.bind(this);
 
     this.state = {
+      filteredCourses: [],
+      filteredDepartments: [],
       displayedDepartments: new Set()
     };
+  }
+
+  componentDidMount() {
+    const filteredCourses = this.props.courses.filter((course) => this.props.interestedCourses.includes(course.code));
+
+    /**
+     * Extract the departments from the courses marked as interesting.
+     *
+     * Pretty cool how this is done... We map the filteredCourses array from above,
+     * to get just the first three characters of each course code. (These map to the
+     * departments.) Then, we cast that to a Set, which can contain only unique values,
+     * and spread it into an Array so that we have it in a more useful datatype.
+     */
+    const extractedDepartments = [...new Set(filteredCourses.map((course) => course.code.substring(0,3)))];
+
+    const filteredDepartments = this.props.departments.filter((department) => extractedDepartments.includes(department.code));
+
+    const displayedDepartments = new Set(filteredDepartments);
+
+    this.setState({ filteredCourses, filteredDepartments, displayedDepartments });
   }
 
   alterDisplayedDepartments(departmentCode, displayedState) {
@@ -26,26 +48,14 @@ class SelectedCourseViewer extends React.Component {
   }
 
   render() {
-    let filteredCourses = this.props.courses.filter((course) => this.props.interestedCourses.includes(course.code));
 
-    /**
-     * Extract the departments from the courses marked as interesting.
-     *
-     * Pretty cool how this is done... We map the filteredCourses array from above,
-     * to get just the first three characters of each course code. (These map to the
-     * departments.) Then, we cast that to a Set, which can contain only unique values,
-     * and spread it into an Array so that we have it in a more useful datatype.
-     */
-    let extractedDepartments = [...new Set(filteredCourses.map((course) => course.code.substring(0,3)))];
-
-    let filteredDepartments = this.props.departments.filter((department) => extractedDepartments.includes(department.code));
 
     return (
       <div>
         <p className="measure-narrow lh-copy">Listed below are the courses you’ve marked as interesting.</p>
 
         {
-          filteredDepartments.map((department) => {
+          this.state.filteredDepartments.map((department) => {
             return (
               <div key={department.code} className="inline-flex items-center mr2 mt2">
                 <label htmlFor={`department--${department.code}`} className="mr1 lh-copy f6">{department.name}</label>
@@ -65,7 +75,7 @@ class SelectedCourseViewer extends React.Component {
           className="mt4"
           toggleInterestedCourse={this.props.toggleInterestedCourse}
           interestedCourses={this.props.interestedCourses}
-          courses={filteredCourses}
+          courses={this.state.filteredCourses}
         />
       </div>
     )

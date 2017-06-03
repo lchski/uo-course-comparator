@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link, Match, Miss } from 'react-router';
 
-import departments from '../data/departments';
+import departments from '../data/departments.json';
 import compiledCourses from '../data/courses.json';
 
 import 'tachyons';

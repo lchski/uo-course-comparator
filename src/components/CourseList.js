@@ -11,7 +11,7 @@ import Course from './Course/Course';
 const defaultFilters = {
   search: '',
   language: ['english', 'french'],
-  year: ['1', '2', '3', '4']
+  year: [1, 2, 3, 4]
 };
 
 class CourseList extends React.Component {

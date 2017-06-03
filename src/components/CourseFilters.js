@@ -5,7 +5,7 @@ import BasicButton from './Buttons/BasicButton';
 class CourseFilters extends React.Component {
   render() {
     const languages = ['english', 'french'];
-    const years = ['1', '2', '3', '4'];
+    const years = [1, 2, 3, 4];
 
     return (
       <div className="ph2 pv3 bg-light-gray mt4">

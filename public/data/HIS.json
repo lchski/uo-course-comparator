@@ -1,1514 +1,2951 @@
 [
     {
-        "code": "HIS1101",
+        "code": "HIS 1101",
+        "credits": 3,
         "description": "Survey of the political, social and cultural evolution of Canada, from its origins to the present.",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
         "language": "English",
-        "restriction": "",
         "title": "The Making of Canada",
-        "year": "1"
+        "year": 1
     },
     {
-        "code": "HIS1110",
+        "code": "HIS 1110",
+        "credits": 3,
         "description": "A course of general interest which focuses on the roots of nationalism and the New Imperialism and on the social upheavals engendering conflict.",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
         "language": "English",
-        "restriction": "",
         "title": "The Twentieth-Century World to 1945",
-        "year": "1"
+        "year": 1
     },
     {
-        "code": "HIS1111",
+        "code": "HIS 1111",
+        "credits": 3,
         "description": "A course of general interest which focuses on the search for security and independence in a post-war world dominated by super powers and globalization.",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
         "language": "English",
-        "restriction": "",
         "title": "The Twentieth-Century World from 1945",
-        "year": "1"
+        "year": 1
     },
     {
-        "code": "HIS1120",
+        "code": "HIS 1120",
+        "credits": 3,
         "description": "Long term study of the changing nature of Europe, through geographical, political, economic, and cultural aspects.",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
         "language": "English",
-        "restriction": "",
-        "title": "What is Europe? (16th-21th Century)",
-        "year": "1"
+        "title": "What Is Europe? (16th-21th Century)",
+        "year": 1
     },
     {
-        "code": "HIS1501",
+        "code": "HIS 1501",
+        "credits": 3,
         "description": "Survol de l'évolution politique, sociale et culturelle du Canada, depuis les débuts jusqu'à aujourd'hui.",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
         "language": "French",
-        "restriction": "",
         "title": "La formation du Canada",
-        "year": "1"
+        "year": 1
     },
     {
-        "code": "HIS1510",
+        "code": "HIS 1510",
+        "credits": 3,
         "description": "Cours d'intérêt général portant sur les racines du nationalisme et du nouvel impérialisme ainsi que sur les bouleversements sociaux à l'origine des conflits dans le monde.",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
         "language": "French",
-        "restriction": "",
         "title": "Le monde au XXe siècle jusqu'en 1945",
-        "year": "1"
+        "year": 1
     },
     {
-        "code": "HIS1511",
+        "code": "HIS 1511",
+        "credits": 3,
         "description": "Cours d'intérêt général portant sur les questions de sécurité et d'indépendance dans le monde d'après-guerre dominé par les grandes puissances et la mondialisation.",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
         "language": "French",
-        "restriction": "",
         "title": "Le monde au XXe siècle depuis 1945",
-        "year": "1"
+        "year": 1
     },
     {
-        "code": "HIS1520",
+        "code": "HIS 1520",
+        "credits": 3,
         "description": "Étude sur le long terme de la nature changeante de l'Europe, dans ses aspects géographiques, politiques, économiques et culturels.",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
         "language": "French",
-        "restriction": "",
-        "title": "Qu'est-ce que l'Europe? (16e-21e siècle)",
-        "year": "1"
+        "title": "Qu'est-ce que l'Europe ? (16e-21e siècle)",
+        "year": 1
     },
     {
-        "code": "HIS2100",
+        "code": "HIS 2100",
+        "credits": 3,
         "description": "Introduction to historical methods identifying historical problems, formulating a hypothesis, research and writing.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Reserved for students registered in the Honours, Joint Honours or Major in History. (M)."
+        ],
         "language": "English",
-        "restriction": "Reserved for students registered in the Honours, Joint Honours or Major in History. (M).",
         "title": "The Historian's Craft",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2101",
-        "description": "A general history of Greece from the Bronze Age to the eve of the Battle of Marathon (490 B.C.).",
+        "code": "HIS 2101",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
         "language": "English",
-        "restriction": "Also offered as CLA2101.",
         "title": "The Beginnings of Greek Civilization",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2102",
-        "description": "A general history of Greece from the Battle of Marathon (490 B.C.) to the Battle of Mantinea and the General Peace (362 B.C.).",
+        "code": "HIS 2102",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
         "language": "English",
-        "restriction": "Also offered as CLA2102.",
         "title": "Athens, Persia, and Sparta",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2103",
-        "description": "A general history of Rome from its foundation (753 B.C.) to the death of Caesar (44 B.C.).",
+        "code": "HIS 2103",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
         "language": "English",
-        "restriction": "Also offered as CLA2103.",
         "title": "The Republic",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2104",
-        "description": "A general history of Rome from the \"first triumvirate\" (60 B.C.) to the accession of Septimius Severus (A.D. 193).",
+        "code": "HIS 2104",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
         "language": "English",
-        "restriction": "Also offered as CLA2104.",
         "title": "The Early Empire",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2105",
+        "code": "HIS 2105",
+        "credits": 3,
         "description": "Overview of the history of the Jewidh community in Canada from the English regime to the contemporary period.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Also offered as CDN 2105. (C)."
+        ],
         "language": "English",
-        "restriction": "Also offered as CDN2105. (C).",
         "title": "History of the Jews in Canada",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2116",
-        "description": "Survey of the political, social, economic and intellectual history of Czarist Russia under the Romanov Dynasty (1613-1917).",
+        "code": "HIS 2116",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Also offered as RUS 2116. (E)."
+        ],
         "language": "English",
-        "restriction": "Also offered as RUS2116. (E).",
-        "title": "Imperial Russia from 1613 to the 1917 Revolution",
-        "year": "2"
+        "title": "Imperial Russia From 1613 to the 1917 Revolution",
+        "year": 2
     },
     {
-        "code": "HIS2117",
+        "code": "HIS 2117",
+        "credits": 3,
         "description": "Survey of the political, social, economic and intellectual history of the Soviet Union from the October Revolution.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Also offered as RUS 2117. (E)."
+        ],
         "language": "English",
-        "restriction": "Also offered as RUS2117. (E).",
         "title": "History of the USSR",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2129",
+        "code": "HIS 2129",
+        "credits": 3,
         "description": "Examination of the role of technology in social, economic and environmental change in industrial and \"post-industrial\" society.",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
         "language": "English",
-        "restriction": "",
-        "title": "Technology, Society and Environment since 1800",
-        "year": "2"
+        "title": "Technology, Society and Environment Since 1800",
+        "year": 2
     },
     {
-        "code": "HIS2130",
+        "code": "HIS 2130",
+        "credits": 3,
         "description": "Migration and settlement, voluntary and involuntary, of people in North America from the initial contacts of newcomers with Amerindians to the present.",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
         "language": "English",
-        "restriction": "",
         "title": "The Peopling of North America",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2151",
+        "code": "HIS 2151",
+        "credits": 3,
         "description": "The Seven Year War, the American Revolution, the new republics institutions, the Jacksonian democracy, territorial expansion, the Civil War and reconstruction.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "(A)."
+        ],
         "language": "English",
-        "restriction": "(A).",
         "title": "The United States from 1750 to 1877",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2152",
+        "code": "HIS 2152",
+        "credits": 3,
         "description": "From Reconstruction to the end of World War II. The rise of the United States as an industrial and military power.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "(A)."
+        ],
         "language": "English",
-        "restriction": "(A).",
         "title": "The United States from 1877 to 1945",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2153",
+        "code": "HIS 2153",
+        "credits": 3,
         "description": "A study of the main social, economic and political developments in the United States since 1945.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "(A)."
+        ],
         "language": "English",
-        "restriction": "(A).",
         "title": "The United States from 1945 to the Present",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2160",
+        "code": "HIS 2160",
+        "credits": 3,
         "description": "Introduction to the history of the Arab world, Iran, Israel and Turkey from the First World War. Main political, economic and social developments in the region.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "(N)."
+        ],
         "language": "English",
-        "restriction": "(N).",
         "title": "History of the Middle East from World War I",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2170",
+        "code": "HIS 2170",
+        "credits": 3,
         "description": "Covers the history of the Spanish and Portuguese colonial empires from 1415 to 1825, concentrating on the fate of the Indian, the colonial economy and the formation of a new society.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "(N)."
+        ],
         "language": "English",
-        "restriction": "(N).",
         "title": "Latin America, Colonial Period",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2171",
+        "code": "HIS 2171",
+        "credits": 3,
         "description": "Latin American history since independence. This course will concentrate on the problems of political instability, underdevelopment and American Imperialism.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "(N)."
+        ],
         "language": "English",
-        "restriction": "(N).",
         "title": "Latin America, Modern Period",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2175",
+        "code": "HIS 2175",
+        "credits": 3,
         "description": "Religious, cultural, social, and political traditions in Southeast Asia.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "(N)."
+        ],
         "language": "English",
-        "restriction": "(N).",
         "title": "Southeast Asian Civilizations to the 18th Century",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2176",
+        "code": "HIS 2176",
+        "credits": 3,
         "description": "Historical events and trends in Southeast Asia from the 18th century to the Present.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "(N)."
+        ],
         "language": "English",
-        "restriction": "(N).",
         "title": "Southeast Asian Civilizations from the 18th Century to the Present",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2177",
+        "code": "HIS 2177",
+        "credits": 3,
         "description": "Introduction to the civilizations of pre modern China, Japan, and Korea from antiquity to 1600. Emphasis on culture, society, and thought.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "(N)."
+        ],
         "language": "English",
-        "restriction": "(N).",
-        "title": "History of East Asia from antiquity to 1600",
-        "year": "2"
+        "title": "History of East Asia from Antiquity to 1600",
+        "year": 2
     },
     {
-        "code": "HIS2178",
+        "code": "HIS 2178",
+        "credits": 3,
         "description": "Introduction to East Asian civilizations after 1600. Focus primarily on China and Japan. Study of the internal changes in these countries as well as their external relations, and of transformations in thought and culture.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "(N)."
+        ],
         "language": "English",
-        "restriction": "(N).",
-        "title": "History of East Asia from 1600 to the present",
-        "year": "2"
+        "title": "History of East Asia from 1600 to the Present",
+        "year": 2
     },
     {
-        "code": "HIS2182",
-        "description": "A survey of the historical role of women in Canada, with particular reference to the economic and social changes of the 19th and 20th centuries.",
+        "code": "HIS 2182",
+        "credits": 3,
+        "description": "A survey of the historical role of women in Canada, with particular reference to the economic and social changes of the 19th and 20th centuries. (C).",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
         "language": "English",
-        "restriction": "Previously HIS3182. (C).",
         "title": "Women in Canada",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2183",
+        "code": "HIS 2183",
+        "credits": 3,
         "description": "Virgins, mothers, strumpets? Images of women from late Antiquity to the 18th century; survey of their social, cultural, economic and political roles.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "(E)."
+        ],
         "language": "English",
-        "restriction": "(E).",
         "title": "Women in Western Societies to the Eighteenth Century",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2184",
+        "code": "HIS 2184",
+        "credits": 3,
         "description": "Housewives, ground breakers, suffragettes? Evolving images and roles of women in European and North American societies since the middle of the 18th century.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: Recommended, HIS 2183."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: Recommended, HIS2183.",
         "title": "Women in Western Societies from the Eighteenth Century to the Present",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2197",
+        "code": "HIS 2197",
+        "credits": 3,
         "description": "History as a type of knowledge and inquiry. Special reference to problems of explanation, objectivity, and causal analysis.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Reserved for students registered in the Honours, Joint Honours or Major in History. Also offered as PHI 2197. (M)."
+        ],
         "language": "English",
-        "restriction": "Reserved for students registered in the Honours, Joint Honours or Major in History. Also offered as PHI2197. (M).",
         "title": "Philosophy of History",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2307",
-        "description": "Pre-contact Amerindian societies. Beginnings of European colonization (New France and New England) and the ensuing period of \"cooperation\". Métis, Inuit and the Natives of the West Coast. Amerindian resistance: self-government and confrontation.",
+        "code": "HIS 2307",
+        "credits": 3,
+        "description": "Pre-contact Amerindian societies.  Beginnings of European colonization (New France and New England) and the ensuing period of \"cooperation\". Métis, Inuit and the Natives of the West Coast.  Amerindian resistance: self-government and confrontation. (C).",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
         "language": "English",
-        "restriction": "Previously HIS2305 or HIS2306. (C).",
         "title": "History of the Native Peoples in Canada, from the origins to the present",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2326",
+        "code": "HIS 2326",
+        "credits": 3,
         "description": "A survey of the history of British colonial and imperial expansion from the sixteenth century to the period of decolonization after World War Two.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "(E)."
+        ],
         "language": "English",
-        "restriction": "(E).",
         "title": "The History of the British Empire",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2335",
-        "description": "Study of the Middle Ages in Western Europe: its creation by historians, its interpretation by large audiences, and its specific features in the history of humanity.",
+        "code": "HIS 2335",
+        "credits": 3,
+        "description": "Study of the Middle Ages in Western Europe: its creation by historians, its interpretation by large audiences, and its specific features in the history of humanity. (E).",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Also offered as CLA 2335. (E)."
+        ],
         "language": "English",
-        "restriction": "Previously HIS2337 and HIS2338. Also offered as CLA2335. (E).",
-        "title": "Deciphering the Medieval Era: Western Europe from the 5th to the 15th century.",
-        "year": "2"
+        "title": "Deciphering the Medieval Era: Western Europe from the 5th to the 15th Century",
+        "year": 2
     },
     {
-        "code": "HIS2336",
+        "code": "HIS 2336",
+        "credits": 3,
         "description": "European history from the Renaissance to Napoleon: the Reformation, the Ancien Régime, the Enlightenment, and the French Revolution.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "(E)."
+        ],
         "language": "English",
-        "restriction": "(E).",
         "title": "Early Modern Europe, 16th to 18th Century",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2341",
+        "code": "HIS 2341",
+        "credits": 3,
         "description": "European hegemony from Napoleon to the First World War. The industrial revolution. Social conflicts and revolutionary movements. National movements and imperialism.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "(E)."
+        ],
         "language": "English",
-        "restriction": "(E).",
         "title": "Europe in the 19th Century",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2342",
-        "description": "Europe's role in the crises of the 20th century: democratic and totalitarian responses to the Great War (1914-1918), the Russian Revolution, the economic upheaval of the inter-war period, World War II, the division of post-war Europe, decolonization and the end of the European world hegemony, the European Community, and the collapse of the communist block since 1989.",
+        "code": "HIS 2342",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "(E)."
+        ],
         "language": "English",
-        "restriction": "(E).",
         "title": "Europe in the 20th Century",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2350",
-        "description": " ",
+        "code": "HIS 2350",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
         "language": "English",
-        "restriction": "",
         "title": "Selected Topics in Modern History",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2351",
-        "description": " ",
+        "code": "HIS 2351",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
         "language": "English",
-        "restriction": "",
         "title": "Selected Topics in Contemporary History",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2355",
+        "code": "HIS 2355",
+        "credits": 3,
         "description": "Nationalism, state creation and disintegration in Central Europe since 1815.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "(E)."
+        ],
         "language": "English",
-        "restriction": "(E).",
         "title": "Nation-Building in Central Europe",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2361",
-        "description": "Economic, social and political development of the colony to the Treaty of Paris.",
+        "code": "HIS 2361",
+        "credits": 3,
+        "description": "Economic, social and political development of the colony to the Treaty of Paris. (C).",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
         "language": "English",
-        "restriction": "Previously HIS2201. (C).",
         "title": "New France",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2362",
-        "description": "Economic, social and political development of British North America from the Treaty of Paris to Confederation.",
+        "code": "HIS 2362",
+        "credits": 3,
+        "description": "Economic, social and political development of British North America from the Treaty of Paris to Confederation. (C)",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
         "language": "English",
-        "restriction": "Previously HIS2301 or HIS2302. (C).",
         "title": "British North America, 1763-1867",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2363",
-        "description": "Economic, social and political development of Canada and Newfoundland from Confederation to the Great Depression.",
+        "code": "HIS 2363",
+        "credits": 3,
+        "description": "Economic, social and political development of Canada and Newfoundland from Confederation to the Great Depression. (C)",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
         "language": "English",
-        "restriction": "Previously HIS2303. (C).",
         "title": "Canada, 1867-1939",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2364",
-        "description": "Economic, social and political development of Canada from the Great Depression to the present; Canada's accession to independence and changing role on the world scene.",
+        "code": "HIS 2364",
+        "credits": 3,
+        "description": "Economic, social and political development of Canada from the Great Depression to the present; Canada's accession to independence and changing role on the world scene. (C).",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
         "language": "English",
-        "restriction": "Previously HIS2304. (C).",
         "title": "Contemporary Canada",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2375",
-        "description": "Early history of Africa in the world. Topics covered include migrations, Islamisation, commercial exchange circuits (Sahara, Indian Ocean, Atlantic), the slave trades, political, economic, and social transformations. Case studies.",
+        "code": "HIS 2375",
+        "credits": 3,
+        "description": "Early history of Africa in the world.  Topics covered include migrations, Islamisation, commercial exchange circuits (Sahara, Indian Ocean, Atlantic), the slave trades, political, economic, and social transformations.  Case studies.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "(N)."
+        ],
         "language": "English",
-        "restriction": "(N).",
         "title": "History of Africa South of the Sahara, 1000-1850",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2376",
+        "code": "HIS 2376",
+        "credits": 3,
         "description": "Exploration of the economic and political conditions that led to the colonisation of the African continent following the abolition of the slave trade; the fabrication of colonial states; the impact of colonialism on African societies; anti-colonialist and nationalist movements; post-colonial period. Case studies.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "(N)."
+        ],
         "language": "English",
-        "restriction": "(N).",
         "title": "History of Africa South of the Sahara since 1850",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2390",
+        "code": "HIS 2390",
+        "credits": 3,
         "description": "Assumptions, concepts, sources and research strategies of micro-history. Through a case-study approach, examination of the ways in which scholars address general historical questions by studying specific historical contexts.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Reserved for students registered in the Honours, Joint Honours or Major in History. (M)."
+        ],
         "language": "English",
-        "restriction": "Reserved for students registered in the Honours, Joint Honours or Major in History. (M).",
         "title": "Theory and Practice of Micro-History",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2391",
+        "code": "HIS 2391",
+        "credits": 3,
         "description": "The origins and development of history as a discipline focusing on the rise of critical approaches to historical writing and historicism. The course includes an examination of critiques of professional historiography and considers speculative alternatives.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Reserved for students registered in the Honours, Joint Honours or Major in History. (M)."
+        ],
         "language": "English",
-        "restriction": "Reserved for students registered in the Honours, Joint Honours or Major in History. (M).",
         "title": "History and Theory",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2500",
+        "code": "HIS 2500",
+        "credits": 3,
         "description": "Initiation aux méthodes historiques; repérage de questions historiques, formulation d'hypothèses, méthodes de recherche et de rédaction de dissertations historiques.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (M)."
+        ],
         "language": "French",
-        "restriction": "Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (M).",
         "title": "Le métier d'historien",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2501",
-        "description": "Histoire générale de la Grèce, de l'âge du bronze à la veille de la bataille de Marathon (490 av. J.-C.).",
+        "code": "HIS 2501",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Aussi offert sous la cote CLA 2501."
+        ],
         "language": "French",
-        "restriction": "Aussi offert sous la cote CLA2501.",
-        "title": "Les Débuts de la civilisation grecque",
-        "year": "2"
+        "title": "Les débuts de la civilisation grecque",
+        "year": 2
     },
     {
-        "code": "HIS2502",
-        "description": "Histoire générale de la Grèce, de la bataille de Marathon (490 av. J.-C.) à la bataille de Mantinée et à la Paix générale (362 av. J.-C.).",
+        "code": "HIS 2502",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
         "language": "French",
-        "restriction": "Aussi offert sous la cote CLA2502.",
         "title": "Athènes, la Perse et Sparte",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2503",
-        "description": "Histoire générale de Rome, de sa fondation (753 av. J.-C.) à la mort de César (44 av. J.-C.).",
+        "code": "HIS 2503",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
         "language": "French",
-        "restriction": "Aussi offert sous la cote CLA2503.",
-        "title": "La République",
-        "year": "2"
+        "title": "La république",
+        "year": 2
     },
     {
-        "code": "HIS2504",
-        "description": "Histoire générale de Rome, du \"premier triumvirat\" (60 av. J.-C.) à l'accession au pouvoir de Septime Sévère (193 ap. J.-C.).",
+        "code": "HIS 2504",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
         "language": "French",
-        "restriction": "Aussi offert sous la cote CLA2504.",
-        "title": "Le Haut-Empire",
-        "year": "2"
+        "title": "L'Haut-Empire",
+        "year": 2
     },
     {
-        "code": "HIS2505",
+        "code": "HIS 2505",
+        "credits": 3,
         "description": "Survol de l'histoire de la communauté juive canadienne depuis les premières années du régime anglais jusqu'à la période contemporaine.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Aussi offert sous la cote CDN 2505. (C)."
+        ],
         "language": "French",
-        "restriction": "Aussi offert sous la cote CDN2505. (C).",
-        "title": "Histoire des Juifs au Canada",
-        "year": "2"
+        "title": "Histoire des juifs au Canada",
+        "year": 2
     },
     {
-        "code": "HIS2516",
-        "description": "Survol de l'histoire politique, sociale, économique et intellectuelle de la Russie tsariste sous les Romanov (1613-1917).",
+        "code": "HIS 2516",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Aussi offert sous la cote RUS 2516. (E)."
+        ],
         "language": "French",
-        "restriction": "Aussi offert sous la cote RUS2516. (E).",
-        "title": "La Russie impériale de 1613 à la Révolution de 1917",
-        "year": "2"
+        "title": "La Russie impériale de 1613 à la révolution de 1917",
+        "year": 2
     },
     {
-        "code": "HIS2517",
+        "code": "HIS 2517",
+        "credits": 3,
         "description": "Survol de l'histoire politique, sociale, économique et intellectuelle de l'Union soviétique à partir de la révolution d'Octobre.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Aussi offert sous la cote RUS 2517. (E)."
+        ],
         "language": "French",
-        "restriction": "Aussi offert sous la cote RUS2517. (E).",
         "title": "Histoire de l'U.R.S.S.",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2521",
+        "code": "HIS 2521",
+        "credits": 3,
         "description": "Mise en application des principes de la critique textuelle: l'explication de texte. Introduction aux sciences connexes et aux techniques propres à l'histoire. Brève revue de l'historiographie à travers les âges.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (M)."
+        ],
         "language": "French",
-        "restriction": "Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (M).",
         "title": "Initiation à la critique historique",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2529",
+        "code": "HIS 2529",
+        "credits": 3,
         "description": "Analyse du rôle des technologies dans les changements sociaux, économiques et environnementaux des sociétés industrielles et post-industrielles.",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
         "language": "French",
-        "restriction": "Antérieurement HIS2739.",
         "title": "Technologies, société et environnement depuis 1800",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2551",
-        "description": "La Guerre de Sept Ans, Révolution américaine, les institutions de la jeune république, la démocratie jacksonienne, l'expansion territoriale, la Guerre de Sécession et la Reconstruction.",
+        "code": "HIS 2551",
+        "credits": 3,
+        "description": "La Guerre de Sept Ans,  Révolution américaine, les institutions de la jeune république, la démocratie jacksonienne, l'expansion territoriale,  la Guerre de Sécession et la Reconstruction.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "(A)."
+        ],
         "language": "French",
-        "restriction": "(A).",
         "title": "Histoire des États-Unis de 1750 à 1877",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2552",
+        "code": "HIS 2552",
+        "credits": 3,
         "description": "De la Reconstruction à la fin de la Deuxième guerre mondiale. La montée des États-Unis en tant que puissance industrielle et militaire.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "(A)."
+        ],
         "language": "French",
-        "restriction": "(A).",
         "title": "Histoire des États-Unis de 1877 à 1945",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2553",
+        "code": "HIS 2553",
+        "credits": 3,
         "description": "Histoire contemporaine des États-Unis portant sur les principaux développements économiques, sociaux, politiques et culturels.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "(A)."
+        ],
         "language": "French",
-        "restriction": "(A).",
         "title": "Les États-Unis depuis 1945",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2560",
-        "description": "Introduction à l'histoire du monde arabe, de l'Iran, d'Israël et de la Turquie depuis la Première Guerre mondiale. Principaux développements politiques, économiques et sociaux de la région.",
+        "code": "HIS 2560",
+        "credits": 3,
+        "description": "Introduction à l'histoire du monde arabe, de l'Iran, d'Israël et de la Turquie depuis la Première Guerre mondiale.  Principaux développements politiques, économiques et sociaux de la région. (N)",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
         "language": "French",
-        "restriction": "Antérieurement HIS2760. (N).",
         "title": "Histoire du Moyen-Orient depuis la Première Guerre mondiale",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2570",
-        "description": "Histoire des empires coloniaux espagnol et portugais de 1415 à 1825. Le sort de l'Indien, l'économie coloniale et la formation d'une société nouvelle.",
+        "code": "HIS 2570",
+        "credits": 3,
+        "description": "Histoire des empires coloniaux espagnol et portugais de 1415 à 1825. Le sort de l'Indien, l'économie coloniale et la formation d'une société nouvelle. (N)",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
         "language": "French",
-        "restriction": "Antérieurement HIS2770. (N).",
         "title": "Amérique latine, époque coloniale",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2571",
-        "description": "Histoire de l'Amérique latine depuis l'indépendance. Instabilité du régime politique, sous-développement et impérialisme américain.",
+        "code": "HIS 2571",
+        "credits": 3,
+        "description": "Histoire de l'Amérique latine depuis l'indépendance.  Instabilité du régime politique, sous-développement et impérialisme américain. (N)",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
         "language": "French",
-        "restriction": "Antérieurement HIS2771. (N).",
         "title": "Amérique latine, époque contemporaine",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2575",
+        "code": "HIS 2575",
+        "credits": 3,
         "description": "Traditions religieuses, culturelles, sociales et politiques de l'Asie du Sud-Est",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "(N)."
+        ],
         "language": "French",
-        "restriction": "(N).",
         "title": "Civilisations de l'Asie du Sud-Est jusqu'au XVIIIe siècle",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2576",
+        "code": "HIS 2576",
+        "credits": 3,
         "description": "Événements et tendances historiques en Asie du Sud-Est du XVIIIe siècle à nos jours.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "(N)."
+        ],
         "language": "French",
-        "restriction": "(N).",
         "title": "Civilisations de l'Asie du Sud-Est du XVIIIe siècle à nos jours",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2577",
-        "description": "Introduction aux civilisations de la Chine, du Japon, et de la Corée de l'antiquité jusqu'à 1600. Attention particulière à la société, la culture et la pensée.",
+        "code": "HIS 2577",
+        "credits": 3,
+        "description": "Introduction aux civilisations de la Chine, du Japon, et de la Corée de l'antiquité jusqu'à  1600. Attention particulière à la société, la culture et la pensée.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "(N)."
+        ],
         "language": "French",
-        "restriction": "(N).",
         "title": "Histoire de l'Asie de l'Est de l'antiquité à 1600",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2578",
+        "code": "HIS 2578",
+        "credits": 3,
         "description": "Introduction aux civilisations de l'Asie de l'Est après 1600, en particulier de la Chine et du Japon. Étude des changements internes à ces pays ainsi que de leurs relations internationales et des transformations intellectuelles et culturelles.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "(N)."
+        ],
         "language": "French",
-        "restriction": "(N).",
         "title": "Histoire de l'Asie de l'Est de 1600 à nos jours",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2582",
+        "code": "HIS 2582",
+        "credits": 3,
         "description": "Le rôle des femmes dans l'histoire canadienne, en particulier dans le contexte des changements économiques et sociaux des XIXe et XXe siècles.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "(C)."
+        ],
         "language": "French",
-        "restriction": "(C).",
         "title": "Les femmes au Canada",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2583",
+        "code": "HIS 2583",
+        "credits": 3,
         "description": "Vierges, mères ou filles de joie? Images des femmes de l'Antiquité tardive au XVIIIe siècle; survol de leurs rôles sociaux, culturels, économiques et politiques.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "(E)."
+        ],
         "language": "French",
-        "restriction": "(E).",
         "title": "Les femmes dans les sociétés occidentales jusqu'au XVIIIe siècle",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2584",
+        "code": "HIS 2584",
+        "credits": 3,
         "description": "Femmes au foyer, pionnières, suffragettes? Évolution des idées concernant les femmes et de leurs rôles dans les sociétés européennes et nord-américaines depuis le milieu du XVIIIe siècle.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : Recommandé, HIS 2583."
+        ],
         "language": "French",
-        "restriction": "Préalable : Recommandé, HIS2583.",
         "title": "Les femmes dans les sociétés occidentales du XVIIIe siècle à nos jours",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2597",
+        "code": "HIS 2597",
+        "credits": 3,
         "description": "L'histoire comme discipline; son épistémologie spécifique. Étude, en particulier, de problèmes tels que l'explication historique, l'objectivité et l'analyse causale.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Réservé aux étudiants et étudiantes insrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. Aussi offert sous la cote PHI 2597. (M)."
+        ],
         "language": "French",
-        "restriction": "Réservé aux étudiants et étudiantes insrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. Aussi offert sous la cote PHI2597. (M).",
         "title": "Philosophie de l'histoire",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2707",
-        "description": "Les sociétés amérindiennes avant l'arrivée des Européens. Le début de la colonisation européenne (Nouvelle-France et Nouvelle-Angleterre) et la période de \"coopération\". Cas des Métis, des Inuits et des nations de la côte Ouest. Résistance amérindienne : confrontation et volonté d'autonomie.",
+        "code": "HIS 2707",
+        "credits": 3,
+        "description": "Les sociétés amérindiennes avant l'arrivée des Européens.  Le début de la colonisation européenne (Nouvelle-France et Nouvelle-Angleterre) et la période de \"coopération\".  Cas des Métis, des Inuits et des nations de la côte Ouest.  Résistance amérindienne : confrontation et volonté d'autonomie. (C)",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
         "language": "French",
-        "restriction": "Antérieurement HIS2705, HIS2706. (C).",
         "title": "Histoire des Amérindiens au Canada, des origines à nos jours",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2708",
+        "code": "HIS 2708",
+        "credits": 3,
         "description": "Histoire de la présence française en Amérique du Nord, y compris les francophonies minoritaires.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "(C)."
+        ],
         "language": "French",
-        "restriction": "(C).",
         "title": "Histoire des francophonies nord-américaines",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2735",
+        "code": "HIS 2735",
+        "credits": 3,
         "description": "Étude du Moyen Age occidental : sa conception par les historiens, sa compréhension par le public, ses caractéristiques propres dans l'histoire de l'humanité.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Aussi offert sous la cote CLA 2735. (E)."
+        ],
         "language": "French",
-        "restriction": "Aussi offert sous la cote CLA2735. (E).",
         "title": "Décoder la période médiévale : L'occident du Ve au XVe siècle",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2736",
+        "code": "HIS 2736",
+        "credits": 3,
         "description": "Survol de l'histoire européenne depuis la Renaissance jusqu'à Napoléon: la Réforme, la société d'Ancien Régime, les Lumières et la Révolution française.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "(E)."
+        ],
         "language": "French",
-        "restriction": "(E).",
         "title": "L'Europe moderne (XVIe-XVIIIe siècle)",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2741",
-        "description": "L'hégémonie européenne, de Napoléon à la Première Guerre mondiale. La révolution industrielle. La lutte des classes et les mouvements révolutionnaires. Les mouvements nationaux et l'impérialisme.",
+        "code": "HIS 2741",
+        "credits": 3,
+        "description": "L'hégémonie européenne, de Napoléon à la Première Guerre mondiale. La révolution industrielle.  La lutte des classes et les mouvements révolutionnaires.  Les mouvements nationaux et l'impérialisme. (E)",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
         "language": "French",
-        "restriction": "Antérieurement HIS2541. (E).",
         "title": "L'Europe au XIXe siècle",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2742",
-        "description": "L'Europe dans les grandes crises du XXe siècle : les deux conflits mondiaux, l'entre-deux-guerres, la décolonisation et la partition en deux camps après la Deuxième guerre mondiale, la Communauté européenne et l'effrondrement du bloc communiste depuis 1989.",
+        "code": "HIS 2742",
+        "credits": 3,
+        "description": "L'Europe dans les grandes crises du XXe siècle : les deux conflits mondiaux, l'entre-deux-guerres, la décolonisation et la partition en deux camps après la Deuxième guerre mondiale, la Communauté européenne et l'effrondrement du bloc communiste depuis 1989. (E)",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
         "language": "French",
-        "restriction": "Antérieurement HIS2542. (E).",
         "title": "L'Europe au XXe siècle",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2750",
-        "description": " ",
+        "code": "HIS 2750",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
         "language": "French",
-        "restriction": "",
         "title": "Thèmes choisis en histoire moderne",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2751",
-        "description": " ",
+        "code": "HIS 2751",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
         "language": "French",
-        "restriction": "",
         "title": "Thèmes choisis en histoire contemporaine",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2761",
-        "description": "Évolution économique, sociale et politique de la colonie jusqu'au traité de Paris.",
+        "code": "HIS 2761",
+        "credits": 3,
+        "description": "Évolution économique, sociale et politique de la colonie jusqu'au traité de Paris. (C).",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
         "language": "French",
-        "restriction": "Antérieurement HIS2601. (C).",
         "title": "La Nouvelle-France",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2762",
-        "description": "Évolution économique, sociale et politique de l'Amérique du Nord britannique du traité de Paris à la Confédération.",
+        "code": "HIS 2762",
+        "credits": 3,
+        "description": "Évolution économique, sociale et politique de l'Amérique du Nord britannique du traité de Paris à la Confédération. (C)",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
         "language": "French",
-        "restriction": "Antérieurement HIS2701 ou HIS2702. (C).",
         "title": "L'Amérique du Nord britannique 1763-1867",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2763",
-        "description": "Évolution économique, sociale et politique du Canada et de Terre-Neuve et de la Confédération à la Grande Dépression.",
+        "code": "HIS 2763",
+        "credits": 3,
+        "description": "Évolution économique, sociale et politique du Canada et de Terre-Neuve et de la Confédération à la Grande Dépression. (C)",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
         "language": "French",
-        "restriction": "Antérieurement HIS2703. (C).",
         "title": "Le Canada de 1867 à 1939",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2764",
-        "description": "Évolution économique, sociale et politique du Canada de la Grande Dépression à nos jours; accession du Canada à l'indépendance et transformation de son rôle sur la scène mondiale.",
+        "code": "HIS 2764",
+        "credits": 3,
+        "description": "Évolution économique, sociale et politique du Canada de la Grande Dépression à nos jours; accession du Canada à l'indépendance et transformation de son rôle sur la scène mondiale. (C)",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
         "language": "French",
-        "restriction": "Antérieurement HIS2704. (C).",
         "title": "Le Canada contemporain",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2775",
+        "code": "HIS 2775",
+        "credits": 3,
         "description": "Histoires de l'Afrique au sud du Sahara dans le monde pré-moderne. Les thèmes abordés seront, entre autres, les migrations, l'Islamisation, les réseaux de commerce (Sahara, Océan Indien, Atlantique), les traites esclavagistes, les transformations politiques, économiques et sociales. Études de cas.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "(N)."
+        ],
         "language": "French",
-        "restriction": "(N).",
         "title": "Histoire de l'Afrique au sud du Sahara, 1000-1850",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2776",
-        "description": "Étude des tendances économiques et politiques qui ont mené à la colonisation du continent africain après l abolition de la traite des esclaves; fabrication des états coloniaux; impact du colonialisme sur les sociétés africaines; mouvements anti-colonialistes et nationalistes; période post-coloniale. Études de cas.",
+        "code": "HIS 2776",
+        "credits": 3,
+        "description": "Étude des tendances économiques et politiques qui ont mené à la colonisation du continent africain après l abolition de la traite des esclaves ; fabrication des états coloniaux ; impact du colonialisme sur les sociétés africaines ;  mouvements anti-colonialistes et nationalistes;  période post-coloniale.  Études de cas.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "(N)."
+        ],
         "language": "French",
-        "restriction": "(N).",
         "title": "Histoire de l'Afrique au sud du Sahara depuis 1850",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "HIS2901",
-        "description": " ",
-        "language": "Bilingual/Unofficial/Unspecified",
-        "restriction": "Reserved for students registered in a co-operative education program in History.   Réservé aux étudiants et étudiantes inscrits à un programme d'enseignement coopératif en histoire.",
-        "title": "Stage coop I / CO-OP Work Term I",
-        "year": "2"
-    },
-    {
-        "code": "HIS3100",
+        "code": "HIS 3100",
+        "credits": 3,
         "description": "Different interpretations of Canadian history, particularly those written by authors of diverse cultural and linguistic backgrounds.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. Also offered as CDN 3100."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. Also offered as CDN3100.",
         "title": "Histories and Perceptions of History in Canada",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3104",
+        "code": "HIS 3104",
+        "credits": 3,
         "description": "The major political, social, and cultural trends in the development of modern Ontario.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (C)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (C).",
         "title": "Ontario Since Confederation",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3107",
+        "code": "HIS 3107",
+        "credits": 3,
         "description": "Economic, social, political and intellectual development of Quebec in the nineteenth century.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (C)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (C).",
         "title": "Quebec in the 19th Century",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3108",
+        "code": "HIS 3108",
+        "credits": 3,
         "description": "Economic, social, political and intellectual development of Quebec in the twentieth century.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 12 credits in HIS including 6 credits at the 2000-level. (C)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 12 credits in HIS including 6 credits at the 2000-level. (C).",
         "title": "Quebec in the 20th Century",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3109",
-        "description": " ",
+        "code": "HIS 3109",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (C)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (C).",
         "title": "Selected Topics in Native History",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3110",
+        "code": "HIS 3110",
+        "credits": 3,
         "description": "Major issues in Greek or Roman history. Topics to be offered in rotation as advertised by the Department.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Also offered as CLA 3110. This course may require some background knowledge. Please consult the Department of Classics and Religious Studies."
+        ],
         "language": "English",
-        "restriction": "Also offered as CLA3110. This course may require some background knowledge. Please consult the Department of Classics and Religious Studies.",
-        "title": "Topics in Ancient History",
-        "year": "3"
+        "title": "Topics in Ancient History  I",
+        "year": 3
     },
     {
-        "code": "HIS3116",
+        "code": "HIS 3116",
+        "credits": 3,
         "description": "Impact of the Mongol invasions on Russian society and institutions; role of the Orthodox Church; rise of autocracy and extension of serfdom.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (E)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (E).",
-        "title": "Russian Social and Institutional History prior to Peter The Great",
-        "year": "3"
+        "title": "Russian Social and Institutional History Prior to Peter the Great",
+        "year": 3
     },
     {
-        "code": "HIS3120",
-        "description": " ",
+        "code": "HIS 3120",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
         "language": "English",
-        "restriction": "",
         "title": "Selected Topics in the History of Canada's Regions",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3124",
+        "code": "HIS 3124",
+        "credits": 3,
         "description": "The British Isles from the advent of the Tudors to the Union with Ireland: an examination of the main social and political realities as background to the growth of British power prior to the industrial revolution.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 12 HIS credits including 6 credits at the 2000-level.  (E)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. Previously HIS2324. (E).",
         "title": "Britain from 1485 to 1800",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3125",
+        "code": "HIS 3125",
+        "credits": 3,
         "description": "The British Isles since the industrial revolution, focusing on the main trends of modern British society, from the height of its power in the Victorian age to its comparative decline in the 20th century.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (E)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. Previously HIS2325. (E).",
         "title": "Britain from 1800 to the Present",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3150",
-        "description": " ",
+        "code": "HIS 3150",
+        "credits": 3,
+        "description": "(A)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (A)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (A).",
         "title": "Selected Topics in American History",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3154",
+        "code": "HIS 3154",
+        "credits": 3,
         "description": "Aspects of American foreign policy since Independence.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (A)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (A).",
         "title": "History of American Diplomacy",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3175",
+        "code": "HIS 3175",
+        "credits": 3,
         "description": "Colonisation and decolonisation in Vietnam from 111 B.C.E.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (N)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (N).",
         "title": "A History of the Vietnam Wars",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3180",
+        "code": "HIS 3180",
+        "credits": 3,
         "description": "Study of a theme related to the history of Asia. Themes may vary from year to year.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (N)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (N).",
         "title": "Selected Topics in Asian History",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3185",
+        "code": "HIS 3185",
+        "credits": 3,
         "description": "Study of a theme related to the history of Africa south of the Sahara. Themes may vary from year to year.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (N)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (N).",
-        "title": "Selected Topics in African History south of the Sahara",
-        "year": "3"
+        "title": "Selected Topics in African History South of the Sahara",
+        "year": 3
     },
     {
-        "code": "HIS3190",
+        "code": "HIS 3190",
+        "credits": 3,
         "description": "Study of a theme related to the history of the Middle East and/or North Africa. Themes may vary from year to year.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (N)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (N).",
         "title": "Selected Topics in the History of the Middle East and North Africa",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3195",
+        "code": "HIS 3195",
+        "credits": 3,
         "description": "Study of a theme related to the history of Latin America and/or the Caribbean. Themes may vary from year to year.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (N)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (N).",
         "title": "Selected Topics in Latin American History",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3314",
+        "code": "HIS 3314",
+        "credits": 3,
         "description": "An examination of the relationship between society, diplomacy and warfare from 1939 to 1945, incorporating North American, European and Asian perspectives.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 12 HIS credits including 6 credits at the 2000-level."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 12 HIS credits including 6 credits at the 2000-level.",
         "title": "The Second World War",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3315",
+        "code": "HIS 3315",
+        "credits": 3,
         "description": "An exploration of the origins of the struggle between the postwar superpowers, the changing nature of their rivalry and the way other nations were drawn into the conflict.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 12 HIS credits including 6 credits at the 2000-level."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 12 HIS credits including 6 credits at the 2000-level.",
         "title": "The Cold War",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3320",
+        "code": "HIS 3320",
+        "credits": 3,
         "description": "A survey of the history of Western European integration since World War II, its influence on European political, social and economic development, and on inter-state relations.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (E)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (E).",
         "title": "Building Europe, 1945 to the Present",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3328",
+        "code": "HIS 3328",
+        "credits": 3,
         "description": "Overview of the history of European anti-semitism, and analysis of the development of Nazi policies of extermination of the Jews, with a focus on European political and social developments between 1933 and 1945, and of responses, including victims', to state-legislated anti-semitism.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (E)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (E).",
         "title": "The Holocaust",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3330",
-        "description": " ",
+        "code": "HIS 3330",
+        "credits": 3,
+        "description": "(E)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (E)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (E).",
         "title": "Selected Topics in European History",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3355",
+        "code": "HIS 3355",
+        "credits": 3,
         "description": "Evolution of Slovak identity from the 5th century to the reign of Joseph II, with emphasis upon the great Moravian empire, the Renaissance and Reformation, and the Enlightenment in the Hapsburg empire.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (E)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (E).",
-        "title": "The Slovaks and their Neighbours in Central Europe to 1780",
-        "year": "3"
+        "title": "The Slovaks and Their Neighbours in Central Europe to 1780",
+        "year": 3
     },
     {
-        "code": "HIS3356",
+        "code": "HIS 3356",
+        "credits": 3,
         "description": "Persistence of Slovak identity in the Hapsburg empire, the dual monarchy of Austria-Hungary, and the Czecho-Slovak republics.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (E)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (E).",
-        "title": "The Slovaks and their Neighbours in Central Europe since 1780",
-        "year": "3"
+        "title": "The Slovaks and Their Neighbours in Central Europe Since 1780",
+        "year": 3
     },
     {
-        "code": "HIS3357",
+        "code": "HIS 3357",
+        "credits": 3,
         "description": "History of Czechoslovakia from its creation in 1918 to its dissolution in 1992: centralism versus federalism.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (E)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (E).",
         "title": "The Rise and Fall of Czechoslovakia",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3375",
+        "code": "HIS 3375",
+        "credits": 3,
         "description": "Study of a theme related to the history of Canada. Themes may vary from year to year.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (C)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 12 HIS credits including 6 credits at the 2000-level. (C).",
         "title": "Selected Topics in Canadian History",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3391",
+        "code": "HIS 3391",
+        "credits": 3,
         "description": "Ways in which history is shaped by governments, public institutions, the information and entertainment media, and artists for presentation to the general public.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 12 HIS credits including 6 credits at the 2000-level."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 12 HIS credits including 6 credits at the 2000-level.",
         "title": "Studies in Public History",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3397",
-        "description": " ",
+        "code": "HIS 3397",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 12 HIS credits including 6 credits at the 2000-level."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 12 HIS credits including 6 credits at the 2000-level.",
         "title": "Selected Topics in History",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3398",
+        "code": "HIS 3398",
+        "credits": 3,
         "description": "Study of a theme through translated primary sources. The theme may vary from year to year.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: Recommended, HIS 2335. (E)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: Recommended, HIS2335. (E).",
         "title": "Selected Topics in Medieval History",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3500",
+        "code": "HIS 3500",
+        "credits": 3,
         "description": "Étude des différentes interprétations de l'histoire canadienne, particulièrement celles avancées par des historiens d'origines culturelles et linguistiques diverses.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000. Aussi offert sous la cote CDN 3500."
+        ],
         "language": "French",
-        "restriction": "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000. Aussi offert sous la cote CDN3500.",
-        "title": "Histoire et perceptions de l'histoire au Canada",
-        "year": "3"
+        "title": "Histoire et perceptions de l'histoire du Canada",
+        "year": 3
     },
     {
-        "code": "HIS3507",
+        "code": "HIS 3507",
+        "credits": 3,
         "description": "Évolution économique, sociale, politique et intellectuelle du Québec au XIXe siècle.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000. (C)."
+        ],
         "language": "French",
-        "restriction": "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000. (C).",
         "title": "Le Québec au XIXe siècle",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3508",
+        "code": "HIS 3508",
+        "credits": 3,
         "description": "Évolution économique, sociale, politique et intellectuelle du Québec au XXe siècle.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 12 crédits HIS dont 6 crédits au niveau 2000. Ouvert sans préalable aux étudiants et étudiantes en Études des francophonies. (C)."
+        ],
         "language": "French",
-        "restriction": "Préalable : 12 crédits HIS dont 6 crédits au niveau 2000. Ouvert sans préalable aux étudiants et étudiantes en Études des francophonies. (C).",
         "title": "Le Québec au XXe siècle",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3509",
-        "description": "Étude d'un thème lié à l'histoire amérindienne. Les thèmes peuvent varier d'une année à l'autre.",
+        "code": "HIS 3509",
+        "credits": 3,
+        "description": "Étude d'un thème lié à l'histoire amérindienne.  Les thèmes peuvent varier d'une année à l'autre.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000. (C)."
+        ],
         "language": "French",
-        "restriction": "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000. (C).",
         "title": "Thèmes choisis en histoire amérindienne",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3510",
+        "code": "HIS 3510",
+        "credits": 3,
         "description": "Études de thèmes choisis en histoire grecque ou romaine. Les thèmes varient tous les ans. Consulter la brochure du Département.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Aussi offert sous la cote CLA 3510. Ce cours peut exiger une certaine connaissance préalable du sujet. Consulter le Département d'études anciennes et de sciences des religions."
+        ],
         "language": "French",
-        "restriction": "Aussi offert sous la cote CLA3510. Ce cours peut exiger une certaine connaissance préalable du sujet. Consulter le Département d'études anciennes et de sciences des religions.",
-        "title": "Thèmes choisis en histoire ancienne",
-        "year": "3"
+        "title": "Thèmes choisis en histoire ancienne I",
+        "year": 3
     },
     {
-        "code": "HIS3520",
-        "description": " ",
+        "code": "HIS 3520",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
         "language": "French",
-        "restriction": "",
         "title": "Thèmes choisis en histoire des régions du Canada",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3550",
-        "description": " ",
+        "code": "HIS 3550",
+        "credits": 3,
+        "description": "(A)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000. (A)."
+        ],
         "language": "French",
-        "restriction": "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000. (A).",
         "title": "Thèmes choisis en histoire américaine",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3575",
+        "code": "HIS 3575",
+        "credits": 3,
         "description": "Colonisation et décolonisation au Vietnam depuis 111 avant notre ère.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000. (N)."
+        ],
         "language": "French",
-        "restriction": "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000. (N).",
         "title": "Histoire des guerres du Vietnam",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3580",
+        "code": "HIS 3580",
+        "credits": 3,
         "description": "Étude d'un thème lié à l'histoire de l'Asie. Les thèmes peuvent varier d'une année à l'autre.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000. (N)."
+        ],
         "language": "French",
-        "restriction": "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000. (N).",
         "title": "Thèmes choisis en histoire de l'Asie",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3585",
+        "code": "HIS 3585",
+        "credits": 3,
         "description": "Étude d'un thème lié à l'histoire de l'Afrique au sud du Sahara. Les thèmes peuvent varier d'une année à l'autre.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000. (N)."
+        ],
         "language": "French",
-        "restriction": "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000. (N).",
         "title": "Thèmes choisis en histoire de l'Afrique au sud du Sahara",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3590",
+        "code": "HIS 3590",
+        "credits": 3,
         "description": "Étude d'un thème lié à l'histoire du Moyen-Orient et/ou de l'Afrique du Nord. Les thèmes peuvent varier d'une année à l'autre.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000. (N)."
+        ],
         "language": "French",
-        "restriction": "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000. (N).",
         "title": "Thèmes choisis en histoire du Moyen-Orient et de l'Afrique du Nord",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3595",
-        "description": "Étude d'un thème lié à l'histoire de l'Amérique Latine et/ou des Caraïbes. Les thèmes peuvent varier d'une année à l'autre.",
+        "code": "HIS 3595",
+        "credits": 3,
+        "description": "Étude d'un thème lié à l'histoire de l'Amérique Latine et/ou des Caraïbes. Les thèmes peuvent varier  d'une année à l'autre.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000. (N)."
+        ],
         "language": "French",
-        "restriction": "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000. (N).",
-        "title": "Thèmes choisis en histoire de l'Amérique Latine",
-        "year": "3"
+        "title": "Thèmes choisis en histoire de l'Amérique latine",
+        "year": 3
     },
     {
-        "code": "HIS3714",
+        "code": "HIS 3714",
+        "credits": 3,
         "description": "Aspects politiques, diplomatiques, sociaux, économiques, technologiques et militaires de la Deuxième Guerre mondiale en Europe, en Asie et en Amérique.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000."
+        ],
         "language": "French",
-        "restriction": "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000.",
-        "title": "La Deuxième Guerre mondiale",
-        "year": "3"
+        "title": "La deuxième guerre mondiale",
+        "year": 3
     },
     {
-        "code": "HIS3728",
+        "code": "HIS 3728",
+        "credits": 3,
         "description": "Survol de l'histoire de l'antisémitisme européen et analyse du développement de la politique d'extermination des Juifs menée par les Nazis; étude de la situation socio-politique européenne entre 1933 et 1945 et des réactions, y compris celles des victimes, face à la répression étatique. E.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000. (E)."
+        ],
         "language": "French",
-        "restriction": "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000. (E).",
         "title": "L'holocauste",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3730",
-        "description": " ",
+        "code": "HIS 3730",
+        "credits": 3,
+        "description": "(E)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000. (E)."
+        ],
         "language": "French",
-        "restriction": "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000. (E).",
         "title": "Thèmes choisis en histoire de l'Europe",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3764",
-        "description": "Permanences et transformations de la société française, de la Renaissance à la Révolution.",
+        "code": "HIS 3764",
+        "credits": 3,
+        "description": "Permanences et transformations de la société française, de la Renaissance à la Révolution. (E)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000. (E)."
+        ],
         "language": "French",
-        "restriction": "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000. Antérieurement HIS2730. (E).",
-        "title": "La France de l'Ancien Régime de 1500 à 1799",
-        "year": "3"
+        "title": "La France de l'ancien régime de 1500 à 1799",
+        "year": 3
     },
     {
-        "code": "HIS3765",
-        "description": "Permanences et transformations de la société française contemporaine, dans le contexte d'une Europe en construction, de Napoléon à la Communauté européenne.",
+        "code": "HIS 3765",
+        "credits": 3,
+        "description": "Permanences et transformations de la société française contemporaine, dans le contexte d'une Europe en construction, de Napoléon à la Communauté européenne. (E)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000. (E)."
+        ],
         "language": "French",
-        "restriction": "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000. Antérieurement HIS2731. (E).",
         "title": "La France des XIXe et XXe siècles",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3775",
+        "code": "HIS 3775",
+        "credits": 3,
         "description": "Étude d'un thème lié à l'histoire du Canada. Les thèmes peuvent varier d'une année à l'autre.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000. (C)."
+        ],
         "language": "French",
-        "restriction": "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000. (C).",
         "title": "Thèmes choisis en histoire du Canada",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3781",
+        "code": "HIS 3781",
+        "credits": 3,
         "description": "La présence française sur le territoire de l'Ontario depuis la venue des premiers explorateurs et missionnaires jusqu'à nos jours.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000.  Ouvert sans préalable aux étudiants et étudiantes en Études des francophonies. (C)."
+        ],
         "language": "French",
-        "restriction": "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000. Antérieurement HIS2781. Ouvert sans préalable aux étudiants et étudiantes en Études des francophonies. (C).",
         "title": "Histoire de l'Ontario français",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3797",
-        "description": " ",
+        "code": "HIS 3797",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000."
+        ],
         "language": "French",
-        "restriction": "Préalable : 12 crédits HIS dont 6 crédits de niveau 2000.",
         "title": "Thèmes choisis en histoire",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3798",
+        "code": "HIS 3798",
+        "credits": 3,
         "description": "Étude d'un thème à partir de sources traduites. Le thème peut changer d'une année à l'autre.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : recommandé, HIS 2735. (E)."
+        ],
         "language": "French",
-        "restriction": "Préalable : recommandé, HIS2735. (E).",
         "title": "Thèmes choisis en histoire médiévale",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "HIS3901",
-        "description": " ",
-        "language": "Bilingual/Unofficial/Unspecified",
-        "restriction": "Reserved for students registered in a co-operative education program in History.   Réservé aux étudiants et étudiantes inscrits à un programme d'enseignement coopératif en histoire.",
-        "title": "Stage coop II / CO-OP Work Term II",
-        "year": "3"
-    },
-    {
-        "code": "HIS3902",
-        "description": " ",
-        "language": "Bilingual/Unofficial/Unspecified",
-        "restriction": "Reserved for students registered in a co-operative education program in History.   Réservé aux étudiants et étudiantes inscrits à un programme d'enseignement coopératif en histoire.",
-        "title": "Stage coop III / CO-OP Work Term III",
-        "year": "3"
-    },
-    {
-        "code": "HIS4135",
-        "description": " ",
+        "code": "HIS 4135",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Seminar",
+            "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (C)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (C).",
         "title": "Seminar in Canadian History",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4138",
-        "description": " ",
+        "code": "HIS 4138",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Seminar",
+            "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (C)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (C).",
-        "title": "Seminar in Quebec History",
-        "year": "4"
+        "title": "Seminar in Québec History",
+        "year": 4
     },
     {
-        "code": "HIS4140",
-        "description": " ",
+        "code": "HIS 4140",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Seminar",
+            "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History.",
         "title": "Seminar in Diplomatic History",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4141",
-        "description": " ",
+        "code": "HIS 4141",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Seminar",
+            "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History.",
         "title": "Seminar in Comparative History",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4142",
-        "description": " ",
+        "code": "HIS 4142",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Seminar",
+            "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History.",
         "title": "Seminar in Medical History",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4150",
+        "code": "HIS 4150",
+        "credits": 3,
         "description": "Focused investigation of selected themes and topics in Greek or Roman history.",
+        "extraDetails": [
+            "Course Component: Seminar",
+            "Prerequisite: CLA 3110 or HIS 3110. Also offered as CLA 4150. Reserved for students registered in the Honours, Joint Honours or Major in History."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: CLA3110 or HIS3110. Also offered as CLA4150. Reserved for students registered in the Honours, Joint Honours or Major in History.",
         "title": "Ancient History Seminar",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4151",
-        "description": " ",
+        "code": "HIS 4151",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Seminar",
+            "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (A)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (A).",
         "title": "Seminar in American History",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4182",
-        "description": " ",
+        "code": "HIS 4182",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Seminar",
+            "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History.",
         "title": "Seminar in Women's History",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4184",
-        "description": " ",
+        "code": "HIS 4184",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Seminar",
+            "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (N)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (N).",
-        "title": "Seminar in Asian history",
-        "year": "4"
+        "title": "Seminar in Asian History",
+        "year": 4
     },
     {
-        "code": "HIS4186",
-        "description": " ",
+        "code": "HIS 4186",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Seminar",
+            "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (N)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (N).",
-        "title": "Seminar in African history",
-        "year": "4"
+        "title": "Seminar in African History",
+        "year": 4
     },
     {
-        "code": "HIS4192",
-        "description": " ",
+        "code": "HIS 4192",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Seminar",
+            "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (N)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (N).",
-        "title": "Seminar in the history of the Middle East and North Africa",
-        "year": "4"
+        "title": "Seminar in the History of the Middle East and North Africa",
+        "year": 4
     },
     {
-        "code": "HIS4300",
-        "description": " ",
+        "code": "HIS 4300",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Seminar",
+            "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (M)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (M).",
         "title": "Seminar in Historical Methodology",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4320",
-        "description": " ",
+        "code": "HIS 4320",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Seminar",
+            "Prerequisite: 81 university credits, HIS 2335 is recommended. Reserved for students registered in the Honours, Joint Honours or Major in History, or in the Major in Medieval Studies."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 81 university credits, HIS2335 is recommended. Reserved for students registered in the Honours, Joint Honours or Major in History, or in the Major in Medieval Studies.",
         "title": "Seminar in Medieval History",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4355",
-        "description": " ",
+        "code": "HIS 4355",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Seminar",
+            "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History.",
         "title": "Seminar in Slovak History",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4360",
+        "code": "HIS 4360",
+        "credits": 3,
         "description": "The themes will vary from year to year.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (C)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (C).",
         "title": "Selected Topics in Canadian History",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4361",
+        "code": "HIS 4361",
+        "credits": 3,
         "description": "The themes will vary from year to year.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (A)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (A).",
         "title": "Selected Topics in American History",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4362",
+        "code": "HIS 4362",
+        "credits": 3,
         "description": "The themes will vary from year to year.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (E)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (E).",
         "title": "Selected Topics in European History",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4363",
+        "code": "HIS 4363",
+        "credits": 3,
         "description": "The themes will vary from year to year.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (N)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (N).",
         "title": "Selected Topics in Non-Western History",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4364",
+        "code": "HIS 4364",
+        "credits": 3,
         "description": "The themes will vary from year to year.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 81 university credits. Also offered as EAS 4364. Reserved for students registered in the Honours, Joint Honours or Major in History, or in the Major in Arboriginal Studies."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 81 university credits. Also offered as EAS4364. Reserved for students registered in the Honours, Joint Honours or Major in History, or in the Major in Arboriginal Studies.",
         "title": "Selected Topics in Aboriginal History",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4365",
+        "code": "HIS 4365",
+        "credits": 3,
         "description": "The themes will vary from year to year.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (C)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (C).",
         "title": "Selected Topics in History",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4370",
-        "description": " ",
+        "code": "HIS 4370",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Seminar",
+            "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (A)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (A).",
         "title": "Seminar in Latin American History",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4380",
-        "description": " ",
+        "code": "HIS 4380",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Seminar",
+            "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (A)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (A).",
         "title": "Seminar in North American History",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4391",
-        "description": " ",
+        "code": "HIS 4391",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Seminar",
+            "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History.",
         "title": "Seminar in Canadian Material History",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4397",
-        "description": " ",
+        "code": "HIS 4397",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Seminar",
+            "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (E)."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 81 university credits. Reserved for students registered in the Honours, Joint Honours or Major in History. (E).",
         "title": "Seminar in European History",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4535",
-        "description": " ",
+        "code": "HIS 4535",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Séminaire",
+            "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (C)."
+        ],
         "language": "French",
-        "restriction": "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (C).",
         "title": "Séminaire en histoire du Canada",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4538",
-        "description": " ",
+        "code": "HIS 4538",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Séminaire",
+            "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (C)."
+        ],
         "language": "French",
-        "restriction": "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (C).",
         "title": "Séminaire en histoire du Québec",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4540",
-        "description": " ",
+        "code": "HIS 4540",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Séminaire",
+            "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire."
+        ],
         "language": "French",
-        "restriction": "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire.",
         "title": "Séminaire en histoire des relations internationales",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4541",
-        "description": " ",
+        "code": "HIS 4541",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Séminaire",
+            "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire."
+        ],
         "language": "French",
-        "restriction": "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire.",
         "title": "Séminaire en histoire comparée",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4542",
-        "description": " ",
+        "code": "HIS 4542",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Séminaire",
+            "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire."
+        ],
         "language": "French",
-        "restriction": "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire.",
         "title": "Séminaire en histoire de la médecine",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4550",
+        "code": "HIS 4550",
+        "credits": 3,
         "description": "Étude approfondie de thèmes choisis en histoire grecque ou romaine.",
+        "extraDetails": [
+            "Volet : Séminaire",
+            "Préalable : CLA 3510 ou HIS 3510. Aussi offert sous la cote CLA 4550. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire."
+        ],
         "language": "French",
-        "restriction": "Préalable : CLA3510 ou HIS3510. Aussi offert sous la cote CLA4550. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire.",
         "title": "Séminaire en histoire ancienne",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4551",
-        "description": " ",
+        "code": "HIS 4551",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Séminaire",
+            "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (A)."
+        ],
         "language": "French",
-        "restriction": "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (A).",
         "title": "Séminaire en histoire des États-Unis",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4582",
-        "description": " ",
+        "code": "HIS 4582",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Séminaire",
+            "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire."
+        ],
         "language": "French",
-        "restriction": "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire.",
         "title": "Séminaire en histoire des femmes",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4584",
-        "description": " ",
+        "code": "HIS 4584",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Séminaire",
+            "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (N)."
+        ],
         "language": "French",
-        "restriction": "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (N).",
         "title": "Séminaire en histoire de l'Asie",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4586",
-        "description": " ",
+        "code": "HIS 4586",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Séminaire",
+            "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (N)."
+        ],
         "language": "French",
-        "restriction": "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (N).",
         "title": "Séminaire en histoire de l'Afrique",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4592",
-        "description": " ",
+        "code": "HIS 4592",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Séminaire",
+            "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (N)."
+        ],
         "language": "French",
-        "restriction": "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (N).",
         "title": "Séminaire en histoire du Moyen-Orient et de l'Afrique du Nord",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4700",
-        "description": " ",
+        "code": "HIS 4700",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Séminaire",
+            "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (M)."
+        ],
         "language": "French",
-        "restriction": "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (M).",
         "title": "Séminaire en méthodologie historique",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4720",
-        "description": " ",
+        "code": "HIS 4720",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Séminaire",
+            "Préalable : 81 crédits universitaires, HIS 2735 est recommandé. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire, ou à la majeure en études médiévales."
+        ],
         "language": "French",
-        "restriction": "Préalable : 81 crédits universitaires, HIS2735 est recommandé. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire, ou à la majeure en études médiévales.",
         "title": "Séminaire en histoire médiévale",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4760",
+        "code": "HIS 4760",
+        "credits": 3,
         "description": "Les thèmes varient d'une année à l'autre.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (C)."
+        ],
         "language": "French",
-        "restriction": "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (C).",
         "title": "Thèmes choisis en histoire canadienne",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4761",
+        "code": "HIS 4761",
+        "credits": 3,
         "description": "Les thèmes varient d'une année à l'autre.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (A)."
+        ],
         "language": "French",
-        "restriction": "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (A).",
         "title": "Thèmes choisis en histoire américaine",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4762",
+        "code": "HIS 4762",
+        "credits": 3,
         "description": "Les thèmes varient d'une année à l'autre.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (E)."
+        ],
         "language": "French",
-        "restriction": "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (E).",
         "title": "Thèmes choisis en histoire européenne",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4763",
+        "code": "HIS 4763",
+        "credits": 3,
         "description": "Les thèmes varient d'une année à l'autre.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (N)."
+        ],
         "language": "French",
-        "restriction": "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (N).",
         "title": "Thèmes choisis en histoire non occidentale",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4764",
+        "code": "HIS 4764",
+        "credits": 3,
         "description": "Les thèmes varient d'une année à l'autre.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 81 crédits universitaires. Aussi offert sous la cote EAS 4764. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire, ou à la majeure en études autochtones."
+        ],
         "language": "French",
-        "restriction": "Préalable : 81 crédits universitaires. Aussi offert sous la cote EAS4764. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire, ou à la majeure en études autochtones.",
         "title": "Thèmes choisis en histoire autochtone",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4765",
+        "code": "HIS 4765",
+        "credits": 3,
         "description": "Les thèmes varient d'une année à l'autre.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire."
+        ],
         "language": "French",
-        "restriction": "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire.",
         "title": "Thèmes choisis en histoire",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4770",
-        "description": " ",
+        "code": "HIS 4770",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Séminaire",
+            "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (A)."
+        ],
         "language": "French",
-        "restriction": "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (A).",
         "title": "Séminaire en histoire de l'Amérique latine",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4780",
-        "description": " ",
+        "code": "HIS 4780",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Séminaire",
+            "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (A)."
+        ],
         "language": "French",
-        "restriction": "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (A).",
         "title": "Séminaire en histoire de l'Amérique du Nord",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4797",
-        "description": " ",
+        "code": "HIS 4797",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Séminaire",
+            "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (E)."
+        ],
         "language": "French",
-        "restriction": "Préalable : 81 crédits universitaires. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé, bidisciplinaire ou à la majeure en histoire. (E).",
-        "title": "Séminaire en histoire de l'Europe",
-        "year": "4"
+        "title": "Séminaire en histoire de l'Europe I",
+        "year": 4
     },
     {
-        "code": "HIS4900",
-        "description": " ",
+        "code": "HIS 4900",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Cours magistral / Lecture",
+            "Prerequisite: Permission of the Department. Enrolment will be strictly limited. Reserved for students registered in the Honours or Joint Honours History."
+        ],
         "language": "Bilingual/Unofficial/Unspecified",
-        "restriction": "Prerequisite: Permission of the Department. Enrolment will be strictly limited. Reserved for students registered in the Honours or Joint Honours History.   Préalable : Permission du Département. Inscriptions contingentées. Réservé aux étudiants et étudiantes inscrits au Baccalauréat spécialisé ou bidisciplinaire en histoire.",
         "title": "Mémoire de recherche en histoire / History Research Essay",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "HIS4901",
-        "description": " ",
-        "language": "Bilingual/Unofficial/Unspecified",
-        "restriction": "Reserved for students registered in a co-operative education program in History.   Réservé aux étudiants et étudiantes inscrits à un programme d'enseignement coopératif en histoire.",
-        "title": "Stage coop IV / CO-OP Work Term IV",
-        "year": "4"
+        "code": "HIS 5103",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
+        "language": "English",
+        "title": "Seminar in Canadian History I",
+        "year": 5
     },
     {
-        "code": "HIS4902",
-        "description": " ",
+        "code": "HIS 5111",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Seminar in New France",
+        "year": 5
+    },
+    {
+        "code": "HIS 5122",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
+        "language": "English",
+        "title": "Research Seminar",
+        "year": 5
+    },
+    {
+        "code": "HIS 5125",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Seminar on History of Quebec",
+        "year": 5
+    },
+    {
+        "code": "HIS 5129",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Seminar on British North America",
+        "year": 5
+    },
+    {
+        "code": "HIS 5199",
+        "credits": 0,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Research"
+        ],
+        "language": "English",
+        "title": "English Language Requirement in History",
+        "year": 5
+    },
+    {
+        "code": "HIS 5503",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
+        "language": "French",
+        "title": "Séminaire en histoire Canada I",
+        "year": 5
+    },
+    {
+        "code": "HIS 5511",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Problèmes en histoire de la Nouvelle-France",
+        "year": 5
+    },
+    {
+        "code": "HIS 5522",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
+        "language": "French",
+        "title": "Séminaire de recherche",
+        "year": 5
+    },
+    {
+        "code": "HIS 5525",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Séminaire en histoire du Québec I",
+        "year": 5
+    },
+    {
+        "code": "HIS 5529",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Séminaire sur le Canada sous le régime britannique",
+        "year": 5
+    },
+    {
+        "code": "HIS 5599",
+        "credits": 0,
+        "description": "",
+        "extraDetails": [
+            "Volet : Recherche"
+        ],
+        "language": "French",
+        "title": "Exigence de langue française en histoire",
+        "year": 5
+    },
+    {
+        "code": "HIS 6103",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Seminar in American History I",
+        "year": 6
+    },
+    {
+        "code": "HIS 6332",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
+        "language": "English",
+        "title": "Seminar on the History of Technology",
+        "year": 6
+    },
+    {
+        "code": "HIS 6334",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "History of Francophones in North America, Outside of Quebec",
+        "year": 6
+    },
+    {
+        "code": "HIS 6336",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
+        "language": "English",
+        "title": "Seminar on Immigrants and Ethnic Groups in North America",
+        "year": 6
+    },
+    {
+        "code": "HIS 6503",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Séminaire en histoire américaine I",
+        "year": 6
+    },
+    {
+        "code": "HIS 6532",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Séminaire en histoire de la technologie",
+        "year": 6
+    },
+    {
+        "code": "HIS 6536",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Séminaire en histoire des immigrants et des communautés ethnoculturelles en Amérique du Nord",
+        "year": 6
+    },
+    {
+        "code": "HIS 6734",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Histoire des francophones en Amérique du Nord, hors Québec",
+        "year": 6
+    },
+    {
+        "code": "HIS 6999",
+        "credits": 0,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
         "language": "Bilingual/Unofficial/Unspecified",
-        "restriction": " ",
-        "title": "Stage coop V / CO-OP Work Term V",
-        "year": "4"
+        "title": "Mémoire de maîtrise / Research Paper",
+        "year": 6
+    },
+    {
+        "code": "HIS 7103",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
+        "language": "English",
+        "title": "Seminar in European History I",
+        "year": 7
+    },
+    {
+        "code": "HIS 7304",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Seminar On Medieval History",
+        "year": 7
+    },
+    {
+        "code": "HIS 7330",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
+        "language": "English",
+        "title": "Seminar on Comparative History",
+        "year": 7
+    },
+    {
+        "code": "HIS 7331",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Seminar on the History of Women and Gender",
+        "year": 7
+    },
+    {
+        "code": "HIS 7333",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Seminar on International Relations",
+        "year": 7
+    },
+    {
+        "code": "HIS 7335",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
+        "language": "English",
+        "title": "Seminar on War and Society",
+        "year": 7
+    },
+    {
+        "code": "HIS 7336",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Slovaks in Europe, Canada and the United States Since 1870",
+        "year": 7
+    },
+    {
+        "code": "HIS 7337",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Seminar on History of Medicine",
+        "year": 7
+    },
+    {
+        "code": "HIS 7338",
+        "credits": 3,
+        "description": "In-depth examination of issues relating to the history of colonialism and postcolonialism.",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Seminar on the History of Colonialism and Post Colonialism",
+        "year": 7
+    },
+    {
+        "code": "HIS 7399",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Research"
+        ],
+        "language": "English",
+        "title": "Directed Studies in History",
+        "year": 7
+    },
+    {
+        "code": "HIS 7503",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
+        "language": "French",
+        "title": "Séminaire en histoire européenne I",
+        "year": 7
+    },
+    {
+        "code": "HIS 7504",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Séminaire en histoire européenne II",
+        "year": 7
+    },
+    {
+        "code": "HIS 7530",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
+        "language": "French",
+        "title": "Séminaire en histoire comparée",
+        "year": 7
+    },
+    {
+        "code": "HIS 7535",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
+        "language": "French",
+        "title": "Séminaire sur la guerre et la société",
+        "year": 7
+    },
+    {
+        "code": "HIS 7705",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Méthodes de recherche en histoire",
+        "year": 7
+    },
+    {
+        "code": "HIS 7731",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Séminaire en histoire des femmes et du genre",
+        "year": 7
+    },
+    {
+        "code": "HIS 7733",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Séminaire en relations internationales",
+        "year": 7
+    },
+    {
+        "code": "HIS 7738",
+        "credits": 3,
+        "description": "Études approfondies sur des questions liées à l'histoire du colonialisme et du postcolonialisme.",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Séminaire en histoire du colonialisme et du postcolonialisme",
+        "year": 7
+    },
+    {
+        "code": "HIS 7799",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Recherche"
+        ],
+        "language": "French",
+        "title": "Études dirigées en histoire",
+        "year": 7
+    },
+    {
+        "code": "HIS 7999",
+        "credits": 0,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "Recherche et thèse M.A. / M.A. Thesis Research",
+        "year": 7
+    },
+    {
+        "code": "HIS 8900",
+        "credits": 3,
+        "description": "Séminaire sur des sujets se rapportant aux débats historiographiques et aux méthodologies de recherche en histoire. / Seminar on topics relating to the historiographical debates and research methodologies in history.",
+        "extraDetails": [
+            "Volet / Course Component: Séminaire / Seminar"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "Séminaire de recherche doctorale / Doctoral Research Seminar",
+        "year": 8
+    },
+    {
+        "code": "HIS 9901",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "Le Canada français / French Canada",
+        "year": 9
+    },
+    {
+        "code": "HIS 9902",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "L'Amérique coloniale / Colonial America",
+        "year": 9
+    },
+    {
+        "code": "HIS 9903",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "L'Amérique britannique du nord jusqu?à 1873 / British North America to 1873",
+        "year": 9
+    },
+    {
+        "code": "HIS 9904",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "Le Canada après la confédération / Post-Confederation Canada",
+        "year": 9
+    },
+    {
+        "code": "HIS 9905",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "La Nouvelle-France / New France",
+        "year": 9
+    },
+    {
+        "code": "HIS 9910",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "Québec / Quebec",
+        "year": 9
+    },
+    {
+        "code": "HIS 9920",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "L'Amérique latine / Latin America",
+        "year": 9
+    },
+    {
+        "code": "HIS 9930",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "Histoire de l'Asie / Asian",
+        "year": 9
+    },
+    {
+        "code": "HIS 9940",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "Histoire du Moyen-Orient et de l'Afrique du Nord / Middle Eastern and North African History",
+        "year": 9
+    },
+    {
+        "code": "HIS 9950",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "Histoire de l'Afrique / History of Africa",
+        "year": 9
+    },
+    {
+        "code": "HIS 9954",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "Histoire des États-Unis / U.S. History",
+        "year": 9
+    },
+    {
+        "code": "HIS 9980",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "Histoire économique / Economic History",
+        "year": 9
+    },
+    {
+        "code": "HIS 9981",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "Histoire socioculturelle / Social-Cultural History",
+        "year": 9
+    },
+    {
+        "code": "HIS 9982",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "Histoire intellectuelle / Intellectual History",
+        "year": 9
+    },
+    {
+        "code": "HIS 9983",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "Histoire politique / Political History",
+        "year": 9
+    },
+    {
+        "code": "HIS 9984",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "Relations internationales / International Relations",
+        "year": 9
+    },
+    {
+        "code": "HIS 9985",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "Histoire de la médecine, des techniques et des sciences / History of Medicine, Technology and Sciences",
+        "year": 9
+    },
+    {
+        "code": "HIS 9986",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "Histoire des Autochtones du Canada / History of Canada's Native Peoples",
+        "year": 9
+    },
+    {
+        "code": "HIS 9987",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "Histoire des immigrants et des communautés ethnoculturelles en Amérique du Nord / History of Immigrants and Ethnic Groups in North America",
+        "year": 9
+    },
+    {
+        "code": "HIS 9988",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "Histoire des femmes / History of Women",
+        "year": 9
+    },
+    {
+        "code": "HIS 9989",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "Histoire militaire et diplomatique / Military and Diplomatic History",
+        "year": 9
+    },
+    {
+        "code": "HIS 9990",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "L'Europe médiévale / Medieval  Europe",
+        "year": 9
+    },
+    {
+        "code": "HIS 9991",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "L'Europe moderne / Early Modern Europe",
+        "year": 9
+    },
+    {
+        "code": "HIS 9992",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "La Grande-Bretagne / Great Britain",
+        "year": 9
+    },
+    {
+        "code": "HIS 9993",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "L'Europe des 19e et 20e siècles / 19th and 20th Century Europe",
+        "year": 9
+    },
+    {
+        "code": "HIS 9994",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "La France depuis la révolution / France Since the Revolution",
+        "year": 9
+    },
+    {
+        "code": "HIS 9995",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "La France de l'ancien régime / France of the Ancient Regime",
+        "year": 9
+    },
+    {
+        "code": "HIS 9998",
+        "credits": 0,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "Examen oral du doctorat",
+        "year": 9
+    },
+    {
+        "code": "HIS 9999",
+        "credits": 0,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "Recherche et thèse doctorat / Ph.D. Thesis Research",
+        "year": 9
     }
 ]

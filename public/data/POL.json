@@ -1,1394 +1,3105 @@
 [
     {
-        "code": "POL1101",
+        "code": "POL 1101",
+        "credits": 3,
         "description": "Comparative study of the ideas, concepts and issues leading to an understanding of political phenomena and of their impact on the lives of individuals and societies. Reflection on power, citizenship and political participation. Introduction to research tasks (e.g. bibliographic research, writing a research or reading report).",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
         "language": "English",
-        "restriction": "",
         "title": "Introduction to Political Science",
-        "year": "1"
+        "year": 1
     },
     {
-        "code": "POL1102",
-        "description": "Understanding globalization in its political, economic, social and cultural dimensions. Relationship between globalization and politics: new roles for the nation-state, international organizations, social movements, local communities. Introduction to research tasks (e.g. bibliographic research, writing a research or reading report).",
+        "code": "POL 1102",
+        "credits": 3,
+        "description": "Understanding globalization in its political, economic, social and cultural dimensions.  Relationship between globalization and politics: new roles for the nation-state, international organizations, social movements, local communities. Introduction to research tasks (e.g. bibliographic research, writing a research or reading report).",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
         "language": "English",
-        "restriction": "",
         "title": "Politics and Globalization",
-        "year": "1"
+        "year": 1
     },
     {
-        "code": "POL1501",
+        "code": "POL 1501",
+        "credits": 3,
         "description": "Étude comparative des idées, concepts et enjeux permettant une compréhension des phénomènes politiques et de leur importance dans la vie des individus et des collectivités. Questionnement sur le pouvoir, la citoyenneté et la participation politique. Introduction au travail de recherche (ex. : recherche bibliographique, rédaction d'un rapport de recherche ou de lecture).",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
         "language": "French",
-        "restriction": "",
         "title": "Introduction à la science politique",
-        "year": "1"
+        "year": 1
     },
     {
-        "code": "POL1502",
-        "description": "Examen du phénomène de la mondialisation : ses dimensions politiques, économiques, sociales, culturelles. Rapports entre la mondialisation et la politique : changements dans le rôle de l'État-nation, des organisations internationales, des mouvements sociaux, des communautés locales. Introduction au travail de recherche (ex. : recherche bibliographique, rédaction d'un rapport de recherche ou de lecture).",
+        "code": "POL 1502",
+        "credits": 3,
+        "description": "Examen du phénomène de la mondialisation : ses dimensions politiques, économiques, sociales, culturelles.  Rapports entre la mondialisation et la politique : changements dans le rôle de l'État-nation, des organisations internationales, des mouvements sociaux, des communautés locales. Introduction au travail de recherche (ex. : recherche bibliographique, rédaction d'un rapport de recherche ou de lecture).",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
         "language": "French",
-        "restriction": "",
         "title": "Politique et mondialisation",
-        "year": "1"
+        "year": 1
     },
     {
-        "code": "POL2101",
-        "description": "Foundations of the Canadian political space. Constitution, parliamentary government, federalism. Political parties and elections. Overview of political forces (classes, groups, movements). (CAN)",
+        "code": "POL 2101",
+        "credits": 3,
+        "description": "Foundations of the Canadian political space. Constitution, parliamentary government, federalism. Political parties and elections. Overview of political forces (classes, groups, movements).  (CAN)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 1101 or 18 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL1101 or 18 university course credits.",
         "title": "Introduction to Canadian Politics",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "POL2103",
+        "code": "POL 2103",
+        "credits": 3,
         "description": "Study of international relations and the dynamics within global order with an emphasis on key concepts, theories and analytic frameworks. Analysis of contemporary issues and their impact on globalization and global relations. (INT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 1101 or POL 1102 or 18 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL1101 or POL1102 or 18 university course credits.",
         "title": "Introduction to International Relations and Global Politics",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "POL2104",
+        "code": "POL 2104",
+        "credits": 3,
         "description": "Introduction to the comparative study of political phenomena within states, in various historical, cultural and institutional contexts. Methods, theoretical frameworks, typologies and concepts commonly used in the comparative study of political phenomena. (COMP)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 1101 or POL 1102 or 18 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL1101 or POL1102 or 18 university course credits.",
         "title": "Introduction to Comparative Politics",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "POL2107",
-        "description": "Origins and development of political thought. Study of the principal themes of ancient and medieval political thought; brief discussion of nascent themes of modernity. (PPT)",
+        "code": "POL 2107",
+        "credits": 3,
+        "description": "Origins and development of political thought.  Study of the principal themes of ancient and medieval political thought; brief discussion of nascent themes of modernity. (PPT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite : POL 1101 or 18 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisite : POL1101 or 18 university course credits.",
         "title": "Introduction to Political Thought",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "POL2108",
+        "code": "POL 2108",
+        "credits": 3,
         "description": "Origins and development of early modern political thought (from the 16th to the 18th centuries). (PPT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite : POL 2107."
+        ],
         "language": "English",
-        "restriction": "Prerequisite : POL2107.",
         "title": "Modern Political Thought I",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "POL2156",
+        "code": "POL 2156",
+        "credits": 3,
         "description": "Introduction to the fundamental dimensions of research. Presentation of several epistemological approaches and the questions they raise. Study of diverse logics of enquiry and their modes of inference. Introduction to some techniques and methods. Elaboration of a research project covering all of the required steps.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 18 university credits. This course is equivalent to CMN 2101, CRM 2303, FEM 2103, PSY 2174, SCS 2150, SOC 2111."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 18 university credits. This course is equivalent to CMN2101, CRM2303, FEM2103, PSY2174, SCS2150, SOC2111.",
         "title": "Foundations of Research in Political Science",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "POL2501",
+        "code": "POL 2501",
+        "credits": 3,
         "description": "Fondements de l'espace politique canadien. Constitution, parlementarisme et fédéralisme. Partis politiques et élections. Aperçu des forces politiques (classes, groupes, mouvements). (CAN)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 1501 ou 18 crédits de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL1501 ou 18 crédits de cours universitaires.",
         "title": "Introduction à la politique canadienne",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "POL2503",
-        "description": "Étude des relations internationales et des dynamiques planétaires avec une place centrale accordée aux concepts, théories et cadres analytiques. Analyse des enjeux contemporains et de leurs conséquences sur la mondialisation et les relations planétaires. (INT)",
+        "code": "POL 2503",
+        "credits": 3,
+        "description": "Étude des relations internationales et des dynamiques planétaires avec une place centrale accordée aux concepts, théories et cadres analytiques.  Analyse des enjeux contemporains et de leurs conséquences sur la mondialisation et les relations planétaires. (INT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 1501 ou POL 1502 ou 18 crédits de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL1501 ou POL1502 ou 18 crédits de cours universitaires.",
         "title": "Introduction aux relations internationales et à la politique mondiale",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "POL2504",
-        "description": "Introduction à l'étude comparative de phénomènes politiques internes aux États, dans différents contextes historiques, culturels et institutionnels. Méthodes, approches théoriques, typologies et concepts utilisés dans l'analyse comparée des phénomènes politiques. (COMP)",
+        "code": "POL 2504",
+        "credits": 3,
+        "description": "Introduction à l'étude comparative de phénomènes politiques internes aux États, dans différents contextes historiques, culturels et institutionnels.  Méthodes, approches théoriques, typologies et concepts utilisés dans l'analyse comparée des phénomènes politiques. (COMP)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 1501 ou POL 1502 ou 18 crédits de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL1501 ou POL1502 ou 18 crédits de cours universitaires.",
         "title": "Introduction à la politique comparée",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "POL2507",
+        "code": "POL 2507",
+        "credits": 3,
         "description": "Origines et développement de la pensée politique. Études des principaux thèmes de la pensée politique ancienne et médiévale. Brève introduction aux principaux thèmes de la pensée politique moderne naissante. (PPT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 1501 ou 18 crédits de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL1501 ou 18 crédits de cours universitaires.",
         "title": "Introduction à la pensée politique",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "POL2508",
+        "code": "POL 2508",
+        "credits": 3,
         "description": "Origines et développement de la pensée politique moderne (du 16e au 18e siècle). (PPT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2507."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2507.",
         "title": "Pensée politique moderne I",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "POL2556",
+        "code": "POL 2556",
+        "credits": 3,
         "description": "Introduction aux dimensions fondamentales du processus de recherche. Présentation de plusieurs approches épistémologiques et de leurs enjeux. Étude de diverses logiques d'enquête et des modes d'inférences et des méthodes de recherche s'y rapportant. Élaboration d'un projet couvrant les diverses étapes de la recherche.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 18 crédits universitaires. Ce cours est équivalent à CMN 2501, CRM 2703, FEM 2503, PSY 2574, SCS 2550, SOC 2511."
+        ],
         "language": "French",
-        "restriction": "Préalable : 18 crédits universitaires. Ce cours est équivalent à CMN2501, CRM2703, FEM2503, PSY2574, SCS2550, SOC2511.",
         "title": "Fondements de la recherche en science politique",
-        "year": "2"
+        "year": 2
     },
     {
-        "code": "POL2901",
-        "description": " ",
-        "language": "Bilingual/Unofficial/Unspecified",
-        "restriction": " ",
-        "title": "Stage coop I / CO-OP Work Term I",
-        "year": "2"
-    },
-    {
-        "code": "POL3102",
+        "code": "POL 3102",
+        "credits": 3,
         "description": "Origins and development of later modern political thought (from the 19th century onwards). (PPT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisites: POL 2107, POL 2108."
+        ],
         "language": "English",
-        "restriction": "Prerequisites: POL2107, POL2108.",
         "title": "Modern Political Thought II",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3103",
+        "code": "POL 3103",
+        "credits": 3,
         "description": "Study of the relationship between the state and the market in capitalist societies. Examination of political economy as a critical method of analysis of contemporary political phenomena. Analysis of the impact of social structures and political institutions on the socio-economic orientations of states. (CAN/COMP/INT/PPT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2101 or POL 2103 or POL 2104 or POL 2107."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2101 or POL2103 or POL2104 or POL2107.",
         "title": "Introduction to Political Economy",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3105",
+        "code": "POL 3105",
+        "credits": 3,
         "description": "Origins, evolution and key concepts of various theories of democracy (e.g. direct, representative, liberal democracy). Main historical and contemporary debates and issues about democratic politics. (PPT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2108."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2108.",
         "title": "Theories of Democracy",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3106",
+        "code": "POL 3106",
+        "credits": 3,
         "description": "Theoretical study of the intellectual roots of totalitarianism and fascism. Importance of these historical phenomena and of the issues they raise. (PPT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite:  POL 2108."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2108.",
         "title": "Totalitarianism and Authoritarianism",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3109",
+        "code": "POL 3109",
+        "credits": 3,
         "description": "Critical analysis of the ideas of nation and nationalism. Nation, ethnicity, peuple, fatherland, nation-state, citizenship, national sovereignty. Relationship between nationalism and various globalizing and particularizing phenomena. (CAN/COMP/INT/PPT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2108."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2108.",
         "title": "Nationalism",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3110",
+        "code": "POL 3110",
+        "credits": 3,
         "description": "Study of non-Western political thought (e.g. in Asia, Africa, the Muslim world, indigenous people). Analysis of critical non-Western political thought, including anti-colonialism, post-colonialism, critique of liberalism and neotraditionalism. (PPT/COMP/INT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2108."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2108.",
         "title": "Non-Western Political Thought",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3113",
+        "code": "POL 3113",
+        "credits": 3,
         "description": "Study of different forms of international mobility and the political, economic and identity issues they raise. Themes can include historical and contemporary modes of governing migration and mobility; changes in migration as a result of global economic restructuring; the role that concepts of borders, nations and citizenship play in shaping relevant political spaces; theoretical, methodological and ethical issues associated with the study of mobility and migration. (INT/COMP)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2103 or POL 2104."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2103 or POL2104.",
         "title": "Migration, Mobility, Borders and Citizenship",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3114",
+        "code": "POL 3114",
+        "credits": 3,
         "description": "Comparative study of development processes and institutions in different countries of Asia. Examination of the relationship between politics, culture and society. Analysis of the regional dimensions of Asian politics. (COMP)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2103 or POL 2104 or 54 university credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2103 or POL2104 or 54 university credits.",
         "title": "Comparative Politics: Asia",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3115",
-        "description": "Comparative political analysis of development in various regions of the world (Africa, Asia, the Middle East, and Latin America & the Caribbean). Theories of political and economic development. The role of international organizations, states, and non-state actors in the politics of development. Effects on societies of their incorporation into the global economy. Study of selected issues such as self-determination, state-society relations and democracy, sustainable development and social justice. Case studies drawn mainly from countries having adopted different approaches to development. (COMP)",
+        "code": "POL 3115",
+        "credits": 3,
+        "description": "Comparative political analysis of development in various regions of the world (Africa, Asia, the Middle East, and Latin America & the Caribbean).  Theories of political and economic development.  The role of international organizations, states, and non-state actors in the politics of development.  Effects on societies of their incorporation into the global economy.  Study of selected issues such as self-determination, state-society relations and democracy, sustainable development and social justice.  Case studies drawn mainly from countries having adopted different approaches to development. (COMP)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2103 or POL 2104. The courses POL 3115, SOC 3331, DVM 3350 cannot be combined for credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2103 or POL2104. The courses POL3115, SOC3331, DVM3350 cannot be combined for credits.",
         "title": "Comparative Politics of Development",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3116",
+        "code": "POL 3116",
+        "credits": 3,
         "description": "A study of the relationship between culture and politics in one or more national and linguistic contexts. The themes explored will vary from year to year. (INT/CAN/PPT/COMP).",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 54 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 54 university course credits.",
         "title": "Politics and Culture",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3123",
+        "code": "POL 3123",
+        "credits": 3,
         "description": "Theoretical and empirical issues raised when gender is taken into consideration in the analysis of international relations. Examination of various themes: environment, militarism, international political economy, international development, human rights. (INT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisites: POL 2103."
+        ],
         "language": "English",
-        "restriction": "Prerequisites: POL2103. Previously POL4123.",
         "title": "Gender Studies and Feminist Theories in International Relations",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3124",
+        "code": "POL 3124",
+        "credits": 3,
         "description": "Introduction to the study of strategies, tactics, institutions, theories, and practices of international security broadly defined. Topics examined may include: insecurity, war, surveillance, borders, technologies, environment, terror, and militarization. (INT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisites: POL 2103 or POL 2104 or ECH 2330."
+        ],
         "language": "English",
-        "restriction": "Prerequisites: POL2103 or POL2104 or ECH2330. Previously POL4124.",
         "title": "The Politics of Security",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3125",
+        "code": "POL 3125",
+        "credits": 3,
         "description": "Study of political, social and economic issues confronted by cities in Canada and elsewhere. Theories and approaches to the analysis of urban governance. Examination of the role of cities and of regions in the new global economy. Relations between federal, provincial and municipal governments in Canada. (CAN)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2101."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2101.",
         "title": "Urban Politics in Canada",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3126",
+        "code": "POL 3126",
+        "credits": 3,
         "description": "Historical survey of the relationships between women and politics. Theories pertaining to the dynamic interactions of ideologies, attitudes, institutions, as well as economic, social and cultural phenomena affecting women's positions in political life. Analysis of selected aspects of the political role of women. (CAN/COMP/PPT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 54 university credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 54 university credits.",
         "title": "Women and Politics",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3128",
-        "description": "The political system and major transformations in Quebec : from a traditional to a modern society; problems of urbanization. Ideological foundations : federalism and independentism, Quebecois socialism. Social classes in Quebec. Political personal and public administration. Union forces in Quebec. Elections and electoral reforms. Future outlook. (CAN)",
+        "code": "POL 3128",
+        "credits": 3,
+        "description": "The political system and major transformations in Quebec : from a traditional to a modern society ; problems of urbanization. Ideological foundations : federalism and independentism, Quebecois socialism. Social classes in Quebec. Political personal and public administration. Union forces in Quebec. Elections and electoral reforms. Future outlook. (CAN)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2101."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2101.",
         "title": "Political Life in Quebec",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3133",
+        "code": "POL 3133",
+        "credits": 3,
         "description": "Study of the relationship between media and politics in Canada and elsewhere. Changing models of information access and their influence on political authority figures. Information as power and the conflict between media and government. Television debates, political campaigns, and political conventions as pseudo-events. Mediated realities. (CAN/COMP)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2101 or 54 university credits. Also offered as CMN 3133."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2101 or 54 university credits. Also offered as CMN3133.",
         "title": "Political Communication",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3135",
-        "description": "Study of questions and policies dealing with Francophones in Ontario. This course's aim is twofold: on the one hand, to ensure a better understanding of the Francophone presence in the 20th century, of Francophone groups and movements in Ontario, of the role played by Francophones in Ontario politics; and on the other hand, to allow a theoretical reflection on culture, on the being and becoming of the French-speaking citizen living in a minority context (outside the province of Quebec) in the Canadian federation. (CAN)",
+        "code": "POL 3135",
+        "credits": 3,
+        "description": "Study of questions and policies dealing with Francophones in Ontario. This course's aim is twofold: on the one hand, to ensure a better understanding of the Francophone presence in the 20th century, of Francophone groups and movements in Ontario, of the role played by Francophones in Ontario politics ; and on the other hand, to allow a theoretical reflection on culture, on the being and becoming of the French-speaking citizen living in a minority context (outside the province of Quebec) in the Canadian federation. (CAN)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2101."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2101.",
         "title": "Politics and Francophonie in Ontario",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3136",
+        "code": "POL 3136",
+        "credits": 3,
         "description": "Analysis of the origins of Socialist political thought and its most important texts, with a particular focus on the development of Marxism and the ideology of Communism in the 20th century. (PPT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisites: POL 2108."
+        ],
         "language": "English",
-        "restriction": "Prerequisites: POL2108. Previously POL4136.",
         "title": "Socialism and Marxism",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3137",
+        "code": "POL 3137",
+        "credits": 3,
         "description": "Analysis of the main concepts (e.g. individual, citizen, liberty, equality, justice, culture) of liberalism and neo-liberalism as methods of understanding modern societies and their transformation. Main debates within liberalism and between liberalism and other political and ideological traditions. (PPT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisites: POL 2108."
+        ],
         "language": "English",
-        "restriction": "Prerequisites: POL2108. Previously POL4137.",
         "title": "Liberalism",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3141",
+        "code": "POL 3141",
+        "credits": 3,
         "description": "Analysis of the origins and key concepts of conservatism and neoconservatism. (PPT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisites: POL 2108."
+        ],
         "language": "English",
-        "restriction": "Prerequisites: POL2108. Previously POL4140.",
         "title": "Conservatism and Neoconservatism",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3144",
+        "code": "POL 3144",
+        "credits": 3,
         "description": "Comparative study of development processes and institutions in different countries of Africa. Relationship between politics, culture and society. National and regional particularities. (COMP)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2103 or POL 2104."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2103 or POL2104.",
         "title": "Comparative Politics: Africa",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3145",
+        "code": "POL 3145",
+        "credits": 3,
         "description": "Comparative study of development processes and institutions in different countries in Latin America. Relationship between politics, culture and society. National and regional particularities. (COMP)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2103 or POL 2104 or 54 university credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2103 or POL2104 or 54 university credits.",
         "title": "Comparative Politics: Latin America",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3157",
+        "code": "POL 3157",
+        "credits": 3,
         "description": "Study of theoretical understandings and justifications of the public legal system and its role in politics. Evaluation of contemporary political-legal issues (e.g. activist courts, charter rights, separation of religion and politics). (PPT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2108."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2108.",
         "title": "Political Legal Theory",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3159",
+        "code": "POL 3159",
+        "credits": 3,
         "description": "Historical and contemporary challenges in the relationship between Indigenous peoples and the State in Canada. Indigenous rights in a comparative perspective. Indigenous approaches to governance. (CAN/COMP)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2101."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2101.",
         "title": "Indigenous Politics in Canada",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3162",
+        "code": "POL 3162",
+        "credits": 3,
         "description": "Causes and forms of violence aimed at changing policies, controlling a state, overthrowing a regime, or altering political boundaries. Forms of social, ethnic, and fundamentalist violence, including riots, massacres, terrorism, ethnic cleansing, and genocide. (COMP)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2104."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2104.",
         "title": "Political Violence",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3164",
+        "code": "POL 3164",
+        "credits": 3,
         "description": "Comparative study of development processes and institutions in different countries of the Middle East and the Arab World. Examination of the relationship between politics, culture and society. Analysis of the regional dimensions of the Arab World and Middle Eastern Politics. (COMP)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2103 or POL 2104."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2103 or POL2104.",
         "title": "Comparative Politics: Middle East and Arab World",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3170",
+        "code": "POL 3170",
+        "credits": 3,
         "description": "Study of the role of Canadian provinces in the Canadian political system. Comparative study of political cultures, of public policy and of provincial political systems. Analysis of the similarities and differences between provinces in their responses to social and economic challenges. (CAN)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2101."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2101.",
         "title": "Comparative Provincial Politics",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3171",
+        "code": "POL 3171",
+        "credits": 3,
         "description": "Theories and perspective in the analysis of immigration and citizenship policies in Canada and Québec. The politics of multiculturalism and interculturalism, the challenges of ethnocultural and religious diversity in Canada. (CAN)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2101."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2101.",
         "title": "Immigration, Multiculturalism and Citizenship in Canada and Quebec",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3172",
-        "description": "Analysis of factors influencing the political participation of Canadian citizens. The electoral system, the role of political parties, the influence of interest groups, social movements and other forms of collective action in Canadian democracy. (CAN)",
+        "code": "POL 3172",
+        "credits": 3,
+        "description": "Analysis of factors influencing the political participation of Canadian citizens.  The electoral system, the role of political parties, the influence of interest groups, social movements and other forms of collective action in Canadian democracy. (CAN)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2101."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2101.",
         "title": "Political Participation and Mobilization in Canada",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3174",
+        "code": "POL 3174",
+        "credits": 3,
         "description": "Main concepts and theoretical approaches in the analysis of federalism. Normative foundations of federalism. The Canadian federal system in a comparative perspective. Central themes in the study of federalism (e.g. identity and diversity, regional inequalities, secession). (CAN/COMP/PPT/INT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2101 or POL 2103 or POL 2104."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2101 or POL2103 or POL2104.",
         "title": "Federalism",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3175",
+        "code": "POL 3175",
+        "credits": 3,
         "description": "Analysis of major debates about the politics of the environment. Focus on environmental political theory, environmental movements, green political parties and environmental public policies in various countries, including Canada, as well as at the international level. (CAN/COMP/PPT/INT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2101 or POL 2103 or POL 2104."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2101 or POL2103 or POL2104.",
         "title": "Ecopolitics",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3176",
+        "code": "POL 3176",
+        "credits": 3,
         "description": "Introduction to the study of historical and contemporary issues in the global political economy, from a variety of theoretical perspectives. Topics examined may include: the role of the state in the global economy, international finance, the international division of labour, international trade and global development. (INT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisites: POL 2103."
+        ],
         "language": "English",
-        "restriction": "Prerequisites: POL2103. Previously POL4176.",
         "title": "International Political Economy",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3177",
+        "code": "POL 3177",
+        "credits": 3,
         "description": "Theoretical approaches used to study the practices, strategies and political discourse of social movements and civil society actors. Relationship between social movements, economic restructuring and the changing role of the State in the context of globalization. Political significance and impact of social movements within and across state borders. (INT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisites: POL 2103."
+        ],
         "language": "English",
-        "restriction": "Prerequisites: POL2103. Previously POL4171.",
-        "title": "Politics, Social Movements and Globalisation",
-        "year": "3"
+        "title": "Politics, Social Movements and Globalization",
+        "year": 3
     },
     {
-        "code": "POL3178",
+        "code": "POL 3178",
+        "credits": 3,
         "description": "Study of main constitutional and institutional frameworks, forces and factors influencing Canadian foreign policy. Canada's role in international organizations such as NATO, the UN, and the Francophonie. Canadian relations with North American governments and social/economic actors (Mexico and USA). Major issues in North American politics, including NAFTA, continental security, democracy, and the possibility of a North American political community. (INT/CAN)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2103."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2103.",
         "title": "Canadian Foreign Policy and North American Relations",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3179",
+        "code": "POL 3179",
+        "credits": 3,
         "description": "Introduction to the study of international organizations, transnational networks and institutions and practices of regulation within the context of global governance and globalization. Topics examined may include: the role of the United Nations and UN agencies, collective security, promotion of global norms and justice, international law, forces of resistance, transnational flows, economic and social development, NGOs. (INT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2103."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2103.",
         "title": "International Organizations and Global Governance",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3180",
-        "description": "Comparative analysis of institutions and political processes of European countries (Western and/or Eastern Europe) and/or the European Union. Covered topics may include: state formation; European integration; transformation of the welfare-state; public policies; formation and transformation of political regimes (democracy, authoritarianism, post-communism); political parties and social movements; political violence; nationalisms and regional identities. (COMP)",
+        "code": "POL 3180",
+        "credits": 3,
+        "description": "Comparative analysis of institutions and political processes of European countries (Western and/or Eastern Europe) and/or the European Union. Covered topics may include: state formation; European integration; transformation of the welfare-state; public policies; formation and transformation of political regimes (democracy, authoritarianism, post-communism); political parties and social movements; political violence ; nationalisms and regional identities. (COMP)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2104."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2104.",
-        "title": "Comparative Politics : Europe",
-        "year": "3"
+        "title": "Comparative Politics: Europe",
+        "year": 3
     },
     {
-        "code": "POL3370",
+        "code": "POL 3370",
+        "credits": 3,
         "description": "Epistemology and logics of qualitative analysis. Introduction to a variety of approaches and methodologies. Observation techniques (participatory and non-participatory observation); historical analysis of documents; comparative method, discourse analysis, political ethnography, interviews, and the multimethods approach.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2156 or SCS 2150. This course is equivalent to CMN 3103."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2156 or SCS2150. This course is equivalent to CMN3103.",
         "title": "Qualitative Analysis in Political Science",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3371",
+        "code": "POL 3371",
+        "credits": 3,
         "description": "Epistemology and logic of quantitative analysis. Introduction to descriptive statistics and to the main steps inherent in quantitative research, such as data gathering, measurement scales, measures of dispersion and of central tendencies, probability, sampling techniques. Practice of elementary techniques of analysis with dataset software: association measurement, test of hypothesis, regression analysis, bivariate and multivariate analyses, correlation. Multimethods approach.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2156 or SCS 2150. This course is equivalent to CMN 3102."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2156 or SCS2150. This course is equivalent to CMN3102.",
         "title": "Quantitative Analysis in Political Science",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3502",
+        "code": "POL 3502",
+        "credits": 3,
         "description": "Origine et développement de la pensée politique de la modernité avancée (du 19e siècle à aujourd'hui). (PPT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables : POL 2507, POL 2508."
+        ],
         "language": "French",
-        "restriction": "Préalables : POL2507, POL2508.",
         "title": "Pensée politique moderne II",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3503",
+        "code": "POL 3503",
+        "credits": 3,
         "description": "Étude des relations entre l'État et le marché dans les sociétés capitalistes. Exploration de l'économie politique comme méthode d'analyse critique des phénomènes politiques contemporains. Analyse de l'impact des structures sociales et des institutions politiques sur l'orientation socio-économique des États. (CAN/COMP/INT/PPT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2501."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2501.",
         "title": "Introduction à l'économie politique",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3505",
+        "code": "POL 3505",
+        "credits": 3,
         "description": "Origines et évolution des concepts et théories associés à la démocratie. Débats autour des différentes formes historiques de la démocratie : démocratie directe, démocratie représentative et libérale. Enjeux contemporains de la démocratie. (PPT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2508."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2508.",
         "title": "Théories sur la démocratie",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3506",
-        "description": "Examen théorique et étude des origines intellectuelles des expériences totalitaires et fascistes. L'importance de ces expériences historiques et les enjeux qu'elles soulèvent. (PPT)",
+        "code": "POL 3506",
+        "credits": 3,
+        "description": "Examen théorique et étude des origines intellectuelles des expériences totalitaires et fascistes.  L'importance de ces expériences historiques et les enjeux qu'elles soulèvent. (PPT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2508."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2508.",
         "title": "Le totalitarisme et l'autoritarisme",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3509",
+        "code": "POL 3509",
+        "credits": 3,
         "description": "Analyse critique des idées de la nation et du nationalisme. Nation, ethnie, peuple, patrie, État-nation, citoyenneté, souveraineté nationale. Rapports du nationalisme avec des phénomènes de mondialisation et de particularisation. (CAN/COMP/INT/PPT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2508."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2508.",
         "title": "Le nationalisme",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3510",
+        "code": "POL 3510",
+        "credits": 3,
         "description": "Étude de la pensée politique non-occidentale (ex. : en Asie, en Afrique, dans le monde musulman, chez les peuples autochtones). Études des pensées critiques non-occidentales, notamment anticoloniale et postcoloniale, critique du libéralisme et du néotraditionalisme. (PPT/COMP/INT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2508 ou POL 2503 ou POL 2504."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2508 ou POL2503 ou POL2504.",
         "title": "La pensée politique non occidentale",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3513",
+        "code": "POL 3513",
+        "credits": 3,
         "description": "Étude de diverses formes de mobilité internationale et de leurs enjeux politiques, économiques et identitaires. Les thèmes abordés peuvent inclure les formes historiques et contemporaines de gestion de la migration et de la mobilité; les mutations de la migration engendrées par les restructurations économiques mondiales; le rôle des notions de frontières, nations et de citoyenneté dans la construction du politique; les enjeux théoriques, méthodologiques et éthiques associés à l'étude de la mobilité et de la migration. (INT/COMP)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2503 ou POL 2504."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2503 ou POL2504.",
         "title": "Migration, mobilité, frontières et citoyenneté",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3514",
+        "code": "POL 3514",
+        "credits": 3,
         "description": "Étude comparée des processus et institutions politiques de différents pays asiatiques. Rapports entre la politique, la culture et la société. Analyse de la collaboration, des processus d'intégration et des rapports qui se dessinent au sein des régions. (COMP)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2503 ou POL 2504 ou 54 crédits universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2503 ou POL2504 ou 54 crédits universitaires.",
         "title": "Politique comparée : Asie",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3515",
-        "description": "Analyse politique comparée du développement dans différentes régions du monde (Afrique, Amérique Latine et Caraïbes, Asie et Moyen-Orient). Théories du développement politique et économique. Le rôle des organisations internationales, des états, et des acteurs non-étatiques dans les politiques de développement. Effets sur les sociétés de leur incorporation dans l'économie mondiale. Autodétermination, rapports états-société et démocratie, développement durable et équité. Études de cas tirées de pays ayant adopté des stratégies différentes de développement. (COMP)",
+        "code": "POL 3515",
+        "credits": 3,
+        "description": "Analyse politique  comparée du développement dans différentes régions du monde (Afrique, Amérique Latine et Caraïbes, Asie et Moyen-Orient). Théories du développement politique et économique.  Le rôle des organisations internationales, des états, et des acteurs non-étatiques dans les politiques de développement.  Effets sur les sociétés de leur incorporation dans l'économie mondiale.  Autodétermination, rapports états-société et démocratie, développement durable et équité. Études de cas tirées de pays ayant adopté des stratégies différentes de développement. (COMP)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2503 ou POL 2504. Les cours POL 3515, SOC 3731, DVM 3750 ne peuvent être combinés pour l'obtention de crédits."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2503 ou POL2504. Les cours POL3515, SOC3731, DVM3750 ne peuvent être combinés pour l'obtention de crédits.",
         "title": "Politique comparée du développement",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3516",
+        "code": "POL 3516",
+        "credits": 3,
         "description": "Étude des liens entre la culture et la politique dans un ou plusieurs contextes nationaux et linguistiques. Les thèmes particuliers varieront d'année en année. (INT/CAN/COMP/PPT).",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 54 crédits de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalable : 54 crédits de cours universitaires.",
         "title": "Politique et culture",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3523",
+        "code": "POL 3523",
+        "credits": 3,
         "description": "Questions théoriques et pratiques soulevées par la prise en considération des rapports sociaux de sexe dans les analyses des relations internationales. Examen de divers thèmes : environnement, militarisme, économie politique internationale, développement international, droits de la personne. (INT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables : POL 2503."
+        ],
         "language": "French",
-        "restriction": "Préalables : POL2503. Antérieurement POL4523.",
         "title": "Études du genre et théories féministes en relations internationales",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3524",
+        "code": "POL 3524",
+        "credits": 3,
         "description": "Introduction à l'analyse des stratégies, tactiques, institutions, théories, et pratiques de la sécurité internationale. Analyse de la sécurité humaine, environnementale, économique et militaire. Étude de certaines thématiques tel que : insécurité, guerre, surveillance, frontières, technologies, environnement, terreur, militarisation. (INT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables : POL 2503 ou POL 2504 ou ECH 2730."
+        ],
         "language": "French",
-        "restriction": "Préalables : POL2503 ou POL2504 ou ECH2730. Antérieurement POL4524.",
         "title": "Politique et sécurité",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3525",
+        "code": "POL 3525",
+        "credits": 3,
         "description": "Étude des enjeux politiques, sociaux et économiques auxquels sont confrontées les villes au Canada et ailleurs. Théories et approches de l'analyse des dynamiques de la gouvernance urbaine et municipale. Exploration du rôle des villes et des régions dans la nouvelle économie mondiale. Les relations entre les gouvernements fédéral, provinciaux et municipaux au Canada. (CAN)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2501."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2501.",
         "title": "La politique urbaine au Canada",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3526",
-        "description": "Historique des rapports entre les femmes et la politique. Théories visant à expliquer les relations dynamiques entre les idéologies, les attitudes, les institutions, les phénomènes économiques, sociaux et culturels qui sous-tendent la position des femmes à l'intérieur de la vie politique. Analyse de certains aspects particuliers du rôle politique des femmes. (CAN/COMP/PPT)",
+        "code": "POL 3526",
+        "credits": 3,
+        "description": "Historique des rapports entre les femmes et la politique. Théories visant à expliquer les relations dynamiques entre les idéologies, les attitudes, les institutions, les phénomènes économiques, sociaux et culturels qui sous-tendent la position des femmes à l'intérieur de la vie politique.  Analyse de certains aspects particuliers du rôle politique des femmes. (CAN/COMP/PPT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 54 crédits universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalable : 54 crédits universitaires.",
         "title": "Les femmes et la politique",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3528",
+        "code": "POL 3528",
+        "credits": 3,
         "description": "Le système politique et les transformations majeures du Québec : d'une société traditionnelle à une société moderne; problèmes de l'urbanisation. Fondements idéologiques : fédéralisme et indépendantisme, socialisme québécois. Classes sociales au Québec. Personnel politique et administration publique. Forces syndicales au Québec. Élections et réformes électorales. Perspectives d'avenir. (CAN)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2501."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2501.",
         "title": "La vie politique au Québec",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3533",
+        "code": "POL 3533",
+        "credits": 3,
         "description": "Rapports entre les médias et la politique au Canada et à l'étranger. Influence des médias sur la politique et de la politique sur les médias. Les médias comme intermédiaires engagés entre citoyens et autorités politiques. Rôle des médias dans la définition des enjeux politiques en général et dans les campagnes électorales en particulier. Réalité et images médiatisées. Études de cas. (CAN/COMP)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2501 ou 54 crédits universitaires. Aussi offert sous la cote CMN 3533."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2501 ou 54 crédits universitaires. Aussi offert sous la cote CMN3533.",
         "title": "Politique et médias",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3535",
+        "code": "POL 3535",
+        "credits": 3,
         "description": "Étude des questions et des politiques concernant les francophones en Ontario. Ce cours vise un double but : d'une part, assurer une meilleure compréhension du fait français au XXe siècle, des groupes et mouvements francophones en Ontario, du rôle des francophones dans la dynamique politique ontarienne et, d'autre part, permettre une réflexion théorique sur la culture, l'être et le devenir du citoyen d'expression française vivant en milieu minoritaire (hors Québec) dans la fédération canadienne. (CAN)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2501."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2501.",
         "title": "Politique et francophonie en Ontario",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3536",
+        "code": "POL 3536",
+        "credits": 3,
         "description": "Origines de la pensée socialiste et études de ses oeuvres les plus importantes, notamment à travers le développement du marxisme et des idéologies communistes du XXe siècle. (PPT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables : POL 2508."
+        ],
         "language": "French",
-        "restriction": "Préalables : POL2508. Antérieurement POL4536.",
         "title": "Socialisme et marxisme",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3537",
+        "code": "POL 3537",
+        "credits": 3,
         "description": "Analyse des principaux concepts (individu, citoyen, liberté, égalité, justice, culture) du libéralisme et du néo-libéralisme comme instruments d'analyse et d'explication des sociétés modernes et de leurs processus de transformation. Débats à l'intérieur du libéralisme et entre le libéralisme et d'autres courants politiques et idéologiques. (PPT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables : POL 2508."
+        ],
         "language": "French",
-        "restriction": "Préalables : POL2508. Antérieurement POL 4537.",
         "title": "Le libéralisme",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3541",
+        "code": "POL 3541",
+        "credits": 3,
         "description": "Analyse des origines et des principaux concepts du conservatisme et du néoconservatisme. La critique de la modernité et de la notion de tradition. (PPT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables : POL 2508."
+        ],
         "language": "French",
-        "restriction": "Préalables : POL2508. Antérieurement POL4540.",
         "title": "Conservatisme et néoconservatisme",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3544",
+        "code": "POL 3544",
+        "credits": 3,
         "description": "Étude des processus politiques, des institutions, en relation avec la culture et les systèmes sociaux différents d'une région ou d'un groupe de pays d Afrique. Spécificités nationales ou régionales. (COMP)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2503 ou POL 2504."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2503 ou POL2504.",
         "title": "Politique comparée : Afrique",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3545",
+        "code": "POL 3545",
+        "credits": 3,
         "description": "Étude des processus politiques et des institutions, en relation avec la culture et les systèmes sociaux différents d'une région ou d'un groupe de pays de l'Amérique latine. Spécificités nationales ou régionales. (COMP)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2503 ou POL 2504 ou 54 crédits universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2503 ou POL2504 ou 54 crédits universitaires.",
         "title": "Politique comparée : Amérique latine",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3557",
+        "code": "POL 3557",
+        "credits": 3,
         "description": "Étude des théories et justifications du système juridique et de son rôle en politique. Évaluation de divers enjeux politique et légaux (activisme judiciaire, séparation du légal et du politique, etc.). (PPT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable: POL 2508."
+        ],
         "language": "French",
-        "restriction": "Préalable: POL2508.",
         "title": "Pensée politique juridique",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3559",
+        "code": "POL 3559",
+        "credits": 3,
         "description": "Étude des enjeux historiques et contemporains de la relation entre les peuples autochtones et l'État canadien. Les droits des peuples autochtones dans une perspective comparée. Conceptions autochtones de la gouvernance. (CAN/COMP)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2501."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2501.",
         "title": "La politique des peuples autochtones au Canada",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3562",
+        "code": "POL 3562",
+        "credits": 3,
         "description": "Causes et formes de la violence visant le changement politique, le contrôle de l'État, le renversement d'un régime ou la modification des frontières politiques. Formes de la violence à caractère social, ethnique et fondamentaliste, incluant les émeutes, les massacres, le terrorisme, le nettoyage ethnique et le génocide. (COMP)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2504."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2504.",
         "title": "Violence politique",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3564",
+        "code": "POL 3564",
+        "credits": 3,
         "description": "Étude comparée des processus et des institutions politiques de divers pays du Moyen-Orient et du monde arabe. Rapports entre la politique, la culture et la société. Analyse de la collaboration, des processus d'intégration et des rapports qui se dessinent au sein de ces régions. (COMP)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2503 ou POL 2504."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2503 ou POL2504.",
         "title": "Politique comparée : Moyen-Orient et monde arabe",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3570",
+        "code": "POL 3570",
+        "credits": 3,
         "description": "Étude du rôle des provinces canadiennes dans le système politique canadien. Étude comparée des cultures politiques, des politiques publiques et des systèmes politiques provinciaux. Analyse des convergences et des divergences entre les provinces dans leurs réponses aux défis sociaux et économiques. (CAN)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2501."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2501.",
         "title": "La politique provinciale comparée",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3571",
+        "code": "POL 3571",
+        "credits": 3,
         "description": "Théories et approches dans le domaine de l'étude des politiques d'immigration et de citoyenneté au Canada et au Québec. Les politiques du multiculturalisme et de l'interculturalisme, les enjeux de la diversité ethnoculturelle et religieuse au Canada. (CAN)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2501."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2501.",
         "title": "Immigration, multiculturalisme et citoyenneté au Canada et au Québec",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3572",
+        "code": "POL 3572",
+        "credits": 3,
         "description": "Étude des facteurs influençant la participation politique des citoyens au Canada. Exploration du système électoral, du rôle des partis politiques et de la place des groupes d'intérêts, des mouvements sociaux et des autres formes d actions collectives dans la vie démocratique canadienne. (CAN)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2501."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2501. Antérieurement POL4551.",
         "title": "La participation et la mobilisation politique au Canada",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3574",
+        "code": "POL 3574",
+        "credits": 3,
         "description": "Principaux concepts et approches théoriques servant à l'étude du fédéralisme. Les fondements normatifs du fédéralisme. Le régime fédéral canadien comparé. Parmi les thèmes qui seront abordés : la diversité identitaire, les inégalités régionales, la sécession. (CAN/COMP/PPT/INT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2501 ou POL 2503 ou POL 2504."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2501 ou POL2503 ou POL2504.",
         "title": "Le fédéralisme",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3575",
+        "code": "POL 3575",
+        "credits": 3,
         "description": "Étude des principaux débats concernant l'écopolitique. L'accent sera mis sur la pensée politique environnementale, sur les mouvements écologiques et les partis politiques verts ainsi que sur les politiques publiques environnementales au Canada, dans un certain nombre de pays et au niveau international. (CAN/COMP/PPT/INT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL2501 ou POL2503 ou POL2504."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2501 ou POL2503 ou POL2504.",
         "title": "Écopolitique",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3576",
+        "code": "POL 3576",
+        "credits": 3,
         "description": "Introduction à l'analyse des enjeux contemporains et historiques dans l'économie politique mondiale, à partir de perspectives théoriques variées. Les enjeux étudiés peuvent inclure : le rôle de l'État dans l'économie politique mondiale, la finance internationale, la division internationale du travail, le commerce international et le développement planétaire. (INT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables : POL 2503."
+        ],
         "language": "French",
-        "restriction": "Préalables : POL2503. Antérieurement POL4576.",
         "title": "Économie politique internationale",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3577",
+        "code": "POL 3577",
+        "credits": 3,
         "description": "Approches théoriques utilisées pour l'étude des pratiques, des stratégies et du discours politique des mouvements sociaux et des acteurs de la société civile. Relations entre les mouvements sociaux, la restructuration économique et le rôle changeant des États dans le contexte de la mondialisation. La signification politique et l'impact des mouvements sociaux à l'intérieur et au-delà des frontières étatiques. (INT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables : POL 2503."
+        ],
         "language": "French",
-        "restriction": "Préalables : POL2503. Antérieurement POL4571.",
         "title": "Politique, mouvements sociaux et mondialisation",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3578",
+        "code": "POL 3578",
+        "credits": 3,
         "description": "Analyse des principaux cadres constitutionnels et institutionnels, forces et facteurs conditionnant la politique étrangère canadienne. Le rôle du Canada au sein de l'ONU, l'OTAN, le Commonwealth, la Francophonie et d'autres organismes internationaux. Relations du Canada avec les gouvernements et les acteurs sociaux et économiques des États-Unis et du Mexique. Les grands enjeux de la politique nord-américaine, incluant l'ALÉNA, la sécurité continentale, la démocratie et la possibilité d'une communauté politique nord-américaine. (INT/CAN)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2503."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2503.",
         "title": "Politique étrangère canadienne et relations nord-américaines",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3579",
+        "code": "POL 3579",
+        "credits": 3,
         "description": "Introduction à l'analyse des organisations internationales, des réseaux transnationaux et des institutions et pratiques de régulation dans le contexte de la gouvernance mondiale et de la mondialisation. Les enjeux étudiés peuvent inclure : le rôle des Nations Unies et des agences de l'ONU, la sécurité collective, la promotion de normes mondiales et de la justice mondiale, le droit international, les forces de résistance, les flux transnationaux, le développement social et économique, les ONG. (INT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2503."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2503.",
         "title": "Organisations internationales et gouvernance mondiale",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3580",
+        "code": "POL 3580",
+        "credits": 3,
         "description": "Analyse comparée des institutions et processus politiques des États européens (Europe occidentale et/ou orientale) et/ou de l'Union européenne. Les thèmes abordés peuvent inclure: formation des États européens; intégration européenne; transformations de l'État-Providence; politiques publiques; formation et transformation des régimes politiques (démocratie, autoritarisme, post-communisme); partis politiques et mouvements sociaux; violence politique; nationalismes et identités régionales. (COMP)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2504."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2504.",
         "title": "Politique comparée : Europe",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3770",
+        "code": "POL 3770",
+        "credits": 3,
         "description": "Épistémologie et logiques de l'analyse qualitative. Introduction à diverses approches et méthodologies. Techniques d'observation (observation participante et non participante); analyse historique documentaire, méthode comparative, analyse du discours, ethnographie politique, entrevues, approche multi-méthodes.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2556 ou SCS 2550. Ce cours est équivalent à CMN 3503."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2556 ou SCS2550. Ce cours est équivalent à CMN3503.",
         "title": "Analyse qualitative en science politique",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3771",
+        "code": "POL 3771",
+        "credits": 3,
         "description": "Épistémologie et logique de l'analyse quantitative. Introduction à la statistique descriptive et aux principales étapes sous-jacentes à la recherche quantitative, telles que la collecte de données, échelles de mesure, mesures de tendance centrale et de dispersion, probabilité, techniques d'échantillonnage. Mise en pratique de techniques élémentaires d'analyse à l'aide d'un logiciel de traitement de données (mesures d'association, tests d'hypothèse, analyse de régression, méthodes d'analyse bivariées et multivariées et corrélation). Approches multi-méthodes.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2556 ou SCS 2550. Ce cours est équivalent à CMN 3502."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2556 ou SCS2550. Ce cours est équivalent à CMN3502.",
         "title": "Analyse quantitative en science politique",
-        "year": "3"
+        "year": 3
     },
     {
-        "code": "POL3901",
-        "description": " ",
+        "code": "POL 3901",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Tutoriel / Tutorial"
+        ],
         "language": "Bilingual/Unofficial/Unspecified",
-        "restriction": " ",
-        "title": "Stage coop II / CO-OP Work Term II",
-        "year": "3"
+        "title": "Stage coop II / Co-Op Work Term Report II",
+        "year": 3
     },
     {
-        "code": "POL3902",
-        "description": " ",
-        "language": "Bilingual/Unofficial/Unspecified",
-        "restriction": " ",
-        "title": "Stage coop III / CO-OP Work Term III",
-        "year": "3"
-    },
-    {
-        "code": "POL4108",
+        "code": "POL 4108",
+        "credits": 3,
         "description": "French political thought and the role played by intellectuals in politics in France. Case studies, such as nationalism, artistic avant-gardes, the Enlightenment, personalism, existentialism. (PPT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2108 and 51 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2108 and 51 university course credits.",
         "title": "French Political Thought",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4126",
-        "description": "Study of the relationship between space, the political and power through the examination of identity-based, territorial, political, socio-economic, and cultural dynamics. A thematic analysis of the main issues, conflicts, challenges and rules of the global contemporary order. (INT)",
+        "code": "POL 4126",
+        "credits": 3,
+        "description": "Study of the relationship between space, the political and power through the examination of identity-based, territorial, political, socio-economic, and cultural dynamics.  A thematic analysis of the main issues, conflicts, challenges and rules of the global contemporary order. (INT)",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
         "language": "English",
-        "restriction": "Prerequisites: POL2103 and 51 university course credits.",
         "title": "Contemporary Geopolitics",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4127",
-        "description": "This course studies the foreign policy of the United States from a critical and historical perspective, exploring the constitutive role played by culture, ideologies, political practices and institutions. Drawing from diverse analytic traditions, it examines some of the key issues that shape the political development and construction of the nation: immigration, technologies, national security, racial relations, military activities, intellectual traditions, popular culture, and gender relations. (INT/COMP)",
+        "code": "POL 4127",
+        "credits": 3,
+        "description": "This course studies the foreign policy of the United States from a critical and historical perspective, exploring the constitutive role played by culture, ideologies, political practices and institutions. Drawing from diverse analytic traditions, it examines some of the key issues that shape the political development and construction of the nation:  immigration, technologies, national security, racial relations, military activities, intellectual traditions, popular culture, and gender relations. (INT/COMP)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisites: POL 2103 or POL 2104 and 51 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisites: POL2103 or POL2104 and 51 university course credits.",
         "title": "Critical and Historical Perspectives of United States Foreign Policy",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4134",
+        "code": "POL 4134",
+        "credits": 3,
         "description": "Study of modern constitutionalism. Relationships between politics and law and their impact on the political life in Canada. Constitution and constitutional claims. The Charter of rights and freedoms. Respective roles of executive power and courts. (CAN)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisites: POL 2101 and 51 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisites: POL2101 and 51 university course credits.",
         "title": "Law, Politics, and the Constitution in Canada",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4135",
+        "code": "POL 4135",
+        "credits": 3,
         "description": "Study of sociopolitical issues relating to Francophonie in its local, regional, national, and international dimensions. Examination of debates on relations between diversity and citizenship among the countries and the international organization of the Francophonie. Analysis of citizenship policies and of the recognition and management policies of diversity. (CAN)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 54 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 54 university course credits.",
         "title": "Francophonie, Diversity, Citizenship",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4138",
-        "description": "Study of the concepts of Empire and imperialism. Examination of different forms of authority and sovereignty in imperial or imperialist societies in light of classical and contemporary theories. (INT/PPT)",
+        "code": "POL 4138",
+        "credits": 3,
+        "description": "Study of the concepts of Empire and imperialism.  Examination of different forms of authority and sovereignty in imperial or imperialist societies in light of classical and contemporary theories. (INT/PPT)",
+        "extraDetails": [
+            "Course Component: Seminar",
+            "Prerequisites: POL 2103 and 51 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisites: POL2103 and 51 university course credits.",
         "title": "Empire and Imperialism",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4141",
+        "code": "POL 4141",
+        "credits": 3,
         "description": "Major characteristics of government and political life in the United States: Constitution and institutions, political culture, political processes and representation. Political parties, social movements, social and racial disparities, electoral issues, current events. (COMP)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2104 and 51 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2104 and 51 university course credits. Previously POL3140.",
         "title": "Comparative Politics: United States",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4142",
+        "code": "POL 4142",
+        "credits": 3,
         "description": "Ethical evaluation of specific historical and contemporary political issues (e.g. charter challenges, civil disobedience, humanitarian intervention, lying and promising in politics, euthanasia, linguistic and immigration policies, practices of public deliberation) using political and ethical theories. (CAN/COMP/INT/PPT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisites: POL 2108 and 51 university credits. Reserved for students registered in the specialization programs: Honours, Major, Joint Honours."
+        ],
         "language": "English",
-        "restriction": "Prerequisites: POL2108 and 51 university credits. Reserved for students registered in the specialization programs: Honours, Major, Joint Honours.",
         "title": "Applied Political Ethics",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4145",
+        "code": "POL 4145",
+        "credits": 3,
         "description": "Comparative study of issues related to identities and their political expression in different regions of the world. Discourses, representations, political practices and power relations constructed on the basis of identity (national, religious, ethnic, linguistic, racial, gender). Demographic, economic, institutional, territorial, historical and cultural dimensions. (COMP)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2104 and 51 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL 2104 and 51 university course credits.",
         "title": "Comparative Politics: Identity Issues",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4150",
+        "code": "POL 4150",
+        "credits": 3,
         "description": "Analysis of the main electoral systems and theories regarding political parties and electoral behaviour. Role of electoral systems, parties and elections in political representation, with an emphasis on the Canadian context. (CAN/COMP)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisites: POL 2101 and 51 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisites: POL2101 and 51 university course credits.",
         "title": "Electoral Systems and Political Parties",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4154",
+        "code": "POL 4154",
+        "credits": 3,
         "description": "Principles of parliamentary government. Evolution of parliamentary system, role of Parliament and Members of Parliament, legislative process, parliamentary committees, accountability. Organization of executive and central agencies. Relations between Parliament and executive. Comparisons with other parliamentary systems. (CAN)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisites: POL 2101 and 51 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisites: POL2101 and 51 university course credits.",
         "title": "Parliamentary Government in Canada",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4162",
+        "code": "POL 4162",
+        "credits": 3,
         "description": "Analysis of the main themes and issues that animate health care debate in Canada. Concepts of health and illness. Respective roles of interest groups and patients' associations. Structure of government decision-making in the field of health. Selected cases studies. (CAN)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2101 and 51 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2101 and 51 university course credits. Previously POL3160.",
         "title": "Health Politics and Policy in Canada",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4163",
+        "code": "POL 4163",
+        "credits": 3,
         "description": "Study of sexual diversity (heterosexuality, homosexuality, bisexuality, transvestism, transsexuality) and of its relationship to identity construction. Sexual diversity as a political phenomenon: social movement politics, representation within formal political institutions, role of the state and of public policy. Case studies. (CAN/COMP)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 54 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 54 university course credits.",
         "title": "Politics and Sexual Diversity",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4165",
+        "code": "POL 4165",
+        "credits": 3,
         "description": "Analysis of the movements of social and political thought that have most influenced Quebec's society, such as liberalism, ultramontanism, nationalism, and socialism. Study of the thought of the great social movements and of important ideological conflicts. (CAN/PPT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2108 and 51 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2108 and 51 university course credits.",
-        "title": "Developement of Social and Political Ideologies in Quebec",
-        "year": "4"
+        "title": "Development of Social and Political Ideologies in Quebec",
+        "year": 4
     },
     {
-        "code": "POL4166",
+        "code": "POL 4166",
+        "credits": 3,
         "description": "Analysis of the main social and political ideologies that have influenced the development of Canadian society (e.g. liberalism, neo-liberalism, conservatism, socialism, populism, nationalism). (CAN/PPT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisites: POL 2108 and 51 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisites: POL2108 and 51 university course credits.",
         "title": "Social and Political Thought in Canada",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4170",
+        "code": "POL 4170",
+        "credits": 3,
         "description": "Analysis of issues relating to the politics of international development and foreign aid. Origins, evolution and modes of development assistance. The role and motivations of specific multilateral and bilateral donors. Aid policies and practices. Critiques of aid. (INT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisites: POL 2103 or POL 2104 and 51 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisites: POL2103 or POL2104 and 51 university course credits.",
         "title": "Politics of Foreign Aid",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4173",
+        "code": "POL 4173",
+        "credits": 3,
         "description": "Political theories and debates surrounding the production, commodification, access, distribution and regulation of foods in industrialized as well as rural societies. Study of the political economy of agriculture, including analysis of transformations in land tenure, labour organization, and property rights regimes. Study of various social responses to these changes, as well as the roles of food in global politics, including the use of food as a weapon. (INT/COMP)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2103 or POL 2104 and 51 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2103 or POL2104 and 51 university course credits. Previously POL3173.",
         "title": "The Politics of Food",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4178",
+        "code": "POL 4178",
+        "credits": 3,
         "description": "Critical analysis of political dilemmas and controversies relating to development. Examination of topics such as the place and role of the state, development strategies, the role of multinational firms, crises. (INT/COMP)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisites: POL 2103 or POL 2104 and 51 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisites: POL2103 or POL2104 and 51 university course credits.",
         "title": "Political Economy of Development",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4179",
+        "code": "POL 4179",
+        "credits": 3,
         "description": "Analysis of the main concepts of postmodernism as a theoretical and political method of understanding and critiquing modern societies. Origins of postmodernism and key debates (e.g. cultural relativism, political resistance, modernity s drive towards homogeneity). Postmodernism in relation to other approaches. (PPT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisites: POL 2108 and 51 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisites: POL2108 and 51 university course credits.",
         "title": "Political Thought and Postmodernism",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4180",
+        "code": "POL 4180",
+        "credits": 3,
         "description": "Analysis of the main concepts of feminist political thought as a method of analysing the impact of gender on political and social thought. Diversity of perspectives in feminist political thought. Origins and key debates (e.g. nature of patriarchy, women's human rights, conceptions of women in traditional political thought). Feminist analyses of other systems of power and oppression (e.g. racism, homophobia, class oppression). (PPT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2108 or 54 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2108 or 54 university course credits.",
         "title": "Feminist Political Thought",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4181",
+        "code": "POL 4181",
+        "credits": 3,
         "description": "Analysis of selected major works in German political thought (in translation) from the eighteenth to the twentieth century. Themes of freedom, autonomy, right, relation of state and economy. Recent interpretations and critical debates. (PPT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisites: POL 2108 and 51 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisites: POL2108 and 51 university course credits.",
         "title": "German Political Thought",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4184",
+        "code": "POL 4184",
+        "credits": 3,
         "description": "Analysis of theories of democratization and their applicability to case studies taken from different regions. Key concepts, such as democracy, transition and consolidation. Role of economic, historical, cultural and other structural factors, institutional design, key domestic and international actors. (COMP/INT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisites: POL 2104 or POL 2103 and 51 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisites: POL2104 or POL2103 and 51 university course credits.",
         "title": "Democratization and Authoritarianism",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4188",
+        "code": "POL 4188",
+        "credits": 3,
         "description": "Analysis of the ways that political theorists have understood international relations and the international, and the ways that international relations have shaped political theory. Relationship between major historical and contemporary political theories and key themes in international relations such as state sovereignty, order, imperialism, globalisation, war, justice, power and inequality. (INT/PPT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisites: POL 2103 and 51 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisites: POL2103 and 51 university course credits.",
         "title": "International Relations as Political Theory",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4189",
+        "code": "POL 4189",
+        "credits": 3,
         "description": "Study of the relationship between politics, democracy and human rights. Foundations of rule of law, norms, justice and legitimacy; dynamics and organizations of national and international human rights; change in theories and practices of human rights in contemporary situations, in particular situations of violence, such as state violence, conflicts and extreme crises. (COMP/INT/PPT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisites: POL 2104 and 51 university credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisites: POL2104 and 51 university credits.",
         "title": "Politics of Human Rights",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4190",
-        "description": "Theories and approaches in the study of global environmental politics. Interstate and transnational collaboration and new practices of global governance with respect to the environment. Actors and material forces shaping the political responses to global environmental challenges. Case studies and contemporary debates in global environmental politics. (INT)",
+        "code": "POL 4190",
+        "credits": 3,
+        "description": "Theories and approaches in the study of global environmental politics. Interstate and transnational  collaboration and new practices of global governance with respect to the environment. Actors and material forces shaping the political responses to global environmental challenges. Case studies and contemporary debates in global environmental politics. (INT)",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
         "language": "English",
-        "restriction": "Prerequisites: POL2103 and 51 university course credits.",
         "title": "Global Environmental Politics",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4191",
+        "code": "POL 4191",
+        "credits": 3,
         "description": "This advanced seminar examines the development of a set of critical approaches that recast the study of war, security and militarism. The seminar will be organized around a principal theme, depending on the instructor's research interest (e.g. mobility and borders, surveillance and biometrics, infrastructure, terrorism, warfare and weapons, environmental security and cultures of militarism). Particular attention will be given to the role of discourses, popular culture, and identity to introduce different theoretical and methodological approaches for the assessment and analysis of policies and practices of contemporary military and security issues. (INT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2103 and 51 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2103 and 51 university course credits.",
         "title": "Advanced Topics in Critical Security and War Studies",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4192",
+        "code": "POL 4192",
+        "credits": 3,
         "description": "This advanced seminar examines the development of a set of critical approaches that recast the study of topics in international political economy (IPE) and/or global governance (GG). Themes will vary from year to year but may include: international banking and financial crises, intellectual property rights, labour and environmental politics, North-South relations, the control of illicit activities, global inequality, transnational norms and institutions, and the changing character of global power and authority. (INT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2103 and 51 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2103 and 51 university course credits.",
-        "title": "Advanced Topics in International Political Economy and/or Global Governance",
-        "year": "4"
+        "title": "Advanced Topics in International Political Economy and or Global Governance",
+        "year": 4
     },
     {
-        "code": "POL4193",
+        "code": "POL 4193",
+        "credits": 3,
         "description": "Theories of public policy and analysis of state intervention in various fields in Canada. Study of the impact of federalism on the formulation of public policies by federal and provincial governments. (CAN)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 2101 and 51 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL2101 and 51 university course credits.",
         "title": "Advanced Studies in Canadian Public Policy",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4300",
+        "code": "POL 4300",
+        "credits": 3,
         "description": "Analysis of a specific theme in political science. The theme will differ from year to year to reflect the availability of exceptional resources.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: 54 university credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 54 university credits.",
         "title": "Selected Topics in Political Science",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4310",
+        "code": "POL 4310",
+        "credits": 3,
         "description": "Advanced synthesis and critique of the main debates, analytical approaches and political projects of modern political thought. (PPT)",
+        "extraDetails": [
+            "Course Component: Seminar",
+            "Prerequisite: 81 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 81 university course credits.",
         "title": "Honours Seminar in Political Thought",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4320",
+        "code": "POL 4320",
+        "credits": 3,
         "description": "Advanced synthesis and critique of the main debates and analytical approaches in the field of Canadian politics. (CAN)",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 81 university course credits.",
         "title": "Honours Seminar in Canadian Politics",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4330",
+        "code": "POL 4330",
+        "credits": 3,
         "description": "Advanced synthesis and critique of the main debates and analytical approaches in the field of international relations and global politics. (INT)",
+        "extraDetails": [
+            "Course Component: Seminar",
+            "Prerequisite: 81 university course credits. This course cannot be combined with POL 4930."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 81 university course credits. This course cannot be combined with POL4930.",
         "title": "Honours Seminar in International Relations and Global Politics",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4350",
-        "description": "Advanced synthesis and critique of the main debates and analytical approaches in the field of comparative politics. (COMP)",
+        "code": "POL 4350",
+        "credits": 3,
+        "description": "Advanced synthesis and critique of the main debates and analytical approaches in the field of comparative politics.  (COMP)",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
         "language": "English",
-        "restriction": "Prerequisite: 81 university coursecredits.",
         "title": "Honours Seminar in Comparative Politics",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4370",
+        "code": "POL 4370",
+        "credits": 3,
         "description": "Study of discourse and of its analysis, in its epistemological, theoretical and methodological dimensions. Practical study of a variety of research strategies and techniques, such as critical discourse analysis, Cambridge School contextualist analysis, content analysis, bibliometric approach, hermeneutics, postructuralism and semiotics.",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisite: POL 3370 or POL 3371."
+        ],
         "language": "English",
-        "restriction": "Prerequisite: POL3370 or POL3371.",
         "title": "Discourse Analysis",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4375",
+        "code": "POL 4375",
+        "credits": 3,
         "description": "Analysis of social rights and redistributive justice, especially the historical and institutional evolution of income security and social policy in Canada and elsewhere. Theories and approaches to the study of the development and transformation of the welfare state in a comparative perspective. (CAN/COMP)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisites: POL 2101 and 51 university credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisites: POL2101 and 51 university credits.",
         "title": "Social Citizenship and the Welfare State: Canada in a Comparative Perspective",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4376",
+        "code": "POL 4376",
+        "credits": 3,
         "description": "Study of the idea of the good life in classical and contemporary political thought (e.g. relationship between education, political judgment and regime; vice and evil in the history of ideas; role of emotions in politics). (PPT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisites: POL 2108 and 51 university credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisites: POL2108 and 51 university credits.",
         "title": "Politics and Morality",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4377",
+        "code": "POL 4377",
+        "credits": 3,
         "description": "Analysis of the development, debates and crises of 20th and 21st century Western Marxism; the re-evaluation of this tradition by critical theories; their analyses of the logic of cultural and symbolic production in advanced capitalism; contemporary theorizations of social and political emancipation. (PPT)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisites: POL 2108 and 51 university credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisites: POL2108 and 51 university credits.",
         "title": "Post-Marxism and Critical Theories",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4378",
+        "code": "POL 4378",
+        "credits": 3,
         "description": "Introduction to the political history of the People's Republic of China. Analysis of institutions and public policy. Examination of state-society relations. (COMP)",
+        "extraDetails": [
+            "Course Component: Lecture",
+            "Prerequisites: POL 2104 and 51 university course credits."
+        ],
         "language": "English",
-        "restriction": "Prerequisites: POL2104 and 51 university coursecredits.",
         "title": "Comparative Politics: China",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4508",
+        "code": "POL 4508",
+        "credits": 3,
         "description": "La pensée politique française et le rôle joué par les intellectuels en politique en France. Études de cas, tels que le nationalisme, les avant-gardes artistiques, les Lumières, le personnalisme, l'existentialisme. (PPT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables : POL 2508 et 51 crédits de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalables : POL2508 et 51 crédits de cours universitaires.",
         "title": "Pensée politique française",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4526",
+        "code": "POL 4526",
+        "credits": 3,
         "description": "Étude du rapport entre l'espace, le politique et le pouvoir d'une part, et les dynamiques identitaires, territoriales, politiques, socio-économiques et culturelles d'autre part. Couverture thématique de l'actualité internationale récente par l'analyse politique des points de tension et de rupture, des nouveaux enjeux, conflits, défis et règles de l'ordre mondial contemporain. (INT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables : POL 2503 et 51 crédits de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalables : POL2503 et 51 crédits de cours universitaires.",
         "title": "Géopolitique contemporaine",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4527",
-        "description": "Ce cours a pour objectif l'étude critique de la politique étrangère états-unienne dans sa contemporanéité et dans son histoire, en traitant du rôle constitutif de la culture, des idéologies, ainsi que des pratiques et des institutions politiques. À la lumière de diverses traditions analytiques, les réflexions porteront sur certains enjeux-clés qui ont joué et jouent un rôle dans le processus de construction nationale même et le développement politique états-uniens, dont l'immigration, la technologie, la sécurité nationale, les relations raciales, l'activité militaire, les traditions intellectuelles, la culture populaire et le rapport au genre. (INT/COMP)",
+        "code": "POL 4527",
+        "credits": 3,
+        "description": "Ce cours a pour objectif l'étude critique de la politique étrangère états-unienne dans sa contemporanéité et dans son histoire, en traitant du rôle constitutif de la culture, des idéologies, ainsi que des pratiques et des institutions politiques.  À la lumière de diverses traditions analytiques, les réflexions porteront sur certains enjeux-clés qui ont joué et jouent un rôle dans le processus de construction nationale même et le développement politique états-uniens, dont l'immigration, la technologie, la sécurité nationale, les relations raciales, l'activité militaire, les traditions intellectuelles, la culture populaire et le rapport au genre. (INT/COMP)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables : POL 2503 ou POL 2504 et 51 crédits de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalables : POL2503 ou POL2504 et 51 crédits de cours universitaires.",
         "title": "Regards critiques et historiques sur la politique étrangère états-unienne",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4534",
+        "code": "POL 4534",
+        "credits": 3,
         "description": "Étude du constitutionnalisme moderne. Rapports entre la politique et le droit : leur impact sur la vie politique canadienne. La constitution et les revendications constitutionnelles au Canada. La Charte des droits et libertés. Rôles respectifs du pouvoir exécutif et des tribunaux. (CAN)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables : POL 2501 et 51 crédits de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalables : POL2501 et 51 crédits de cours universitaires.",
         "title": "Politique, droit et constitution au Canada",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4535",
+        "code": "POL 4535",
+        "credits": 3,
         "description": "Études des enjeux sociopolitiques concernant la francophonie dans ses dimensions locales, régionales, nationales et internationales. Examen des débats sur les rapports entre diversité et citoyenneté au sein des pays et de l'organisation internationale de la francophonie. Analyse des politiques de citoyenneté, de gestion et de reconnaissance de la diversité.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 54 crédits universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalable : 54 crédits universitaires.",
         "title": "Francophonie, diversité, citoyenneté",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4538",
-        "description": "Étude des concepts d'empire et d'impérialisme. Examen des différentes conceptions de l'autorité et de la souveraineté dans les sociétés impériales ou impérialistes à la lumière des théories classiques et récentes. (INT/PPT)",
+        "code": "POL 4538",
+        "credits": 3,
+        "description": "Étude des concepts d'empire et d'impérialisme.  Examen des différentes conceptions de l'autorité et de la souveraineté dans les sociétés impériales ou impérialistes à la lumière des théories classiques et récentes. (INT/PPT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables : POL 2503 et 51 crédits de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalables : POL2503 et 51 crédits de cours universitaires.",
         "title": "Empire et impérialisme",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4541",
+        "code": "POL 4541",
+        "credits": 3,
         "description": "Analyse des caractéristiques majeures du gouvernement et de la vie politique aux États-Unis : constitution et institutions, culture politique, processus politiques et représentation (notamment les partis politiques et les mouvements sociaux). Introduction à quelques problématiques afférentes : alignements électoraux, inégalités sociales et raciales, questions d'actualité. (COMP)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables : POL 2504 et 51 crédits universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2504 et 51 crédits de cours universitaires. Antérieurement POL3540.",
         "title": "Politique comparée : États-Unis",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4542",
+        "code": "POL 4542",
+        "credits": 3,
         "description": "Évaluation éthique d'enjeux politiques historiques et contemporains (ex. : les défis liés aux chartes des droits et libertés, la désobéissance civile, la promesse et le mensonge en politique, l'intervention humanitaire, l'euthanasie, les politiques linguistiques et d'immigration, les pratiques de délibération publique) en utilisant diverses théories éthiques et politiques. (CAN/COMP/INT/PPT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables : POL 2508 et 51 crédits universitaires. Réservé aux étudiants et étudiantes inscrits dans les programmes spécialisés, majeure, bidisciplinaire."
+        ],
         "language": "French",
-        "restriction": "Préalables : POL2508 et 51 crédits universitaires. Réservé aux étudiants et étudiantes inscrits dans les programmes spécialisés, majeure, bidisciplinaire.",
         "title": "Politiques et questions éthiques",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4545",
+        "code": "POL 4545",
+        "credits": 3,
         "description": "Étude comparée des problématiques relatives aux identités et de leurs expressions politiques dans différentes régions du monde. Discours, représentations et pratiques politiques et rapports de pouvoirs construits sur des bases identitaires, qu'elles soient nationales, religieuses, ethniques, linguistiques, raciales, ou liées aux genres. Dimensions démographiques, économiques, institutionnelles, territoriales, historiques et culturelles. (COMP)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables : POL 2504 et 51 crédits de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalables : POL2504 et 51 crédits de cours universitaires.",
-        "title": "Politique comparée : questions identitaires",
-        "year": "4"
+        "title": "Politique comparée : Questions identitaires",
+        "year": 4
     },
     {
-        "code": "POL4550",
+        "code": "POL 4550",
+        "credits": 3,
         "description": "Analyse des principaux systèmes électoraux et des principales théories sur le vote et les partis politiques. Rôle des systèmes électoraux, des partis et des élections dans la représentation politique, avec un accent particulier sur le Canada. (CAN/COMP)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables : POL 2501 et 51 crédits de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalables : POL2501 et 51 crédits de cours universitaires.",
         "title": "Les systèmes électoraux et les partis politiques",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4554",
+        "code": "POL 4554",
+        "credits": 3,
         "description": "Principes du parlementarisme. Évolution du système parlementaire, rôle du Parlement et des parlementaires, processus législatif, commissions parlementaires, imputabilité. Organisation de l'exécutif et des agences centrales. Rapports entre le Parlement et l'exécutif. Comparaison avec d'autres systèmes parlementaires. (CAN)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables : POL 2501 et 51 crédits de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalables : POL2501 et 51 crédits de cours universitaires.",
         "title": "Le parlementarisme au Canada",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4562",
+        "code": "POL 4562",
+        "credits": 3,
         "description": "Analyse des principaux thèmes et enjeux des débats politiques sur la santé publique et les systèmes de soins de santé au Canada. Concepts de santé et de maladie. Rôle des groupes d'intérêts et des associations de patients. Processus décisionnels des gouvernements dans le domaine de la santé.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2501 et 51 crédits de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2501 et 51 crédits de cours universitaires. Antérieurement POL3560.",
         "title": "Politique de la santé au Canada",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4563",
+        "code": "POL 4563",
+        "credits": 3,
         "description": "Étude de l'éventail de la diversité sexuelle (par exemple : hétérosexualité, homosexualité, bisexualité, travestisme et transsexualité) et de ses rapports avec la construction identitaire. La diversité sexuelle comme phénomène politique : politique des mouvements sociaux, représentation au sein des institutions politiques formelles, rôle de l'État et des politiques publiques. Études de cas. (CAN/COMP)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 54 crédits de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalable : 54 crédits de cours universitaires. Antérieurement POL3563.",
         "title": "Politique et diversité sexuelle",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4565",
-        "description": "Analyse des mouvements de pensée politique et sociale ayant le plus marqué l'évolution de la société québécoise, notamment le libéralisme, l'ultramontanisme, le nationalisme et le socialisme. Étude de la pensée des grands mouvements sociaux et de conflits idéologiques importants. (CAN/PPT)",
+        "code": "POL 4565",
+        "credits": 3,
+        "description": "Analyse des mouvements de pensée politique et sociale ayant le plus marqué l'évolution de la société québécoise, notamment le libéralisme, l'ultramontanisme, le nationalisme et le socialisme.  Étude de la pensée des grands mouvements sociaux et de conflits idéologiques importants. (CAN/PPT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables : POL 2508 et 51 crédits universitaires. Réservé aux étudiants et étudiantes inscrits dans les programmes spécialiés, majeure, bidisciplinaire."
+        ],
         "language": "French",
-        "restriction": "Préalables : POL2508 et 51 crédits universitaires. Réservé aux étudiants et étudiantes inscrits dans les programmes spécialiés, majeure, bidisciplinaire.",
         "title": "Développement des idéologies sociales et politiques au Québec",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4566",
+        "code": "POL 4566",
+        "credits": 3,
         "description": "Analyse de quelques-uns des principaux mouvements de pensée sociale et politique permettant une meilleure compréhension de la vie politique canadienne. L'on insistera particulièrement sur des thèmes comme le libéralisme, le conservatisme, le socialisme, le populisme, le nationalisme. (CAN/PPT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables : POL 2508 et 51 crédits universitaires. Réservé aux étudiants et étudiantes inscrits dans les programmes spécialisés, majeure, bidisciplinaire."
+        ],
         "language": "French",
-        "restriction": "Préalables : POL2508 et 51 crédits universitaires. Réservé aux étudiants et étudiantes inscrits dans les programmes spécialisés, majeure, bidisciplinaire.",
         "title": "Développement des idéologies sociales et politiques au Canada",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4570",
+        "code": "POL 4570",
+        "credits": 3,
         "description": "Analyse des enjeux concernant la politique de l'aide au développement international. Origines, évolution et formes de l'aide au développement. Rôle et motivations des donateurs bilatéraux et multilatéraux. Politiques et pratiques de l'aide au développement. Critique de l'aide au développement. (INT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables : POL 2503 ou POL 2504 et 51 crédits de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalables : POL2503 ou POL2504 et 51 crédits de cours universitaires.",
         "title": "Politique de l'aide au développement",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4573",
+        "code": "POL 4573",
+        "credits": 3,
         "description": "Théories et débats politiques entourant la production, la marchandisation, l'accès, la distribution et la régulation de l'alimentation dans les pays industrialisés et les sociétés rurales. Étude de l'économie politique de l'agriculture, y compris l'analyse des transformations dans la gestion de la propriété foncière, l'organisation du travail et les régimes de droits de propriété. Étude de diverses réponses sociales à ces changements ainsi que du rôle de l'alimentation au sein de la politique mondiale, incluant l'utilisation de la nourriture comme arme. (INT/COMP)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2503 ou POL 2504 et 51 crédits de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2503 ou POL2504 et 51 crédits de cours universitaires. Antérieurement POL3573.",
         "title": "Politique agroalimentaire",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4578",
+        "code": "POL 4578",
+        "credits": 3,
         "description": "Analyse critique des dilemmes et controverses politiques liés à la problématique du développement. Les thèmes choisis varient d'une année à l'autre : la place et le rôle de l'État, les stratégies de développement, le rôle des firmes multinationales, les crises, etc. (INT/COMP)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables : POL 2503 ou POL 2504 et 51 crédits de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalables : POL2503 ou POL2504 et 51 crédits de cours universitaires.",
         "title": "Économie politique du développement",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4579",
+        "code": "POL 4579",
+        "credits": 3,
         "description": "Analyse des principaux concepts du postmodernisme comme approche théorique et politique pour comprendre et critiquer les sociétés modernes. Origines du postmodernisme et principaux débats (ex. : relativisme culturel, résistance politique, la modernité comme mouvement d'homogénéisation). Comparaison avec d'autres approches. (PPT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables : POL 2508 et 51 crédtis de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalables : POL2508 et 51 crédtis de cours universitaires.",
         "title": "Pensée politique et postmodernisme",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4580",
+        "code": "POL 4580",
+        "credits": 3,
         "description": "Analyse des principaux concepts de la pensée politique féministe en tant que méthode d'analyse des impacts du genre sur la pensée politique et sociale. Diversité des points de vue dans la pensée politique féministe. Origines et principaux débats (ex. : la nature du patriarcat, droits des femmes, conceptions de la femme dans la pensée féministe). Analyse féministe des autres systèmes de pouvoir et d'oppression (e.g. racisme, homophobie, oppression de classe). (PPT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2508 ou 54 crédits de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2508 ou 54 crédits de cours universitaires.",
         "title": "Pensée politique féministe",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4581",
+        "code": "POL 4581",
+        "credits": 3,
         "description": "Analyse des principaux travaux de la pensée politique allemande (traduits) du 18e au 20e siècle. Thèmes de liberté, autonomie, droit, relation entre État et économie. Interprétations récentes et débats critiques. (PPT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2508 et 51 crédits de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2508 et 51 crédits de cours universitaires.",
         "title": "Pensée politique allemande",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4584",
+        "code": "POL 4584",
+        "credits": 3,
         "description": "Analyse des théories de la démocratisation et de leur utilisation pour l'étude de cas issus de diverses régions. Concepts clés, tel que la démocratie, la transition et la consolidation. Rôle des facteurs économiques, historiques et culturels, de l'architecture institutionnelle, et des acteurs nationaux et internationaux. (COMP/INT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables : POL 2504  ou POL 2503 et 51 crédits de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalables : POL2504 ou POL2503 et 51 crédits de cours universitaires.",
         "title": "Démocratisation et autoritarisme",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4588",
+        "code": "POL 4588",
+        "credits": 3,
         "description": "Analyse des façons que les théoriciens politiques ont compris les relations internationales, la politique mondiale et l'international et comment celles-ci ont forgé la théorie politique. Relation entre les principales théories politiques historiques et contemporaines et les thèmes-clés en relations internationales, tels que souveraineté étatique, ordre, impérialisme, mondialisation, guerre, pouvoir et inégalité. (INT/PPT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2503 et 51 crédits de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2503 et 51 crédits de cours universitaires.",
         "title": "Les relations internationales comme théorie politique",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4589",
+        "code": "POL 4589",
+        "credits": 3,
         "description": "Étude des relations entre politique, démocratie et droits humains. Fondements de l'État de droit, normes, justice et légitimité; organisations et dynamiques nationales et internationales des droits humains; transformation des théories et pratiques des droits humains dans les situations contemporaines, en particulier les situations de violence, notamment d'État, les conflits et les crises extrêmes. (COMP/INT/PPT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables : POL 2504 et 51 crédits universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalables : POL2504 et 51 crédits universitaires.",
         "title": "Politique et droits humains",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4590",
-        "description": "Théories et approches pour l'étude de la politique mondiale de l'environnement. Collaboration interétatique et transnationale et nouvelles pratiques de gouvernance en relation aux défis environnementaux. Acteurs et forces matérielles déterminant les réponses politiques aux défis environnementaux planétaires. Études de cas et débats contemporains sur la politique mondiale de l'environnement. (INT)",
+        "code": "POL 4590",
+        "credits": 3,
+        "description": "Théories et approches pour l'étude de la politique mondiale de l'environnement. Collaboration interétatique et transnationale et nouvelles pratiques de gouvernance en relation aux défis environnementaux.  Acteurs et forces matérielles déterminant les réponses politiques aux défis environnementaux planétaires. Études de cas et débats contemporains sur la politique mondiale de l'environnement. (INT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables : POL 2503 et 51 crédits de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalables : POL2503 et 51 crédits de cours universitaires.",
         "title": "Politique environnementale mondiale",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4591",
+        "code": "POL 4591",
+        "credits": 3,
         "description": "Études approfondies du développement des efforts critiques pour repenser l'analyse de la guerre, de la sécurité et du militarisme. La thématique centrale du séminaire variera selon les intérêts de recherche du professeur (mobilité et frontières, surveillance et biométrie, infrastructure, terrorisme, guerre et armes, sécurité environnementale et cultures du militarisme). Une attention particulière sera donnée au rôle des discours, de la culture populaire et de l'identité pour y introduire différentes approches théoriques et méthodologiques pour l'évaluation des politiques et des pratiques liées à des enjeux contemporains militaires et sécuritaires. (INT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2503 et 51 crédits de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2503 et 51 crédits de cours universitaires.",
         "title": "Études approfondies en études critiques de sécurité et de la guerre",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4592",
+        "code": "POL 4592",
+        "credits": 3,
         "description": "Études approfondies du développement des efforts critiques pour repenser l'analyse d'enjeux en économie politique internationale (EPI) et/ou gouvernance mondiale (GM). Les thèmes varieront d'une année à l'autre, mais pourraient inclure : le domaine bancaire international et les crises financières, les droits de propriété intellectuelle, la politique environnementale et les relations de travail, les relations Nord-Sud, le contrôle des activités illicites, l'inégalité mondiale, les normes et institutions transnationales et le caractère changeant du pouvoir et de l'autorité planétaires. (INT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2503 et 51 crédits de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2503 et 51 crédits de cours universitaires.",
-        "title": "Études approfondies en économie politique internationale et/ou gouvernance mondiale",
-        "year": "4"
+        "title": "Études approfondies en économie politique internationale et ou gouvernance mondiale",
+        "year": 4
     },
     {
-        "code": "POL4593",
+        "code": "POL 4593",
+        "credits": 3,
         "description": "Théories des politiques publiques et analyse de l'intervention étatique dans différents domaines au Canada. Étude de l'incidence du fédéralisme sur la formulation des politiques publiques par les gouvernements fédéral et provinciaux. (CAN)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 2501 et 51 crédits de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL2501 et 51 crédits de cours universitaires.",
         "title": "Études approfondies en politiques publiques canadiennes",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4700",
+        "code": "POL 4700",
+        "credits": 3,
         "description": "Présentations et discussions portant sur un thème particulier choisi en fonction de ressources exceptionnelles.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : 54 crédits universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalable : 54 crédits universitaires.",
-        "title": "Thèmes particuliers en science politique",
-        "year": "4"
+        "title": "Thèmes spéciaux",
+        "year": 4
     },
     {
-        "code": "POL4710",
+        "code": "POL 4710",
+        "credits": 3,
         "description": "Étude des analyses et interprétations concernant l'évolution des sociétés et des idéologies modernes. (PPT)",
+        "extraDetails": [
+            "Volet : Séminaire",
+            "Préalable : 81 crédits de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalable : 81 crédits de cours universitaires.",
         "title": "Séminaire de synthèse en pensée politique",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4720",
+        "code": "POL 4720",
+        "credits": 3,
         "description": "Étude des principales contributions ayant marqué le développement de l'analyse de la vie politique canadienne et l'application des principales théories et approches à ce domaine. (CAN)",
+        "extraDetails": [
+            "Volet : Séminaire",
+            "Préalable : 81 crédits de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalable : 81 crédits de cours universitaires.",
         "title": "Séminaire de synthèse en politique canadienne",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4730",
+        "code": "POL 4730",
+        "credits": 3,
         "description": "Étude des principales contributions ayant marqué le développement de l'analyse des relations internationales et de la politique mondiale et l'application des principales théories et approches de ce domaine. (INT)",
+        "extraDetails": [
+            "Volet : Séminaire",
+            "Préalable : 81 crédits de cours universitaires. Ce cours ne peut être combiné à POL 4930."
+        ],
         "language": "French",
-        "restriction": "Préalable : 81 crédits de cours universitaires. Ce cours ne peut être combiné à POL4930.",
         "title": "Séminaire de synthèse en relations internationales et politique mondiale",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4750",
-        "description": "Étude des principales contributions ayant marqué le développement de l'analyse de la politique comparée et application des principales théories et approches de ce domaine. (COMP)",
+        "code": "POL 4750",
+        "credits": 3,
+        "description": "Étude des principales contributions ayant marqué le développement de l'analyse de la politique comparée et application des principales théories et approches de ce domaine.  (COMP)",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
         "language": "French",
-        "restriction": "Préalable : 81 crédits de cours universitaires.",
         "title": "Séminaire de synthèse en politique comparée",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4770",
+        "code": "POL 4770",
+        "credits": 3,
         "description": "Étude du discours et de son analyse, dans ses dimensions épistémologiques, théoriques et méthodologiques. Étude pratique de diverses stratégies et techniques de recherche, telles que l'analyse critique du discours, l'analyse contextualiste de l'École de Cambridge, l'analyse de contenu, la bibliométrie, l'approche herméneutique, l'approche poststructuraliste et l'analyse sémiotique.",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalable : POL 3770 ou POL 3771."
+        ],
         "language": "French",
-        "restriction": "Préalable : POL3770 ou POL3771.",
         "title": "Analyse du discours",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4775",
+        "code": "POL 4775",
+        "credits": 3,
         "description": "Étude comparée de la question des droits sociaux et des principes de la justice redistributive, en particulier l'évolution historique et institutionnelle des politiques de sécurité du revenu et des services sociaux. Exploration des principales théories expliquant le développement et les transformations de l'État-providence dans une perspective comparée. (CAN/COMP)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables : POL 2501 et 51 crédits universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalables : POL2501 et 51 crédits universitaires.",
-        "title": "La citoyenneté sociale et l'État-providence: le Canada dans une perspective comparée",
-        "year": "4"
+        "title": "La citoyenneté sociale et l'état- providence : Le Canada une perspective comparée",
+        "year": 4
     },
     {
-        "code": "POL4776",
+        "code": "POL 4776",
+        "credits": 3,
         "description": "Étude de l'idée de vie bonne en pensée politiques classique et contemporaine (ex. : rapports entre éducation, jugement politique et régime; le vice et le mal dans l'histoire des idées; rôle des émotions en politique). (PPT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables: POL 2508 et 51 crédits universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalables: POL2508 et 51 crédits universitaires.",
         "title": "Politique et moralité",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4777",
+        "code": "POL 4777",
+        "credits": 3,
         "description": "Analyse du développement, des débats et des crises du marxisme occidental au vingtième et vingt-et-unième siècles. Poursuite et révision de l'analyse marxienne à travers l'apport des théories critiques à l'étude de la logique de la production culturelle et symbolique dans le contexte du capitalisme avancé. Contributions contemporaines à la question de l'émancipation sociale et politique. (PPT)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables : POL 2508 et 51 crédits universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalables : POL2508 et 51 crédits universitaires.",
         "title": "Postmarxisme et théories critiques",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4778",
+        "code": "POL 4778",
+        "credits": 3,
         "description": "Introduction à l'histoire politique de la Chine populaire. Analyse des institutions et des politiques publiques chinoises. Examen du rapport entre l'État et la société. (COMP)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "Préalables : POL 2504 et 51 crédits de cours universitaires."
+        ],
         "language": "French",
-        "restriction": "Préalables : POL2504 et 51 crédits de cours universitaires.",
         "title": "Politique comparée : Chine",
-        "year": "4"
+        "year": 4
     },
     {
-        "code": "POL4901",
-        "description": " ",
+        "code": "POL 4930",
+        "credits": 3,
+        "description": "Séminaire bilingue. Étude des principales contributions ayant marqué le développement de l'analyse des relations internationales et de la politique mondiale et l'application des principales théories et approches de ce domaine. Le séminaire est enseigné dans les deux langues en alternance; une semaine en français, une semaine en anglais. (INT). Réservé aux étudiants et étudiantes inscrits aux programmes bidisciplinaires et spécialisé en science politique ou au programme d'études internationales et langues modernes. / Bilingual seminar. Advanced synthesis and critique of the main debates and analytical approaches in the field of international relations and global politics. The seminar is taught in both languages alternately; one week in French, one week in English. (INT).  Reserved for students enrolled in the Joint Honours and Honours programs in Political Science or in the International Studies and Modern Languages program.",
+        "extraDetails": [
+            "Volet / Course Component: Séminaire / Seminar",
+            "Préalable : 81 crédits universitaires. Les cours POL 4330, POL 4730, POL 4930 ne peuvent être combinés pour l'obtention de crédits.  Une compétence linguistique active en français et en anglais est requise. / Prerequisite: 81 university units. Courses POL 4330, POL 4730, POL 4930 cannot be combined for units. Spoken and written proficiency in French and English is required."
+        ],
         "language": "Bilingual/Unofficial/Unspecified",
-        "restriction": " ",
-        "title": "Stage coop IV / CO-OP Work Term IV",
-        "year": "4"
-    },
-    {
-        "code": "POL4902",
-        "description": " ",
-        "language": "Bilingual/Unofficial/Unspecified",
-        "restriction": " ",
-        "title": "Stage coop V / CO-OP Work Term V",
-        "year": "4"
-    },
-    {
-        "code": "POL4930",
-        "description": "Bilingual seminar. Advanced synthesis and critique of the main debates and analytical approaches in the field of international relations and global politics. The seminar is taught in both languages alternately; one week in French, one week in English. (INT)   Séminaire bilingue. Étude des principales contributions ayant marqué le développement de l'analyse des relations internationales et de la politique mondiale et l'application des principales théories et approches de ce domaine. Le séminaire est enseigné dans les deux langues en alternance; une semaine en français, une semaine en anglais. (INT)",
-        "language": "Bilingual/Unofficial/Unspecified",
-        "restriction": "Prerequisite: 81 university credits. Courses POL4330, POL4730, POL4930 cannot be combined for credits. Reserved for students registered in the Joint Honours and Honours programs in Political Science or in the International Studies and Modern Languages program. Spoken and written proficiency in French and English is required.   Préalable : 81 crédits universitaires. Les cours POL4330, POL4730, POL4930 ne peuvent être combinés pour l'obtention de crédits. Réservé aux étudiants et étudiantes inscrits aux programmes bidisciplinaires et spécialisé en science politique ou au programme d'études internationales et langues modernes. Une compétence linguistique active en français et en anglais est requise.",
         "title": "Séminaire de synthèse en relations internationales et politique mondiale / Honours Seminar in International Relations and Global Politics",
-        "year": "4"
+        "year": 4
+    },
+    {
+        "code": "POL 5106",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Selected Topics in Political Science",
+        "year": 5
+    },
+    {
+        "code": "POL 5123",
+        "credits": 3,
+        "description": "Presentation and analysis of a contemporary issue in Canadian politics.",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Canadian Politics",
+        "year": 5
+    },
+    {
+        "code": "POL 5505",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Analyse du changement politique",
+        "year": 5
+    },
+    {
+        "code": "POL 5506",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "(IC)"
+        ],
+        "language": "French",
+        "title": "Thèmes choisis en science politique",
+        "year": 5
+    },
+    {
+        "code": "POL 5523",
+        "credits": 3,
+        "description": "Présentation et analyse d'un enjeu contemporain dans la politique canadienne. (CAN)",
+        "extraDetails": [
+            "Volet : Cours magistral",
+            "(CAN)"
+        ],
+        "language": "French",
+        "title": "Politique canadienne",
+        "year": 5
+    },
+    {
+        "code": "POL 6100",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
+        "language": "English",
+        "title": "Seminar in International Relations",
+        "year": 6
+    },
+    {
+        "code": "POL 6101",
+        "credits": 3,
+        "description": "Examination of the methodological approaches used in political analysis, including the epistemological issues surrounding these approaches. A portion of the seminar deals with the challenges of designing a thesis proposal and writing the thesis itself.",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
+        "language": "English",
+        "title": "Research Methods in Political Science",
+        "year": 6
+    },
+    {
+        "code": "POL 6118",
+        "credits": 3,
+        "description": "Critical study of the principal theoretical approaches in comparative politics, the debates about them and the different methodological frameworks in comparative politics.",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
+        "language": "English",
+        "title": "Core Seminar in Comparative Politics",
+        "year": 6
+    },
+    {
+        "code": "POL 6119",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
+        "language": "English",
+        "title": "Seminar in Canadian and Quebec Politics",
+        "year": 6
+    },
+    {
+        "code": "POL 6120",
+        "credits": 3,
+        "description": "Examination of certain themes related to the birth and development of modern political thought, with reference to the history of political ideas. For example, the course explores the origins and development of the modern state, including how the relationship between politics and religion, and between politics and the economy, has changed.",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
+        "language": "English",
+        "title": "Seminar in Political Thought",
+        "year": 6
+    },
+    {
+        "code": "POL 6500",
+        "credits": 3,
+        "description": "L'objectif de ce cours est de présenter les principaux schémas d'analyse en politique internationale et comparée, et de les relier de façon critique. Il s'agira d'une analyse des apports méthodologiques et théoriques dans les deux champs d'étude.",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
+        "language": "French",
+        "title": "Séminaire en relations internationales",
+        "year": 6
+    },
+    {
+        "code": "POL 6501",
+        "credits": 3,
+        "description": "Étude de différentes approches méthodologiques utilisées dans l'analyse du politique. Examen des questions épistémologiques associées à ces diverses approches. Une partie du séminaire portera sur les problèmes confrontés dans l'élaboration du projet de thèse et de la thèse.",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
+        "language": "French",
+        "title": "La méthode en science politique",
+        "year": 6
+    },
+    {
+        "code": "POL 6518",
+        "credits": 3,
+        "description": "Séminaire noyau visant à étudier de manière critique les principales approches théoriques de la politique comparée, les débats qui sont engagés entre elles et les différents cadres méthodologiques de la politique comparée.",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
+        "language": "French",
+        "title": "Séminaire en politique comparée",
+        "year": 6
+    },
+    {
+        "code": "POL 6519",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
+        "language": "French",
+        "title": "Séminaire en politique canadienne et québécoise",
+        "year": 6
+    },
+    {
+        "code": "POL 6520",
+        "credits": 3,
+        "description": "L'objectif de ce cours est de présenter certaines thématiques liées à la naissance et au développement de la pensée politique moderne. Référence à l'histoire des idées politiques. Il sera question, par exemple, de thématiques telles les origines et le développement de l'État moderne, l'évolution des rapports entre le religieux et le politique, et entre l'économique et le politique.",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
+        "language": "French",
+        "title": "Séminaire en pensée politique",
+        "year": 6
+    },
+    {
+        "code": "POL 6999",
+        "credits": 0,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "Projet de thèse / Thesis Proposal",
+        "year": 6
+    },
+    {
+        "code": "POL 7102",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Selected Topics in International Relations",
+        "year": 7
+    },
+    {
+        "code": "POL 7103",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Selected Topics in Political Thought",
+        "year": 7
+    },
+    {
+        "code": "POL 7104",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Selected Topics in Canadian and Quebec Politics",
+        "year": 7
+    },
+    {
+        "code": "POL 7105",
+        "credits": 3,
+        "description": "Study of the diverse ways that political thought has conceptualized power, the forms it takes, the ways it functions and its impact on/in politics and society. The approach may be historical or thematic. The exact topic is announced at the beginning of the session.",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Power, Politics, and Society",
+        "year": 7
+    },
+    {
+        "code": "POL 7106",
+        "credits": 3,
+        "description": "Study of the foundations of subjectivity and intersubjectivity. The approach may be historical or thematic. The exact topic is announced at the beginning of the session.",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Subjectivity and Intersubjectivity",
+        "year": 7
+    },
+    {
+        "code": "POL 7107",
+        "credits": 3,
+        "description": "Study of the authors, schools of thought and ideologies that constitute modernity. The exact topic is announced at the beginning of the session.",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
+        "language": "English",
+        "title": "Foundations of Modern Political Thought",
+        "year": 7
+    },
+    {
+        "code": "POL 7108",
+        "credits": 3,
+        "description": "Study of various ways of understanding nature and of the importance of ideas, values/principles, and ideology in the context of social and political change. The approach may be historical or thematic. The exact topic is announced at the beginning of the session.",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Ideology and Social Transformation",
+        "year": 7
+    },
+    {
+        "code": "POL 7109",
+        "credits": 3,
+        "description": "Analysis of institutions and practices of regulation at the international level in the context of globalization. Study of major trends in national and international governance, including forces of resistance. Case studies.",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Governance and Globalization",
+        "year": 7
+    },
+    {
+        "code": "POL 7110",
+        "credits": 3,
+        "description": "Analysis of the political aspects of the international economy and how economic issues affect societies and international politics. Case studies. Examination of historical and contemporary theoretical approaches.",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "International Political Economy",
+        "year": 7
+    },
+    {
+        "code": "POL 7111",
+        "credits": 3,
+        "description": "Analysis of issues relating to the production, control and use of space in world order. Study of diverse contemporary theories concerning space and territoriality.",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Space and Territoriality",
+        "year": 7
+    },
+    {
+        "code": "POL 7112",
+        "credits": 3,
+        "description": "Analysis of the causes, mechanisms and consequences of inter-state conflicts (wars, crises) and/or intra-state conflicts (civil war, secession). Examination of relevant theoretical literature.",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
+        "language": "English",
+        "title": "Security and Conflict: Contemporary Issues",
+        "year": 7
+    },
+    {
+        "code": "POL 7113",
+        "credits": 3,
+        "description": "Analysis of contemporary citizenship and identity issues in Canada. The approach may be historical or thematic, and the exact topic is announced at the beginning of the session.",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Citizenship and Identity",
+        "year": 7
+    },
+    {
+        "code": "POL 7114",
+        "credits": 3,
+        "description": "Analysis of constitutional and institutional issues in contemporary Canadian politics. The exact topic is announced at the beginning of the session.",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Constitution and Institutions",
+        "year": 7
+    },
+    {
+        "code": "POL 7115",
+        "credits": 3,
+        "description": "Analysis of current issues affecting political forces in Canada: parties, groups and movements. The exact topic is announced at the beginning of the session.",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Political Parties and Movements",
+        "year": 7
+    },
+    {
+        "code": "POL 7116",
+        "credits": 3,
+        "description": "Analysis of current public-policy issues in Canada. The exact topic is announced at the beginning of the session.",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
+        "language": "English",
+        "title": "Public Policy",
+        "year": 7
+    },
+    {
+        "code": "POL 7117",
+        "credits": 3,
+        "description": "In this seminar, taught by at least two professors, students examine a topic that draws on knowledge from at least two of the program's fields of study (political thought, Canadian politics, international politics). The exact topic is announced at the beginning of the session.",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Inter-Field Seminar",
+        "year": 7
+    },
+    {
+        "code": "POL 7119",
+        "credits": 3,
+        "description": "Study of theories of state-building and transformation (including strategies of adaptation within a context of globalisation; issues of state collapse), as well as the study of democratic and authoritarian regimes and their transformations (transition, consolidation, collapse ), in a comparative perspective.",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Creation and Transformation of States and Political Regimes",
+        "year": 7
+    },
+    {
+        "code": "POL 7120",
+        "credits": 3,
+        "description": "Study of theoretical approaches concerning the evolution of power relations between states and markets in different regions of the world ; of the political economy of social movements; of political struggles regarding socio-economic inequalities. The emphasis will be on the political economy of both developing states and of highly industrialised countries.",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Comparative Political Economy",
+        "year": 7
+    },
+    {
+        "code": "POL 7121",
+        "credits": 3,
+        "description": "Study of theories concerning identity (primordialism, instrumentalism, constructivism) and of the role of ethnic, national, religious, linguistic and gender identities in political processes (violence, accommodation among different identity groups, management of diverse identities by the state).",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
+        "language": "English",
+        "title": "Comparative Politics of Identity",
+        "year": 7
+    },
+    {
+        "code": "POL 7122",
+        "credits": 3,
+        "description": "Topics to be covered in rotation: Africa, Latin America, Asia, Middle East and former Soviet bloc (and possibly Western Europe/United States).",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
+        "language": "English",
+        "title": "Special Topics in Comparative Politics",
+        "year": 7
+    },
+    {
+        "code": "POL 7135",
+        "credits": 3,
+        "description": "Advanced quantitative methods and their application in political science. Topics include multivariate regression analysis, maximum likelihood estimation and panel analysis. Review of advanced software packages for data organisation and development of tools for data collection.",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Advanced Quantitative Methods",
+        "year": 7
+    },
+    {
+        "code": "POL 7136",
+        "credits": 3,
+        "description": "Qualitative research methods and their application in political science. The methods covered include fieldwork, interviews, participant observations, archival research and discourse analysis.",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Advanced Qualitative Methods",
+        "year": 7
+    },
+    {
+        "code": "POL 7137",
+        "credits": 3,
+        "description": "Interpretative or critical methodologies and their application in political science: genealogy, deconstructivism, fieldwork approach, feminist analysis, new materialism, and decolonising methodologies.",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Interpretative or Critical Methodologies",
+        "year": 7
+    },
+    {
+        "code": "POL 7366",
+        "credits": 3,
+        "description": "Advanced reflection on the methodological aspects and issues of thesis research (methods of inquiry, practical considerations, data analysis , interpretation of results, etc.). Students acquire the knowledge needed to design and formulate the thesis proposal. This seminar is reserved for PhD students in Political Science. It is offered once every two weeks over two consecutive sessions.",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
+        "language": "English",
+        "title": "Doctoral Methodology Seminar",
+        "year": 7
+    },
+    {
+        "code": "POL 7366",
+        "credits": 0,
+        "description": "Advanced reflection on the methodological aspects and issues of thesis research (methods of inquiry, practical considerations, data analysis , interpretation of results, etc.). Students acquire the knowledge needed to design and formulate the thesis proposal. This seminar is reserved for PhD students in Political Science. It is offered once every two weeks over two consecutive sessions. (Part 1 of 2)",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
+        "language": "English",
+        "title": "Doctoral Methodology Seminar (Part 1 of 2)",
+        "year": 7
+    },
+    {
+        "code": "POL 7366",
+        "credits": 3,
+        "description": "Advanced reflection on the methodological aspects and issues of thesis research (methods of inquiry, practical considerations, data analysis , interpretation of results, etc.). Students acquire the knowledge needed to design and formulate the thesis proposal. This seminar is reserved for PhD students in Political Science. It is offered once every two weeks over two consecutive sessions. (Part 2 of 2)",
+        "extraDetails": [
+            "Volet : Séminaire",
+            "Prerequisite: POL73661"
+        ],
+        "language": "English",
+        "title": "Doctoral Methodology Seminar (Part 2 of 2)",
+        "year": 7
+    },
+    {
+        "code": "POL 7502",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
+        "language": "French",
+        "title": "Thèmes choisis en relations internationales",
+        "year": 7
+    },
+    {
+        "code": "POL 7503",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Thèmes choisis en pensée politique",
+        "year": 7
+    },
+    {
+        "code": "POL 7504",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Thèmes choisis en politique canadienne et québécoise",
+        "year": 7
+    },
+    {
+        "code": "POL 7505",
+        "credits": 3,
+        "description": "Étude de diverses conceptualisations du pouvoir, de ses formes, de ses modes de fonctionnement et de son impact sur la politique et la société. L'approche adoptée peut être historique ou thématique. L'objet d'étude spécifique sera présenté en début de session.",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
+        "language": "French",
+        "title": "Pouvoir, politique et société",
+        "year": 7
+    },
+    {
+        "code": "POL 7506",
+        "credits": 3,
+        "description": "Étude des fondements de la subjectivité et de l'intersubjectivité. L'approche adoptée peut être historique ou thématique. L'objet d'étude spécifique sera présenté en début de session.",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Subjectivité et intersubjectivité",
+        "year": 7
+    },
+    {
+        "code": "POL 7507",
+        "credits": 3,
+        "description": "Étude d'auteurs, de courants de pensée ou d'idéologies qui son constitutifs de la modernité. L'objet d'étude spécifique sera présenté en début de session.",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Fondements de la pensée politique moderne",
+        "year": 7
+    },
+    {
+        "code": "POL 7508",
+        "credits": 3,
+        "description": "Étude de diverses conceptions de la nature et de l'importance des idées, des valeurs / principes et des idéologies dans le contexte du changement politique et social. L'approche adoptée peut être historique ou thématique. L'objet d'étude spécifique sera présenté en début de session.",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
+        "language": "French",
+        "title": "Transformations sociales et idéologies",
+        "year": 7
+    },
+    {
+        "code": "POL 7509",
+        "credits": 3,
+        "description": "Analyse des institutions et des pratiques de régulation politique à l'échelle internationale dans le contexte de la mondialisation.  Étude des grands courants de changement de la gouvernance nationale et internationale, y compris les forces de résistance.  Études de cas.",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
+        "language": "French",
+        "title": "Gouvernance et mondialisation",
+        "year": 7
+    },
+    {
+        "code": "POL 7510",
+        "credits": 3,
+        "description": "Analyse des aspects politiques de l'économie internationale et de l'influence des enjeux économiques sur la politique internationale et les sociétés. Étude de cas. Examen d'approches théoriques contemporaines et historiques.",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Écononmie politique internationale",
+        "year": 7
+    },
+    {
+        "code": "POL 7511",
+        "credits": 3,
+        "description": "Analyse des enjeux reliés à la production, au contrôle et à l'utilisation de l'espace dans l'ordre mondial. Étude de diverses approches théoriques contemporaines qui abordent les enjeux de l'espace et de la territorialité.",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Espace et territorialité",
+        "year": 7
+    },
+    {
+        "code": "POL 7512",
+        "credits": 3,
+        "description": "Analyse des causes, mécanismes et conséquences des conflits inter-étatiques (guerres, crises) et/ou intra-étatiques (guerres civiles, sécession).  Exploration de corpus théoriques pertinents.",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Sécurité et conflits : Enjeux contemporains",
+        "year": 7
+    },
+    {
+        "code": "POL 7513",
+        "credits": 3,
+        "description": "Analyse d'enjeux contemporains en matière de citoyenneté ou d'identités au Canada.  L'approche adoptée peut être historique ou thématique. L'objet d'étude spécifique sera présenté en début de session.",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
+        "language": "French",
+        "title": "Citoyenneté et identités",
+        "year": 7
+    },
+    {
+        "code": "POL 7514",
+        "credits": 3,
+        "description": "Analyse d'enjeux constitutionnels ou institutionnels dans la politique canadienne contemporaine.  L'objet d'étude spécifique sera présenté en début de session.",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Constitution et institutions",
+        "year": 7
+    },
+    {
+        "code": "POL 7515",
+        "credits": 3,
+        "description": "Analyse d'enjeux contemporains touchant les forces politiques au Canada : partis, groupes et mouvements.  L'objet d'étude spécifique sera présenté en début de session.",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Forces politiques",
+        "year": 7
+    },
+    {
+        "code": "POL 7516",
+        "credits": 3,
+        "description": "Analyse d'enjeux contemporains en matière de politiques publiques au Canada. L'objet d'étude spécifique sera présenté en début de session.",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Politique publique",
+        "year": 7
+    },
+    {
+        "code": "POL 7517",
+        "credits": 3,
+        "description": "Dans ce séminaire, animé par au moins deux professeurs, sera examiné un objet d'études qui fait appel à des compétences relevant d'au moins deux des profils de l'École (pensée politique, politique canadienne, relations internationales).  L'objet d'étude spécifique sera présenté en début de session.",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Séminaire interprofils",
+        "year": 7
+    },
+    {
+        "code": "POL 7519",
+        "credits": 3,
+        "description": "Étude des théories portant sur la construction historique des États et leurs transformations (adaptation dans un contexte de mondialisation; effondrement des États), de même que les régimes démocratiques et autoritaires et leurs transformations (transition, consolidation, effondrement), le tout dans une perspective comparée.",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
+        "language": "French",
+        "title": "Construction et transformation des états et des régimes politiques",
+        "year": 7
+    },
+    {
+        "code": "POL 7520",
+        "credits": 3,
+        "description": "Étude des approches théoriques portant sur l'évolution des rapports de force entre les États et les marchés dans les différentes régions du monde; sur l'économie politique des mouvements sociaux; sur les luttes politiques autour des inégalités socio-économiques. L'accent sera mis aussi bien sur l'économie politique des États en développement, que sur celle des pays fortement industrialisés.",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Économie politique comparée",
+        "year": 7
+    },
+    {
+        "code": "POL 7521",
+        "credits": 3,
+        "description": "Études des théories relatives aux identités (primordialisme, instrumentalisme, constructivisme) et du rôle des identités ethniques, nationales, religieuses, linguistiques et de genre dans les processus politiques (violence, accommodement identitaire, gestion de la diversité identitaire par l'État).",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Politique comparée des identités",
+        "year": 7
+    },
+    {
+        "code": "POL 7522",
+        "credits": 3,
+        "description": "Thèmes à couvrir en rotation : Afrique, Amérique latine, Asie, Moyen-Orient et ancien bloc soviétique et possiblement Europe de l'Ouest/États-Unis.",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
+        "language": "French",
+        "title": "Thèmes choisis en politique comparée",
+        "year": 7
+    },
+    {
+        "code": "POL 7531",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Lectures dirigées : Études politiques canadiennes",
+        "year": 7
+    },
+    {
+        "code": "POL 7532",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Lectures dirigées : Politique internationale",
+        "year": 7
+    },
+    {
+        "code": "POL 7535",
+        "credits": 3,
+        "description": "Les méthodologies quantitatives d'analyse avancées et leur application en science politique. Les sujets incluent l'analyse de la régression multivariée, les modèles de la parcimonie ou de la probabilité maximales, et les analyses panels. Initiation aux logiciels avancés d'organisation de données et à la construction d'outils de collecte de données.",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
+        "language": "French",
+        "title": "Méthodologies quantitatives avancées",
+        "year": 7
+    },
+    {
+        "code": "POL 7536",
+        "credits": 3,
+        "description": "Les méthodologies qualitatives d'analyse avancées et leur application en science politique. Les méthodologies étudiées incluent les suivantes : recherche terrain, entretiens, observation de participation, recherche dans les archives, et analyses de discours.",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Méthodologies qualitatives avancées",
+        "year": 7
+    },
+    {
+        "code": "POL 7537",
+        "credits": 3,
+        "description": "Les méthodologies interprétatives ou critiques et leur application en science politique : la généalogie, la déconstruction, l'approche de terrain, l'analyse féministe, le nouveau matérialisme, les méthodologies de la décolonisation.",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Méthodologies interprétatives ou critiques",
+        "year": 7
+    },
+    {
+        "code": "POL 7766",
+        "credits": 3,
+        "description": "Réflexion approfondie sur les questions liées à la dimension méthodologique du travail de thèse. Modes d'investigation, organisation matérielle de la recherche, interprétation des données, appréciation des résultats, etc. Développement des connaissances nécessaires pour concevoir et formuler le projet de thèse. Ce séminaire est réservé aux étudiants du doctorat en science politique. Il est offert une fois par deux semaines sur deux sessions consécutives.",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
+        "language": "French",
+        "title": "Séminaire doctoral de méthodologie",
+        "year": 7
+    },
+    {
+        "code": "POL 7766",
+        "credits": 0,
+        "description": "Réflexion approfondie sur les questions liées à la dimension méthodologique du travail de thèse. Modes d'investigation, organisation matérielle de la recherche, interprétation des données, appréciation des résultats, etc. Développement des connaissances nécessaires pour concevoir et formuler le projet de thèse. Ce séminaire est réservé aux étudiants du doctorat en science politique. Il est offert une fois par deux semaines sur deux sessions consécutives. (Partie 1 de 2)",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
+        "language": "French",
+        "title": "Séminaire doctoral de méthodologie (Partie 1 de 2)",
+        "year": 7
+    },
+    {
+        "code": "POL 7766",
+        "credits": 3,
+        "description": "Réflexion approfondie sur les questions liées à la dimension méthodologique du travail de thèse. Modes d'investigation, organisation matérielle de la recherche, interprétation des données, appréciation des résultats, etc. Développement des connaissances nécessaires pour concevoir et formuler le projet de thèse. Ce séminaire est réservé aux étudiants du doctorat en science politique. Il est offert une fois par deux semaines sur deux sessions consécutives. (Partie 2 de 2)",
+        "extraDetails": [
+            "Volet : Séminaire",
+            "Préalable : POL77661"
+        ],
+        "language": "French",
+        "title": "Séminaire doctoral de méthodologie (Partie 2 de 2)",
+        "year": 7
+    },
+    {
+        "code": "POL 7979",
+        "credits": 6,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "Mémoire / Research Paper",
+        "year": 7
+    },
+    {
+        "code": "POL 7989",
+        "credits": 0,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "Thèse de maîtrise / Master's Thesis (12 crédits / 12 units)",
+        "year": 7
+    },
+    {
+        "code": "POL 8100",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Lecture"
+        ],
+        "language": "English",
+        "title": "Directed Readings",
+        "year": 8
+    },
+    {
+        "code": "POL 8110",
+        "credits": 3,
+        "description": "Evolution of theories and concepts in political economy as an approach to studying international affairs. Examination of various schools of thought.",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
+        "language": "English",
+        "title": "Seminar in the Minor Field: International Relations",
+        "year": 8
+    },
+    {
+        "code": "POL 8111",
+        "credits": 3,
+        "description": "Study of the evolution of theories, concepts and methods in comparative politics as an approach to studying domestic politics and transnational influences, including states, regimes and institutions; the politics of identity; and political economy.",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
+        "language": "English",
+        "title": "Seminar in the Minor Field: Comparative Politics",
+        "year": 8
+    },
+    {
+        "code": "POL 8112",
+        "credits": 3,
+        "description": "The fundamentals of political economy as an approach to studying political phenomena. Canada's place in the global economy, intergovernmental relations, social movements and changes in the forms of federal intervention are among the topics covered.",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
+        "language": "English",
+        "title": "Seminar in the Minor Field: Canadian and Québec Politics",
+        "year": 8
+    },
+    {
+        "code": "POL 8113",
+        "credits": 3,
+        "description": "Examination of key ideological movements (key questions, main concepts, major texts). Analysis of theories on the formation and transformation of ideologies. Contemporary ideological dynamics.",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
+        "language": "English",
+        "title": "Seminar in the Minor Field: Political Thought",
+        "year": 8
+    },
+    {
+        "code": "POL 8500",
+        "credits": 3,
+        "description": "",
+        "extraDetails": [
+            "Volet : Cours magistral"
+        ],
+        "language": "French",
+        "title": "Lectures dirigées",
+        "year": 8
+    },
+    {
+        "code": "POL 8510",
+        "credits": 3,
+        "description": "Évolution des théories et des concepts de l'économie politique en tant qu'approche servant à l'étude de la réalité internationale. Examen de différentes écoles de pensée.",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
+        "language": "French",
+        "title": "Séminaire dans le champ mineur : Relation internationale",
+        "year": 8
+    },
+    {
+        "code": "POL 8511",
+        "credits": 3,
+        "description": "Étude de l'évolution des théories, concepts et méthodes de la politique comparée en tant qu'approche servant à l'étude de phénomènes politiques internes aux États ainsi qu'à l'étude des influences transnationales, notamment : États, régimes et institutions; identités en politique; économie politique.",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
+        "language": "French",
+        "title": "Séminaire dans le champ mineur : Politique comparée",
+        "year": 8
+    },
+    {
+        "code": "POL 8512",
+        "credits": 3,
+        "description": "Fondements de l'économie politique en tant qu'approche servant à l'étude des phénomènes politiques. La place du Canada dans l'économie mondiale, les relations intergouvernementales, les mouvements sociaux et l'évolution des formes d'intervention de l'État fédéral.",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
+        "language": "French",
+        "title": "Séminaire dans le champ mineur : Politique canadienne et québécoise",
+        "year": 8
+    },
+    {
+        "code": "POL 8513",
+        "credits": 3,
+        "description": "Les principaux mouvements idéologiques : problématiques, concepts et œuvres. Analyse des théories de la formation et de la transformation des idéologies. La dynamique contemporaine des idéologies.",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
+        "language": "French",
+        "title": "Séminaire dans le champ mineur : Pensée politique",
+        "year": 8
+    },
+    {
+        "code": "POL 9200",
+        "credits": 6,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
+        "language": "English",
+        "title": "Theories and Problems in International Relations",
+        "year": 9
+    },
+    {
+        "code": "POL 9218",
+        "credits": 6,
+        "description": "Study of the evolution of theories, concepts and methods in comparative politics as an approach to studying domestic politics and transnational influences, including states, regimes and institutions; the politics of identity; and political economy. The comprehensive examination in the major field is held at the end of the course.",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
+        "language": "English",
+        "title": "Theories and Problems in Comparative Politics",
+        "year": 9
+    },
+    {
+        "code": "POL 9219",
+        "credits": 6,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
+        "language": "English",
+        "title": "Theories and Problems in Canadian and Quebec Politics",
+        "year": 9
+    },
+    {
+        "code": "POL 9220",
+        "credits": 6,
+        "description": "Examination of key ideological movements (key questions, main concepts, major texts). Analysis of theories on the formation and transformation of ideologies. Contemporary ideological dynamics.",
+        "extraDetails": [
+            "Course Component: Seminar"
+        ],
+        "language": "English",
+        "title": "Theories and Problems in Analysis of Political Ideology's",
+        "year": 9
+    },
+    {
+        "code": "POL 9310",
+        "credits": 0,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Research"
+        ],
+        "language": "English",
+        "title": "Comprehensive Examination in the Major Field",
+        "year": 9
+    },
+    {
+        "code": "POL 9320",
+        "credits": 0,
+        "description": "Prerequisite: POL 8110 or POL 8111 or POL 8112 or POL 8113.",
+        "extraDetails": [
+            "Course Component: Tutorial",
+            "Prerequisites: POL 8110 or POL 8111 or POL 8112 or POL 8113"
+        ],
+        "language": "English",
+        "title": "Comprehensive Examination in the Minor Field",
+        "year": 9
+    },
+    {
+        "code": "POL 9350",
+        "credits": 0,
+        "description": "",
+        "extraDetails": [
+            "Course Component: Research"
+        ],
+        "language": "English",
+        "title": "Thesis Proposal",
+        "year": 9
+    },
+    {
+        "code": "POL 9600",
+        "credits": 6,
+        "description": "Évolution des théories et des concepts de l'économie politique en tant qu'approche servant à l'étude de la réalité internationale. Examen de différentes écoles de pensée. L'examen de synthèse dans le domaine majeur se tiendra à la fin du cours.",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
+        "language": "French",
+        "title": "Théories et problèmes en relations internationales",
+        "year": 9
+    },
+    {
+        "code": "POL 9618",
+        "credits": 6,
+        "description": "Étude de l'évolution des théories, concepts et méthodes de la politique comparée en tant qu'approche servant à l'étude de phénomènes politiques internes aux États ainsi qu à l'étude des influences transnationales, notamment : États, régimes et institutions; identités en politique; économie politique. L'examen de synthèse dans le domaine majeur se tiendra à la fin du cours.",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
+        "language": "French",
+        "title": "Théories et problèmes en politique comparée",
+        "year": 9
+    },
+    {
+        "code": "POL 9619",
+        "credits": 6,
+        "description": "Fondements de l'économie politique en tant qu'approche servant à l'étude des phénomènes politiques. La place du Canada dans l'économie mondiale, les relations intergouvernementales, les mouvements sociaux et l'évolution des formes d'intervention de l'État fédéral. L'examen de synthèse dans le domaine majeur se tiendra à la fin du cours.",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
+        "language": "French",
+        "title": "Théories et problèmes en politique canadienne et québécoise",
+        "year": 9
+    },
+    {
+        "code": "POL 9620",
+        "credits": 6,
+        "description": "Les principaux mouvements idéologiques : problématiques, concepts et oeuvres. Analyse des théories de la formation et de la transformation des idéologies. La dynamique contemporaine des idéologies. L'examen de synthèse dans le domaine majeur se tiendra à la fin du cours.",
+        "extraDetails": [
+            "Volet : Séminaire"
+        ],
+        "language": "French",
+        "title": "Théories et problèmes en pensée politique",
+        "year": 9
+    },
+    {
+        "code": "POL 9710",
+        "credits": 0,
+        "description": "",
+        "extraDetails": [
+            "Volet : Recherche"
+        ],
+        "language": "French",
+        "title": "Examen de synthèse du domaine majeur",
+        "year": 9
+    },
+    {
+        "code": "POL 9720",
+        "credits": 0,
+        "description": "",
+        "extraDetails": [
+            "Volet : Tutoriel",
+            "Préalable : POL 8510 ou POL 8511 ou POL 8512 ou POL 8513."
+        ],
+        "language": "French",
+        "title": "Examen de synthèse du domaine mineur",
+        "year": 9
+    },
+    {
+        "code": "POL 9750",
+        "credits": 0,
+        "description": "",
+        "extraDetails": [
+            "Volet : Recherche"
+        ],
+        "language": "French",
+        "title": "Projet de thèse",
+        "year": 9
+    },
+    {
+        "code": "POL 9999",
+        "credits": 0,
+        "description": "",
+        "extraDetails": [
+            "Volet / Course Component: Recherche / Research"
+        ],
+        "language": "Bilingual/Unofficial/Unspecified",
+        "title": "Thèse de doctorat / PhD Thesis Research",
+        "year": 9
     }
 ]

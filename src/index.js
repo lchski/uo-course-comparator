@@ -3,6 +3,7 @@ import { render } from 'react-dom';
 import { BrowserRouter } from 'react-router';
 
 import App from './components/App';
+import registerServiceWorker from './registerServiceWorker';
 
 const Root = () => {
   return (
@@ -15,3 +16,4 @@ const Root = () => {
 };
 
 render( <Root/>, document.getElementById('root') );
+registerServiceWorker();

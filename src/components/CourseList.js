@@ -104,11 +104,18 @@ class CourseList extends React.Component {
     });
   }
 
-  doesCoursePassFilters(course, searchResults) {
+  doesCoursePassFilters(course) {
+    const searchQuery = (content) => content.indexOf(this.state.filters.search) !== -1;
+
+    let searchResults = ['title', 'description', 'code'].map((field) => searchQuery(course[field]));
+    let extraDetailsSearchResults = course.extraDetails.map((detail) => searchQuery(detail));
+
+    searchResults.push(extraDetailsSearchResults);
+
     const filterConditions = [
       this.state.filters.language.indexOf(course.language.toLowerCase()) !== -1,
       this.state.filters.year.indexOf(course.year) !== -1,
-      this.state.filters.search === '' || searchResults.includes(course)
+      this.state.filters.search === '' || searchResults.some((field) => field)
     ];
 
     return filterConditions.every((condition) => condition);
@@ -118,13 +125,6 @@ class CourseList extends React.Component {
     const wrapperClasses = classNames({
       [this.props.className]: true
     });
-
-    const fuzzySearch = new Fuse(this.props.courses, {
-      keys: ['title', 'description', 'code', 'restriction'],
-      threshold: 0.5
-    });
-
-    const searchResults = fuzzySearch.search(this.state.filters.search);
 
     return (
       <div className={wrapperClasses}>
@@ -141,7 +141,7 @@ class CourseList extends React.Component {
               let boundToggleOpenState = this.toggleOpenState.bind(null, course.code);
               let boundToggleInterestedCourse = this.props.toggleInterestedCourse.bind(null, course.code);
 
-              if (this.doesCoursePassFilters(course, searchResults)) {
+              if (this.doesCoursePassFilters(course)) {
                 return <Course
                   key={course.code}
                   course={course}

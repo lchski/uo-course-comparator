@@ -106,10 +106,10 @@ class CourseList extends React.Component {
   doesCoursePassFilters(course) {
     const searchQuery = (content) => content.indexOf(this.state.filters.search) !== -1;
 
-    let searchResults = ['title', 'description', 'code'].map((field) => searchQuery(course[field]));
-    let extraDetailsSearchResults = course.extraDetails.map((detail) => searchQuery(detail));
+    const keysSearchResults = ['title', 'description', 'code'].map((field) => searchQuery(course[field]));
+    const extraDetailsSearchResults = course.extraDetails.map((detail) => searchQuery(detail));
 
-    searchResults.push(extraDetailsSearchResults);
+    const searchResults = [].concat(keysSearchResults, extraDetailsSearchResults);
 
     const filterConditions = [
       this.state.filters.language.indexOf(course.language.toLowerCase()) !== -1,

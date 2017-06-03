@@ -1,7 +1,6 @@
 import React from 'react';
 
 import classNames from 'classnames';
-import Fuse from 'fuse.js';
 
 import CourseFilters from './CourseFilters';
 import BasicButton from './Buttons/BasicButton';

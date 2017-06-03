@@ -4,7 +4,6 @@
   "private": true,
   "devDependencies": {
     "classnames": "^2.2.5",
-    "fuse.js": "^2.6.1",
     "react-router": "next",
     "react-scripts": "1.0.7",
     "superagent": "^3.3.1",

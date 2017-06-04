@@ -30,7 +30,7 @@ class SelectedCourseViewer extends React.Component {
 
     const filteredDepartments = this.props.departments.filter((department) => extractedDepartments.includes(department.code));
 
-    const displayedDepartments = new Set(filteredDepartments);
+    const displayedDepartments = new Set(filteredDepartments.map((department) => department.code));
 
     this.setState({ filteredCourses, filteredDepartments, displayedDepartments });
   }
@@ -75,7 +75,7 @@ class SelectedCourseViewer extends React.Component {
           className="mt4"
           toggleInterestedCourse={this.props.toggleInterestedCourse}
           interestedCourses={this.props.interestedCourses}
-          courses={this.state.filteredCourses}
+          courses={this.state.filteredCourses.filter((course) => this.state.displayedDepartments.has(course.code.substr(0, 3)))}
         />
       </div>
     )
